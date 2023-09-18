@@ -2941,6 +2941,8 @@ function Osi.Follow(follower, leader) end
 function Osi.ForceTurnBasedMode(playerCharacter, onOff) end
 
 ---@param character CHARACTER
+#You can't control a freezed character. Will still be displayed in battle mod, but auto turn skip. Can take damage.
+#ex : Osi.freeze(GetHostCharacter())
 function Osi.Freeze(character) end
 
 function Osi.GameEnd() end
@@ -2962,6 +2964,8 @@ function Osi.GenerateTreasure(inventoryHolder, treasureID, level, finder) end
 ---@param amount number
 ---@param optionalReasonLocalizedTextKey string
 ---@param optionalDescriptionLocalizedTextKey string
+# Give inspiration points to a character
+# ex : Osi.GiveInspirationPoints(GetHostCharacter(), 6, "Very satisfied", "Won't anybody be happy with that much inspiration ?")
 function Osi.GiveInspirationPoints(character, amount, optionalReasonLocalizedTextKey, optionalDescriptionLocalizedTextKey) end
 
 ---@param dialog DIALOGRESOURCE
@@ -3088,12 +3092,14 @@ function Osi.IterateTagsCategory(category, event, finishEvent) end
 function Osi.IterateUsers(event, completionEvent) end
 
 ---@param target GUIDSTRING
+# ex : Osi.LeaveCombat(GetHostCharacter())
 function Osi.LeaveCombat(target) end
 
 ---@param userId integer
 function Osi.LeaveParty(userId) end
 
 ---@param playerCharacter CHARACTER
+# ex : Osi.LeaveSharedTurnBaseMode(GetHostCharacter())
 function Osi.LeaveSharedTurnBaseMode(playerCharacter) end
 
 ---@param entity GUIDSTRING
@@ -3188,6 +3194,7 @@ function Osi.MagicPocketsMoveToByTag(player, tags, amount, destinationInventory,
 function Osi.MagicPocketsMoveToByTemplate(player, template, amount, destinationInventory, showNotification, clearOriginalOwner) end
 
 ---@param character CHARACTER
+# ex : Osi.MakeNPC(GetHostCharacter())
 function Osi.MakeNPC(character) end
 
 ---@param source CHARACTER
@@ -3331,6 +3338,7 @@ function Osi.OpenWaypointUI(character, currentWaypoint, item, isFleeing) end
 
 ---@param character CHARACTER
 ---@param count integer
+# ex : Osi.PartyAddGold(GetHostCharacter(), 1000)
 function Osi.PartyAddGold(character, count) end
 
 ---@param player CHARACTER
@@ -3750,6 +3758,8 @@ function Osi.ResetTutorialsRequest(userID, askPlayer) end
 function Osi.RestoreAnubisState(character) end
 
 ---@param character CHARACTER
+# Restore party health to full
+# ex : Osi.RestoreParty(GetHostCharacter())
 function Osi.RestoreParty(character) end
 
 ---@param combatGuid GUIDSTRING
@@ -3874,6 +3884,8 @@ function Osi.SetCharacterLootOwned(character, bool) end
 
 ---@param character CHARACTER
 ---@param value integer
+# ex : Osi.SetCharacterLootable(p, 0) # No loot handle
+# ex : Osi.SetCharacterLootable(p, 1) # Lootable
 function Osi.SetCharacterLootable(character, value) end
 
 ---@param target GUIDSTRING
