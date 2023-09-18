@@ -1,0 +1,4391 @@
+# Spells
+Credit to Zanzer
+
+
+Data hosted with ♥ by Pastebin.com - Download Raw - See Original
+
+"ProjectileStrike_END_BrainBattle_NautiloidStrike",--
+"ProjectileStrike_END_HighHallInterior_IntDevMindFlayerPodStrike",--Mind Flayer Reinforcements
+"ProjectileStrike_END_HighHallInterior_IntDevPodStrike",--Intellect Devourer Reinforcements
+"ProjectileStrike_END_HighHallInterior_MindFlayerPodStrike",--Mind Flayer Reinforcements
+"ProjectileStrike_END_HighHallInterior_NautiloidStrike",--Nautiloid Airstrike
+"ProjectileStrike_END_HighHallInterior_NautiloidWarningStrike",--
+"ProjectileStrike_ExplosiveRetribution",--Explosive Retribution
+"ProjectileStrike_IRN_IronThrone_FallingRubble",--
+"ProjectileStrike_IRN_IronThrone_FloodStrike",--
+"ProjectileStrike_Placeholder",--%%% Placeholder
+"ProjectileStrike_SteelWatcher_Quadruped_HellfireMissiles",--Hellfire Missiles
+"ProjectileStrike_TUT_UpperDeck_Bombardment",--Bombardment
+"ProjectileStrike_WYR_LightningStrike",--Call Lightning
+"ProjectileStrike_WYR_LightningStrike_Spawner",--Bout of Storms
+"Projectile_AI_HELPERS",--%%% EMPTY
+"Projectile_ALCHEMY_PROJECTILES",--
+"Projectile_ALCH_Oil_Combustion_Explosion",--
+"Projectile_ALCH_Solution_Grenade_Light",--Hearthlight Bomb
+"Projectile_ALCH_Solution_Grenade_Web",--Web Grenade
+"Projectile_AOE",--
+"Projectile_ARROWS",--
+"Projectile_AcidArrow",--Melf's Acid Arrow
+"Projectile_AcidArrow_3",--
+"Projectile_AcidArrow_4",--
+"Projectile_AcidArrow_5",--
+"Projectile_AcidArrow_6",--
+"Projectile_AcidSplash",--Acid Splash
+"Projectile_AcidSplash_Goblin",--
+"Projectile_AcidSplash_Trap",--
+"Projectile_AdvancedProjectileWeaponAction",--
+"Projectile_AiHelper_BlackHole",--
+"Projectile_AiHelper_BuffSelfNearEnemies",--
+"Projectile_AiHelper_Fear_Aura",--
+"Projectile_AiHelper_Fly_SkeletalDragon",--
+"Projectile_AiHelper_HungerOfHadar",--
+"Projectile_AiHelper_KiResonation_Blast",--
+"Projectile_AiHelper_MoonBeam",--null
+"Projectile_AiHelper_Silence",--
+"Projectile_AiHelper_SpiderlingSpawning",--
+"Projectile_AiHelper_Summon_Ranged_Weak",--
+"Projectile_AiHelper_Summon_Strong",--
+"Projectile_AiHelper_Summon_Weak",--
+"Projectile_AiHelper_UseItem_Large",--null
+"Projectile_AiHelper_UseItem_Moderate",--null
+"Projectile_AiHelper_UseItem_Small",--null
+"Projectile_AiHelper_UseTorch",--null
+"Projectile_AirBlast_Elemental_Air",--Gushing Air
+"Projectile_AlchemistFire",--Alchemist's Fire
+"Projectile_AlcoholBarrel",--
+"Projectile_ApplyPoisonStatusAoE",--
+"Projectile_ArchersEye",--Archer's Eye
+"Projectile_ArmCrossbow_Merregon",--Crossbow Shot
+"Projectile_ArmCrossbow_Merregon_Detonation",--
+"Projectile_ArrowOfAberrationSlaying",--Arrow of Aberration Slaying
+"Projectile_ArrowOfAcid",--Arrow of Acid
+"Projectile_ArrowOfAcid_Trap",--
+"Projectile_ArrowOfAntimagic",--Arrow of Arcane Interference
+"Projectile_ArrowOfBeastSlaying",--Arrow of Beast Slaying
+"Projectile_ArrowOfCelestialSlaying",--Arrow of Celestial Slaying
+"Projectile_ArrowOfConstructSlaying",--Arrow of Construct Slaying
+"Projectile_ArrowOfDarkness",--Arrow of Darkness
+"Projectile_ArrowOfDarkness_Trap",--
+"Projectile_ArrowOfDetonation",--Arrow of Roaring Thunder
+"Projectile_ArrowOfDetonation_Trap",--
+"Projectile_ArrowOfDispelling",--Arrow of Salving
+"Projectile_ArrowOfDragonSlaying",--Arrow of Dragon Slaying
+"Projectile_ArrowOfElementalSlaying",--Arrow of Elemental Slaying
+"Projectile_ArrowOfFeySlaying",--Arrow of Fey Slaying
+"Projectile_ArrowOfFiendSlaying",--Arrow of Fiend Slaying
+"Projectile_ArrowOfFire",--Arrow of Fire
+"Projectile_ArrowOfFire_Burning",--
+"Projectile_ArrowOfFire_Trap",--
+"Projectile_ArrowOfGiantSlaying",--Arrow of Giant Slaying
+"Projectile_ArrowOfHumanoidSlaying",--Arrow of Humanoid Slaying
+"Projectile_ArrowOfIce",--Arrow of Ice
+"Projectile_ArrowOfIce_Trap",--
+"Projectile_ArrowOfLightning",--Arrow of Lightning
+"Projectile_ArrowOfLightning_Trap",--
+"Projectile_ArrowOfMonstrositySlaying",--Arrow of Monstrosity Slaying
+"Projectile_ArrowOfOozeSlaying",--Arrow of Ooze Slaying
+"Projectile_ArrowOfPiercing",--Arrow of Piercing
+"Projectile_ArrowOfPlantSlaying",--Arrow of Plant Slaying
+"Projectile_ArrowOfRicochet",--Arrow of Many Targets
+"Projectile_ArrowOfRicochet_Ricochet",--
+"Projectile_ArrowOfRicochet_Ricochet_2",--
+"Projectile_ArrowOfRicochet_Ricochet_3",--
+"Projectile_ArrowOfRicochet_Trap",--
+"Projectile_ArrowOfRicochet_Trap_Rico",--
+"Projectile_ArrowOfRicochet_Trap_Rico_2",--
+"Projectile_ArrowOfSmokepowder",--Smokepowder Shot
+"Projectile_ArrowOfTeleportation",--Arrow of Transposition
+"Projectile_ArrowOfUndeadSlaying",--Arrow of Undead Slaying
+"Projectile_ArrowOfWraithsEmbrace",--Arrow of Ilmater
+"Projectile_BEAM",--
+"Projectile_BEH_DeathRay",--Deathray
+"Projectile_BadOmen_Raven",--Bad Omen
+"Projectile_Bag_Smokepowder",--
+"Projectile_Barbed_Arrow",--Barbed Bodkin
+"Projectile_Barrel_Explosion",--Explosion
+"Projectile_Barrel_Explosion_Smokepowder",--
+"Projectile_Belch_Acid_Brewer",--Acidic Regurgitation
+"Projectile_Belch_Cold_Brewer",--Icy Regurgitation
+"Projectile_Belch_Fire_Brewer",--Fiery Regurgitation
+"Projectile_Belch_Lightning_Brewer",--Electrified Regurgitation
+"Projectile_Belch_Necro_Brewer",--Rotting Regurgitation
+"Projectile_Belch_Poison_Brewer",--Venomous Regurgitation
+"Projectile_BlackSporeCloud",--Timmask Spores
+"Projectile_BlackSporeCloud_Grenade",--
+"Projectile_BlackSporeCloud_Trap",--
+"Projectile_BladeFlourish_Defensive",--Defensive Flourish (Ranged)
+"Projectile_BladeFlourish_Mobile",--Mobile Flourish (Ranged)
+"Projectile_BladeFlourish_Slashing",--Slashing Flourish (Ranged)
+"Projectile_BladeOfTheRime",--Blade of Rime
+"Projectile_BoilingWater",--Explosion
+"Projectile_Bomb",--Bomb
+"Projectile_Burst_Blight_Needle",--Needle Burst
+"Projectile_BurstingBrood_Spider",--Bursting Brood
+"Projectile_CAMP_Javelin_Ogre",--
+"Projectile_CHA_OutpostCrevice_Bite",--
+"Projectile_COL_AiHelper_UseItem_NecromancerCandle",--
+"Projectile_CONS_Elixir_Blood_Gnome_Destroy",--Elixir of Gnomish Ingenuity
+"Projectile_CONS_Elixir_Blood_HalfOrc_Destroy",--Elixir of Half-Orcish Fury
+"Projectile_CONS_Elixir_Blood_Halfling_Destroy",--Elixir of Halfling Luck
+"Projectile_CONS_Elixir_Blood_Human_Destroy",--Elixir of Human Versatility
+"Projectile_CRE_AiHelper_GithyankiInquisitor_Mindsteal_Tempest",--%%%EMPTY
+"Projectile_CRE_BreweryKobolds_FirewineBelly_Explosion",--Firewine Explosion
+"Projectile_CRE_GithyankiInquisitor_Mindsteal_Link",--Mindsteal Link
+"Projectile_CRE_GithyankiInquisitor_Mindsteal_Tempest",--Mindsteal Tempest
+"Projectile_CRE_GithyankiInquisitor_Mindsteal_Tempest_Allies",--
+"Projectile_CRE_GithyankiMine_Explosion",--Repulsion Mine
+"Projectile_CRE_LathandersBlessing_HealingExplosion",--Healing Explosion
+"Projectile_CausticBulb",--Caustic Bulb
+"Projectile_ChainLightning",--Chain Lightning
+"Projectile_ChainLightning_Explosion",--
+"Projectile_ChainLightning_Explosion_Trap",--
+"Projectile_ChainLightning_Trap",--
+"Projectile_ChromaticOrb",--Chromatic Orb
+"Projectile_ChromaticOrb_Acid",--Chromatic Orb: Acid
+"Projectile_ChromaticOrb_Acid_2",--
+"Projectile_ChromaticOrb_Acid_3",--
+"Projectile_ChromaticOrb_Acid_4",--
+"Projectile_ChromaticOrb_Acid_5",--
+"Projectile_ChromaticOrb_Acid_6",--
+"Projectile_ChromaticOrb_Acid_BookOfAncientSecrets",--
+"Projectile_ChromaticOrb_Acid_Monk",--Sphere of Elemental Balance: Acid
+"Projectile_ChromaticOrb_BookOfAncientSecrets",--
+"Projectile_ChromaticOrb_Cold",--Chromatic Orb: Cold
+"Projectile_ChromaticOrb_Cold_2",--
+"Projectile_ChromaticOrb_Cold_3",--
+"Projectile_ChromaticOrb_Cold_4",--
+"Projectile_ChromaticOrb_Cold_5",--
+"Projectile_ChromaticOrb_Cold_6",--
+"Projectile_ChromaticOrb_Cold_BookOfAncientSecrets",--
+"Projectile_ChromaticOrb_Cold_Monk",--Sphere of Elemental Balance: Cold
+"Projectile_ChromaticOrb_Fire",--Chromatic Orb: Fire
+"Projectile_ChromaticOrb_Fire_2",--
+"Projectile_ChromaticOrb_Fire_3",--
+"Projectile_ChromaticOrb_Fire_4",--
+"Projectile_ChromaticOrb_Fire_5",--
+"Projectile_ChromaticOrb_Fire_6",--
+"Projectile_ChromaticOrb_Fire_BookOfAncientSecrets",--
+"Projectile_ChromaticOrb_Fire_Monk",--Sphere of Elemental Balance: Fire
+"Projectile_ChromaticOrb_IceMephit",--
+"Projectile_ChromaticOrb_Lightning",--Chromatic Orb: Lightning
+"Projectile_ChromaticOrb_Lightning_2",--
+"Projectile_ChromaticOrb_Lightning_3",--
+"Projectile_ChromaticOrb_Lightning_4",--
+"Projectile_ChromaticOrb_Lightning_5",--
+"Projectile_ChromaticOrb_Lightning_6",--
+"Projectile_ChromaticOrb_Lightning_BookOfAncientSecrets",--
+"Projectile_ChromaticOrb_Lightning_Monk",--Sphere of Elemental Balance: Lightning
+"Projectile_ChromaticOrb_Monk",--Sphere of Elemental Balance
+"Projectile_ChromaticOrb_Poison",--Chromatic Orb: Poison
+"Projectile_ChromaticOrb_Poison_2",--
+"Projectile_ChromaticOrb_Poison_3",--
+"Projectile_ChromaticOrb_Poison_4",--
+"Projectile_ChromaticOrb_Poison_5",--
+"Projectile_ChromaticOrb_Poison_6",--
+"Projectile_ChromaticOrb_Poison_BookOfAncientSecrets",--
+"Projectile_ChromaticOrb_Poison_Monk",--Sphere of Elemental Balance: Poison
+"Projectile_ChromaticOrb_Thunder",--Chromatic Orb: Thunder
+"Projectile_ChromaticOrb_Thunder_2",--
+"Projectile_ChromaticOrb_Thunder_3",--
+"Projectile_ChromaticOrb_Thunder_4",--
+"Projectile_ChromaticOrb_Thunder_5",--
+"Projectile_ChromaticOrb_Thunder_6",--
+"Projectile_ChromaticOrb_Thunder_BookOfAncientSecrets",--
+"Projectile_ChromaticOrb_Thunder_Monk",--Sphere of Elemental Balance: Thunder
+"Projectile_ClarifiedMortality",--Mortal Reminder
+"Projectile_CoalBasket_Explosion",--Brazier Fall
+"Projectile_CoalBasket_Explosion_NoFire",--Small Brazier Fall
+"Projectile_CodeTest_Cooldown_Combat",--
+"Projectile_CodeTest_Cooldown_Rest",--
+"Projectile_CodeTest_Cooldown_Turn",--
+"Projectile_CoinBomb_TollCollector_Explosion",--Coin Toss
+"Projectile_CombatMark_Githyanki",--Mental Mark
+"Projectile_CorrosiveSpit_Dilophosaurus",--Corrosive Spit
+"Projectile_CrystalWall_Buff",--Crystalline Mist
+"Projectile_CursedTome_CurriculumofStrategy",--Curriculum of Strategy: Artistry of War
+"Projectile_CursedTome_Dethrone",--Dethrone
+"Projectile_DEN_DruidTrap",--
+"Projectile_DEN_GoblinShot",--
+"Projectile_DEN_Jump_Spider",--
+"Projectile_DEN_KanonJump",--%%% Death by arrow
+"Projectile_DEN_PhasmExplosion",--
+"Projectile_DEN_TunnelTurret_Trap",--
+"Projectile_DEPRECATED_WYR_ChainsOfTyranny_Gortash",--
+"Projectile_DeathBurst_Died_GreaseMephit",--
+"Projectile_DeathBurst_Died_IceMephit",--Death Burst
+"Projectile_DeathBurst_Died_MudMephit",--
+"Projectile_DeathBurst_Ghoul",--Death Burst
+"Projectile_DeathBurst_IntellectDevourer",--Morphic Brine Explosion
+"Projectile_DeathBurst_MagmaMephit",--Death Burst
+"Projectile_Deflect_Missiles",--Deflect Missiles
+"Projectile_Dipped_Fire",--Fire Arrow
+"Projectile_Dipped_Poison",--Poison Arrow
+"Projectile_DisarmingAttack",--Disarming Attack (Ranged)
+"Projectile_Disintegrate",--Disintegrate
+"Projectile_Disintegrate_Trap",--
+"Projectile_DistractingStrike",--Distracting Strike (Ranged)
+"Projectile_DivineStrike_Ranged_Life",--Divine Strike: Life (Ranged)
+"Projectile_DivineStrike_Ranged_Nature_Cold",--Divine Strike: Ranged Frigid Cold
+"Projectile_DivineStrike_Ranged_Nature_Fire",--Divine Strike : Scorching Fire Ranged
+"Projectile_DivineStrike_Ranged_Nature_Lightning",--Divine Strike: Ranged Fierce Lightning
+"Projectile_DivineStrike_Ranged_Tempest",--Divine Strike: Roaring Thunder Ranged
+"Projectile_DivineStrike_Ranged_Trickery",--Divine Strike: Noxious Ranged
+"Projectile_DivineStrike_Ranged_War",--Divine Strike: Warmaster Ranged
+"Projectile_DivingStrike",--Diving Strike
+"Projectile_DreadAmbusher",--Dread Ambusher (Ranged)
+"Projectile_Drink_Alcohol",--Lovely Jubby Booze
+"Projectile_END_Emperor_ChainLightning",--
+"Projectile_END_Jump_Ghoul_Flying",--
+"Projectile_END_Levitate_Emperor",--
+"Projectile_END_LightningArrow_Harper",--
+"Projectile_END_MolBuff_FireRay",--
+"Projectile_END_NetherIllusion_Explosion",--null
+"Projectile_END_ThunderTrap",--
+"Projectile_END_Underground_ForceTrap",--
+"Projectile_END_Underground_LightningTrap",--
+"Projectile_END_Underground_PoisonTrap",--
+"Projectile_END_Underground_WebMine",--Web
+"Projectile_END__Underground_AcidTrap",--
+"Projectile_EldritchBlast",--Eldritch Blast
+"Projectile_EldritchBlast_Trap",--
+"Projectile_EnsnaringStrike",--Ensnaring Strike (Ranged)
+"Projectile_EnsnaringStrike_2",--
+"Projectile_EnsnaringStrike_3",--
+"Projectile_EnsnaringStrike_4",--
+"Projectile_EnsnaringStrike_5",--
+"Projectile_EnsnaringStrike_6",--
+"Projectile_EnsnaringStrike_Container",--
+"Projectile_EruptingCinder_Elemental_Fire",--Erupting Cinder
+"Projectile_Explosion_Trap",--Explosion
+"Projectile_ExplosiveIcicle_Myrmidon_Water",--Explosive Icicle
+"Projectile_ExplosiveIcicle_Wildshape_Myrmidon_Water",--
+"Projectile_ExtraAttack",--Multiattack (Ranged)
+"Projectile_FOR_GnomeGoblin_ThrowRock",--Throw Rock
+"Projectile_FOR_Goblin_Jump",--
+"Projectile_FOR_MasterworkChest_Trap",--
+"Projectile_FOR_Ogre_AcidArrow",--
+"Projectile_FOR_Ogre_FireBolt",--
+"Projectile_FOR_SeluneStash_ChestTrap",--Selûne's Seal
+"Projectile_FOR_ThayanSkeleton_UseCasket",--
+"Projectile_FallingRocks",--Falling Rocks
+"Projectile_FangsOfTheFireSnake",--Fangs of the Fire Snake
+"Projectile_FingerOfDeath_Apostle",--Finger of Death
+"Projectile_FireBolt",--Fire Bolt
+"Projectile_FireBolt_Goblin",--
+"Projectile_FireBolt_NoRecharge",--
+"Projectile_FireBolt_Trap",--
+"Projectile_FireRay_Cambion",--Rays of Fire
+"Projectile_Fireball",--Fireball
+"Projectile_FireballRetaliate_Dragon",--
+"Projectile_Fireball_4",--
+"Projectile_Fireball_5",--
+"Projectile_Fireball_6",--
+"Projectile_Fireball_Dragon",--Fire Breath
+"Projectile_Fireball_FromItem",--
+"Projectile_Fireball_FromScroll",--
+"Projectile_Fireball_FromWand",--
+"Projectile_Fireball_FromWeapon",--
+"Projectile_Fireball_Monk",--Flames of the Phoenix
+"Projectile_Fireball_Trap",--Explosion
+"Projectile_Fireball_Trap_Chandelier_Drop",--
+"Projectile_Fireball_Trap_Easy",--
+"Projectile_Fireball_Trap_Hanging_Bowls_Drop",--
+"Projectile_Fireball_Trap_Hard",--
+"Projectile_Fireball_Trap_Thayan_Incense_Burner_Drop",--
+"Projectile_Fireball_Trap_VeryHard",--
+"Projectile_Fireworks_Box_A",--Glorious Fireworks
+"Projectile_Fireworks_Box_B",--
+"Projectile_Fireworks_Box_C",--
+"Projectile_Fireworks_Rocket_A",--Firework Rocket
+"Projectile_Fireworks_Rocket_B",--Firework Rocket
+"Projectile_Fireworks_Rocket_B_Trap",--
+"Projectile_Fireworks_Rocket_C",--Firework Rocket
+"Projectile_Flumph_Explosion",--Flumph Explosion
+"Projectile_Fly",--Fly
+"Projectile_Fly_Bat",--
+"Projectile_Fly_Darkness_Raven",--
+"Projectile_Fly_Deva",--
+"Projectile_Fly_Dog_Ghost",--
+"Projectile_Fly_DragonWings",--
+"Projectile_Fly_Spell",--
+"Projectile_Fly_SpiritualWeapon",--
+"Projectile_Fly_TempestuousMagic",--Tempestuous Magic: Flight
+"Projectile_Force_Trap",--Force Blast
+"Projectile_FreezingSphere_Hurl",--Otiluke's Freezing Sphere
+"Projectile_FreezingSphere_Hurl_Bomb",--
+"Projectile_GEB_GoblinKid_ThrowRocks",--Throw Rock
+"Projectile_GEB_Perform_TossCoin",--Toss a Coin
+"Projectile_GENERICS",--
+"Projectile_GOB_CageTrap",--
+"Projectile_GOB_GoblinKing_Javelin",--
+"Projectile_GOB_GoblinPriestess_StatueDebris",--Statue Impact
+"Projectile_GOB_Ogre_Javelin",--
+"Projectile_GOB_PainPriest_Mace",--Mace Attack
+"Projectile_GOB_TripwireTrap",--
+"Projectile_Generic_Gnoll",--
+"Projectile_Generic_Goblin",--
+"Projectile_Generic_Hobgoblin",--
+"Projectile_Generic_Imp",--Fiery Bolt
+"Projectile_Generic_Myconid",--
+"Projectile_GlyphOfWarding_Acid_Trap",--Glyph of Warding: Acid
+"Projectile_GlyphOfWarding_Acid_Trap_4",--
+"Projectile_GlyphOfWarding_Acid_Trap_5",--
+"Projectile_GlyphOfWarding_Acid_Trap_6",--
+"Projectile_GlyphOfWarding_Cold_Trap",--Glyph of Warding: Cold
+"Projectile_GlyphOfWarding_Cold_Trap_4",--
+"Projectile_GlyphOfWarding_Cold_Trap_5",--
+"Projectile_GlyphOfWarding_Cold_Trap_6",--
+"Projectile_GlyphOfWarding_Detonation_Trap",--Glyph of Warding: Detonation
+"Projectile_GlyphOfWarding_Detonation_Trap_4",--
+"Projectile_GlyphOfWarding_Detonation_Trap_5",--
+"Projectile_GlyphOfWarding_Detonation_Trap_6",--
+"Projectile_GlyphOfWarding_Fire_Trap",--Glyph of Warding: Fire
+"Projectile_GlyphOfWarding_Fire_Trap_4",--
+"Projectile_GlyphOfWarding_Fire_Trap_5",--
+"Projectile_GlyphOfWarding_Fire_Trap_6",--
+"Projectile_GlyphOfWarding_Lightning_Trap",--Glyph of Warding: Lightning
+"Projectile_GlyphOfWarding_Lightning_Trap_4",--
+"Projectile_GlyphOfWarding_Lightning_Trap_5",--
+"Projectile_GlyphOfWarding_Lightning_Trap_6",--
+"Projectile_GlyphOfWarding_Sleep_Trap",--Glyph of Warding: Sleep
+"Projectile_GlyphOfWarding_Sleep_Trap_4",--
+"Projectile_GlyphOfWarding_Sleep_Trap_5",--
+"Projectile_GlyphOfWarding_Sleep_Trap_6",--
+"Projectile_GlyphOfWarding_Thunder_Trap",--Glyph of Warding: Thunder
+"Projectile_GlyphOfWarding_Thunder_Trap_4",--
+"Projectile_GlyphOfWarding_Thunder_Trap_5",--
+"Projectile_GlyphOfWarding_Thunder_Trap_6",--
+"Projectile_GoadingAttack",--Goading Attack (Ranged)
+"Projectile_GreenSporeCloud",--Bibberbang Spores
+"Projectile_GreenSporeCloud_Grenade",--
+"Projectile_GreenSporeCloud_Trap",--
+"Projectile_Grenade_AcidBottle",--Acid Vial
+"Projectile_Grenade_Bomb",--
+"Projectile_Grenade_Bomb_Smoke",--
+"Projectile_Grenade_Fire",--
+"Projectile_Grenade_Oil",--
+"Projectile_Grenade_PoisonVial",--
+"Projectile_GuidingBolt",--Guiding Bolt
+"Projectile_GuidingBolt4_Trap",--
+"Projectile_GuidingBolt_5",--
+"Projectile_GuidingBolt_6",--
+"Projectile_GuidingBolt_Free",--
+"Projectile_GuidingBolt_Trap",--
+"Projectile_GuildingBolt_2",--Guiding Bolt
+"Projectile_GuildingBolt_3",--Guiding Bolt
+"Projectile_GuildingBolt_4",--
+"Projectile_HAG_HagGrenade_Fire",--Flammable Slime Bomb
+"Projectile_HAG_HagGrenade_PoisonCloud",--Poisonous Slime Bomb
+"Projectile_HAG_HagLair_PenDoorLever_AIHelper",--
+"Projectile_HAG_Jump_Frog",--
+"Projectile_HAG_PsychicMine",--Illusory Mine
+"Projectile_HAG_RayOfSickness_Staff",--
+"Projectile_HAG_RedcapSpikes_Trap",--
+"Projectile_HAV_InfernalFire",--Hell's Furnace
+"Projectile_HAV_Souleater",--Soulstripper Blast
+"Projectile_HAV_TakingIsobel_Fly_Marcus",--
+"Projectile_HAV_TakingIsobel_GuidingBolt_Isobel",--
+"Projectile_HAV_TakingIsobel_GuidingBolt_Marcus",--
+"Projectile_HAV_TakingIsobel_RayOfSickness_Marcus",--
+"Projectile_Hag_Double_RayOfSickness",--
+"Projectile_Hag_RayOfSickness",--
+"Projectile_HailOfThorns",--Hail of Thorns
+"Projectile_HailOfThorns_2",--
+"Projectile_HailOfThorns_3",--
+"Projectile_HailOfThorns_4",--
+"Projectile_HailOfThorns_5",--
+"Projectile_HailOfThorns_6",--
+"Projectile_HamstringShot",--Hamstring Shot
+"Projectile_Headcrack",--Headcrack
+"Projectile_HeartOfTheStorm_Lightning",--Heart of the Storm: Lightning
+"Projectile_HeartOfTheStorm_Thunder",--Heart of the Storm: Thunder
+"Projectile_HellfireOrb_DeathKnight",--Hellfire Orb
+"Projectile_HolyWater",--Holy Water
+"Projectile_HordeBreaker",--Horde Breaker (Ranged)
+"Projectile_HordeBreaker_Explosion",--Explode
+"Projectile_HordeBreaker_Free",--Horde Breaker Follow-Up (Ranged)
+"Projectile_IceKnife",--Ice Knife
+"Projectile_IceKnife_2",--Ice Knife
+"Projectile_IceKnife_3",--Ice Knife
+"Projectile_IceKnife_4",--Ice Knife
+"Projectile_IceKnife_5",--Ice Knife
+"Projectile_IceKnife_6",--Ice Knife
+"Projectile_IceKnife_Explosion",--Explode
+"Projectile_JUMP",--
+"Projectile_Javelin",--Throw Javelin
+"Projectile_Javelin_Bugbear",--
+"Projectile_Javelin_Duergar",--
+"Projectile_Javelin_Ogre",--
+"Projectile_Javelin_Ogre_NoRecharge",--
+"Projectile_Jump",--Jump
+"Projectile_Jump_AnimateDead_Ghoul_Flying",--
+"Projectile_Jump_Bulette",--Deadly Leap
+"Projectile_Jump_Bulette_Spawn",--
+"Projectile_Jump_Cloaker",--
+"Projectile_Jump_Drider",--
+"Projectile_Jump_FlamingSphere",--Jump
+"Projectile_Jump_Frog",--Jump
+"Projectile_Jump_Ghoul_Flying",--
+"Projectile_Jump_GiantEagle",--
+"Projectile_Jump_Gnoll",--Leap
+"Projectile_Jump_Gremishka",--
+"Projectile_Jump_Harpy",--Fly
+"Projectile_Jump_HookHorror",--Pounce
+"Projectile_Jump_Imp",--
+"Projectile_Jump_IntellectDevourer",--
+"Projectile_Jump_Knockdown_AOE",--
+"Projectile_Jump_Knockdown_AOE_Alioramus",--Pounce
+"Projectile_Jump_Laezel",--Githyanki Psionics: Jump
+"Projectile_Jump_Mephit",--Fly
+"Projectile_Jump_Minotaur",--Brutal Leap
+"Projectile_Jump_NPC",--
+"Projectile_Jump_NoFallDamage",--
+"Projectile_Jump_Owlbear",--Crushing Flight
+"Projectile_Jump_Owlbear_Cub",--Jump
+"Projectile_Jump_Owlbear_Wildshape_Lunge",--
+"Projectile_Jump_Panther",--Enhanced Jump
+"Projectile_Jump_Spectator",--Fly
+"Projectile_Jump_Spider",--Arachnid Jump
+"Projectile_Jump_Spider_Queen",--
+"Projectile_Jump_Spider_Summon",--
+"Projectile_Jump_Spider_Tiny",--
+"Projectile_Jump_Spider_WildShape",--
+"Projectile_Jump_Tiny",--Leap
+"Projectile_Jump_UndeadFace",--
+"Projectile_Jump_Vampire_Bats",--
+"Projectile_Jump_Werewolf",--
+"Projectile_KiResonation_Blast_Target",--Ki Resonation: Blast
+"Projectile_LOW_AiHelper_PutridExplosion",--null
+"Projectile_LOW_BhaalCultist_IceKnife",--
+"Projectile_LOW_BhaalCultist_SnipingMissile",--
+"Projectile_LOW_BloodMerchant_ExplodeSelf",--
+"Projectile_LOW_BloodMerchant_ExplosionsWithAsh",--
+"Projectile_LOW_Chasm_ForceGrenade",--Force Bomb
+"Projectile_LOW_CountingHouse_AiHelper_UseDocksAlarmTrigger",--
+"Projectile_LOW_CountingHouse_AiHelper_UseLowerAlarmTrigger",--
+"Projectile_LOW_CountingHouse_AiHelper_UseUpperAlarmTrigger",--
+"Projectile_LOW_Dolor_Jump",--
+"Projectile_LOW_FatherCarrion_PutridExplosion_Explosion",--Putrid Eruption
+"Projectile_LOW_FatherCarrion_PutridExplosion_Explosion_Hardcore",--Putrid Eruption
+"Projectile_LOW_Fireball_Cazador",--
+"Projectile_LOW_FlamingFist_Caster_AcidArrow_4",--
+"Projectile_LOW_GithyankiProdigy_VacuumMissile",--Vacuum Missile
+"Projectile_LOW_GithyankiProdigy_VacuumMissile_Explosion",--Vacuum Missile
+"Projectile_LOW_GreaseWizard_Fireball_5",--
+"Projectile_LOW_GreaseWizard_Fireball_Dummy",--
+"Projectile_LOW_GreaseWizard_Mephit_Fling",--Hurl Grease
+"Projectile_LOW_GreaseWizard_Ooze_Spit",--
+"Projectile_LOW_Hag_Double_RayOfSickness",--
+"Projectile_LOW_Hag_RayOfSickness",--Ethel's Ray of Sickness
+"Projectile_LOW_Hag_RayOfSickness_Explosion",--
+"Projectile_LOW_HobgoblinDevastator_ChromaticOrb_Fire",--
+"Projectile_LOW_Houndmaster_GraveShot",--Grave Shot
+"Projectile_LOW_Houndmaster_GraveShot_1",--Grave Shot
+"Projectile_LOW_Houndmaster_GraveShot_2",--Grave Shot
+"Projectile_LOW_Houndmaster_GraveShot_3",--Grave Shot
+"Projectile_LOW_Houndmaster_GraveShot_4",--Grave Shot
+"Projectile_LOW_Houndmaster_GraveShot_5",--Grave Shot
+"Projectile_LOW_Houndmaster_GraveShot_6",--Grave Shot
+"Projectile_LOW_HouseOfHope_DebtorExplode",--Forever Indebted
+"Projectile_LOW_HouseOfHope_DebtorExplode_Boar",--
+"Projectile_LOW_HouseOfHope_DebtorExplode_Imp",--
+"Projectile_LOW_HouseOfHope_DebtorExplode_Merregon",--
+"Projectile_LOW_IronThrone_Mizora_ExplodingSpiderlings_Explosion",--Spiderling Burst
+"Projectile_LOW_IronThrone_Mizora_SpiderlingSpawning",--Spider Egg Sac
+"Projectile_LOW_KurwinCoffin_ExplodingBody",--
+"Projectile_LOW_MephitLiquid_Strike",--Mephit Liquid Strike
+"Projectile_LOW_MysteryHouse_Nuke",--
+"Projectile_LOW_PhilgraveMansion_DoorTrap",--Disastrous Selfplosion
+"Projectile_LOW_PlagueShip_RayOfSickness_Imp",--
+"Projectile_LOW_RamazithArtilleryFlavour_Trap",--
+"Projectile_LOW_RamazithTower_TurretArcane",--Arcane Shot
+"Projectile_LOW_RamazithsTower_ChromaticOrb_Air",--
+"Projectile_LOW_RamazithsTower_ChromaticOrb_Earth",--
+"Projectile_LOW_RamazithsTower_ChromaticOrb_Fire",--
+"Projectile_LOW_RamazithsTower_ChromaticOrb_Water",--
+"Projectile_LOW_RaphaelImp_EldritchBlast",--
+"Projectile_LOW_Raphael_DancingFlame",--Igniting Spark
+"Projectile_LOW_Raphael_DancingFlame_BA",--
+"Projectile_LOW_Raphael_HellfireOrb",--Hellfire Inferno
+"Projectile_LOW_Raphael_Jump",--
+"Projectile_LOW_Raphael_LavaChains",--Diabolic Chains
+"Projectile_LOW_Raphael_PrimordialHell",--Ravaging Inferno
+"Projectile_LOW_Raphael_PrimordialHell_Chain",--
+"Projectile_LOW_Raphael_Soul_Explosion",--%%% Explode
+"Projectile_LOW_RayOfSickness_Trap",--
+"Projectile_LOW_Rolan_MagicMissile",--Rolan's Magic Missile
+"Projectile_LOW_Sewers_CultistsShootingContest_MainHandAttack",--
+"Projectile_LOW_SorcerousSundries_ArtistryOfWar",--Artistry of War
+"Projectile_LOW_SorcerousSundries_BookExplosion",--
+"Projectile_LOW_SteelWatchFoundry_CollarExplosion",--Collar Explosion
+"Projectile_LOW_WatcherTitan_DummyHellfireMissiles",--Targeting Protocol: Hellfire Missiles
+"Projectile_Levitate_Beholder",--Levitate
+"Projectile_Levitate_Mindflayer",--Levitate
+"Projectile_Levitate_Mindflayer_Player",--
+"Projectile_LightningArrow",--Lightning Arrow
+"Projectile_LightningArrow_4",--
+"Projectile_LightningArrow_5",--
+"Projectile_LightningArrow_6",--
+"Projectile_LightningBlade_Explosion",--
+"Projectile_LightningBolt_Trap",--Lightning Bolt Trap
+"Projectile_LightningBreathRetaliate_Dragon_Skeletal",--
+"Projectile_LightningBreath_Dragon_Skeletal",--Lightning Breath
+"Projectile_MAG_Automaton_FireballShot",--Fiery Shot
+"Projectile_MAG_Automaton_FireballShot_Recreate",--Recast Fiery Shot
+"Projectile_MAG_Automaton_LightTagging_Shot",--Illuminating Shot
+"Projectile_MAG_BG_OfSpeed_LightCrossbow_BonusAttack",--Blink-of-an-eye Bolt
+"Projectile_MAG_Barbarian_BrutalLeap",--
+"Projectile_MAG_Barbarian_Rage_EmotionalDamage_Explosion",--Explode
+"Projectile_MAG_BlackSporeCloud",--
+"Projectile_MAG_ChargedLightning_EnsnaringShock_Explosion",--Ensnaring Shock Explosion
+"Projectile_MAG_DevoteesMace_HealingExplosion",--
+"Projectile_MAG_DivingStrike",--
+"Projectile_MAG_FireBolt_Staff",--
+"Projectile_MAG_FireRay",--
+"Projectile_MAG_FlamingFist_StaffOfFire_Fireball",--
+"Projectile_MAG_Githborn_MageHandsCombatBuff",--%%% Mage Hand: Link
+"Projectile_MAG_GreenSporeCloud",--
+"Projectile_MAG_GuidingBolt_MonkGloves",--
+"Projectile_MAG_HaHaHat_explosion",--Radiant Cap
+"Projectile_MAG_IceKnife",--
+"Projectile_MAG_IceKnife_MonkGloves",--
+"Projectile_MAG_Infernal_FireOrb",--
+"Projectile_MAG_Infernal_MistyStep_Fireball",--
+"Projectile_MAG_Legendary_Chromatic_ChainLightning",--
+"Projectile_MAG_Legendary_Chromatic_Fireball",--
+"Projectile_MAG_Legendary_Chromatic_MelfAcidArrow",--
+"Projectile_MAG_Legendary_Chromatic_RayOfSickness",--
+"Projectile_MAG_LightningArrow_Shot",--
+"Projectile_MAG_MagicMissile_Shot",--
+"Projectile_MAG_MelfsMagicArrow",--
+"Projectile_MAG_Mobility_ExplosionOnJump_Explosion",--
+"Projectile_MAG_Mobility_ExplosionOnJump_Summon_Helper",--Summon
+"Projectile_MAG_Mobility_JumpOnDash_Action",--
+"Projectile_MAG_PullingShout_Explosion",--
+"Projectile_MAG_PushingAttack",--
+"Projectile_MAG_Radiant_RadiatingOrb_Explosion",--Radiant Shockwave
+"Projectile_MAG_RayOfEnfeeblement",--
+"Projectile_MAG_RayOfFrost_Staff",--Ray of Frost
+"Projectile_MAG_SarevoksArmor_WitheringBarrier_Explosion",--
+"Projectile_MAG_ScorchingRay_3",--
+"Projectile_MAG_ScorchingRay_Shot",--Scorching Ray Shot
+"Projectile_MAG_Technical_Blast",--%%% Technical Blast
+"Projectile_MAG_Victory_Longbow_RoaringShot",--Bolt of Celestial Light
+"Projectile_MAG_WYRM_Commander_Longsword_Inspiration_Explosion",--
+"Projectile_MAG_WeaponAction_BlindingShot",--Blinding Shot
+"Projectile_MAG_WhiteSporeCloud",--
+"Projectile_MAG_ZOC_ForceConduit_ForceBlast",--
+"Projectile_MONSTERS",--
+"Projectile_MOO_BalthazarCircle_Explode",--Destabilised Magic
+"Projectile_MOO_BalthazarsSecrets_AnimateZombie",--Animate Dead
+"Projectile_MOO_BloodPotion_AcidArrow",--
+"Projectile_MOO_BloodPotion_Fireball",--
+"Projectile_MOO_BloodPotion_RayOfSickness",--
+"Projectile_MOO_BookSpikeTrap",--
+"Projectile_MOO_DeathBloom_AiHelper",--Death Bloom
+"Projectile_MOO_DeathBloom_Explosion",--Death Bloom
+"Projectile_MOO_Jump_Ghoul_Flying",--
+"Projectile_MOO_MasterOfSouls_Fireball",--
+"Projectile_MOO_Nightsong_GuidingBolt",--Lunar Flare
+"Projectile_MOVEMENT",--
+"Projectile_MULTIPLE",--
+"Projectile_MagicAllergy_Unstable",--Unstable
+"Projectile_MagicMissile",--Magic Missile
+"Projectile_MagicMissile_2",--Magic Missile
+"Projectile_MagicMissile_2_AI",--
+"Projectile_MagicMissile_3",--Magic Missile
+"Projectile_MagicMissile_3_AI",--
+"Projectile_MagicMissile_4",--
+"Projectile_MagicMissile_4_AI",--
+"Projectile_MagicMissile_5",--
+"Projectile_MagicMissile_5_AI",--
+"Projectile_MagicMissile_6",--
+"Projectile_MagicMissile_6_AI",--
+"Projectile_MagicMissile_AI",--
+"Projectile_MagicMissile_MindFlayer",--
+"Projectile_MagicMissile_Trap",--
+"Projectile_MainHandAttack",--Ranged Attack
+"Projectile_MainHandAttack_Sahuagin",--
+"Projectile_MainHandAttack_TadpoledSkeleton_Ranger",--Ranged Attack
+"Projectile_ManeuveringAttack",--Manoeuvring Attack (Ranged)
+"Projectile_MenacingAttack",--Menacing Attack (Ranged)
+"Projectile_MenacingAttack_NPC",--
+"Projectile_MephitExplosion_Mud",--Death Burst
+"Projectile_MineCluster_Orthon",--Volatile Cluster
+"Projectile_MineCluster_Orthon_Hardcore",--
+"Projectile_MineExplosion_Orthon",--Fiendish Flameblast
+"Projectile_MobileShooting",--Mobile Shot
+"Projectile_MudFling_MudMephit",--Mud Fling
+"Projectile_Multiattack",--Multiattack (Ranged)
+"Projectile_Multiattack_Gnoll_Flind_Ranged",--
+"Projectile_NarcolepticBurst",--Narcoleptic Burst
+"Projectile_Needles_Blight_Needle",--Needles
+"Projectile_Net_Kuotoa",--Net
+"Projectile_Net_Sahuagin",--
+"Projectile_ObliterationOrb_Netherbrain_Explosion",--Negation
+"Projectile_OffhandAttack",--Off-Hand Attack (Ranged)
+"Projectile_PLA_DesireJump",--
+"Projectile_PLA_FakeAlchemistFire",--Alchemist's Fire
+"Projectile_PLA_Githyanki_EnsnaringStrike_2",--
+"Projectile_PLA_Githyanki_TripAttack",--
+"Projectile_PLA_HailOfThorns_ZhentCave_Gloves",--
+"Projectile_POTIONS",--%%% EMPTY
+"Projectile_POTION_OfTheGreatArcher_ExtraAttack",--
+"Projectile_PiercingShot",--Piercing Shot
+"Projectile_PinDown",--Pin Down
+"Projectile_PoisonCloud_Trap",--
+"Projectile_PoisonCloud_Trap_Strong",--
+"Projectile_PoisonSpray",--Poison Spray
+"Projectile_PoisonSpray_Trap",--
+"Projectile_Poison_Destroy_Basic",--Basic Poison
+"Projectile_Poison_Destroy_CrawlerMucus",--Crawler Mucus
+"Projectile_Poison_Destroy_Drow",--Drow Poison
+"Projectile_Poison_Destroy_Malice",--Malice
+"Projectile_Poison_Destroy_UNI_Brewer",--Thisobald's Brewed-Up Bellyglummer
+"Projectile_Potion_Destroy_AnimalSpeaking",--Potion of Animal Speaking
+"Projectile_Potion_Destroy_Antitoxin",--Antidote
+"Projectile_Potion_Destroy_Featherfall",--Potion of Feather Fall
+"Projectile_Potion_Destroy_Flying",--Potion of Flying
+"Projectile_Potion_Destroy_Healing",--Potion of Healing
+"Projectile_Potion_Destroy_Healing_Greater",--Potion of Greater Healing
+"Projectile_Potion_Destroy_Healing_Superior",--Potion of Superior Healing
+"Projectile_Potion_Destroy_Healing_Supreme",--Potion of Supreme Healing
+"Projectile_Potion_Destroy_Invisibility",--Potion of Invisibility
+"Projectile_Potion_Destroy_Jump",--Potion of Glorious Vaulting
+"Projectile_Potion_Destroy_Oil_Aloe",--Aloe Oil
+"Projectile_Potion_Destroy_Oil_Of_The_Basilisk",--Basilisk Oil
+"Projectile_Potion_Destroy_Paralysis",--
+"Projectile_Potion_Destroy_Poison",--Potion of Poison
+"Projectile_Potion_Destroy_Remedy",--
+"Projectile_Potion_Destroy_Remedy",--Remedial Potion
+"Projectile_Potion_Destroy_Resistance_Acid",--Elixir of Acid Resistance
+"Projectile_Potion_Destroy_Resistance_Cold",--Elixir of Cold Resistance
+"Projectile_Potion_Destroy_Resistance_Fire",--Elixir of Fire Resistance
+"Projectile_Potion_Destroy_Resistance_Force",--Elixir of Force Resistance
+"Projectile_Potion_Destroy_Resistance_Lightning",--Elixir of Lightning Resistance
+"Projectile_Potion_Destroy_Resistance_Necrotic",--Elixir of Necrotic Resistance
+"Projectile_Potion_Destroy_Resistance_Poison",--Elixir of Poison Resistance
+"Projectile_Potion_Destroy_Resistance_Psychic",--Elixir of Psychic Resistance
+"Projectile_Potion_Destroy_Resistance_Radiant",--Elixir of Radiant Resistance
+"Projectile_Potion_Destroy_Resistance_Thunder",--Elixir of Thunder Resistance
+"Projectile_Potion_Destroy_Shrinking",--Potion of Shrinking
+"Projectile_Potion_Destroy_Sleep",--Potion of Sleep
+"Projectile_Potion_Destroy_Speed",--Potion of Speed
+"Projectile_Potion_Destroy_Strength_CloudGiant",--Elixir of Cloud Giant Strength
+"Projectile_Potion_Destroy_Strength_HillGiant",--Elixir of Hill Giant Strength
+"Projectile_Potion_Destroy_Vitality",--Potion of Vitality
+"Projectile_Pounce_Alioramus",--
+"Projectile_Pounce_Dilophosaurus",--
+"Projectile_Pounce_Panther_Summon",--Pounce
+"Projectile_Pounce_Wolf_Summon",--Pounce
+"Projectile_ProduceFlame_Hurl",--Produce Flame: Hurl
+"Projectile_ProduceFlame_Hurl_Free",--
+"Projectile_PushingAttack",--Pushing Attack (Ranged)
+"Projectile_PushingAttack_NPC",--
+"Projectile_REGION",--
+"Projectile_RayOfEnfeeblement",--Ray of Enfeeblement
+"Projectile_RayOfEnfeeblement_3",--
+"Projectile_RayOfEnfeeblement_4",--
+"Projectile_RayOfEnfeeblement_5",--
+"Projectile_RayOfEnfeeblement_6",--
+"Projectile_RayOfFrost",--Ray of Frost
+"Projectile_RayOfFrost_Monk",--Chill of the Mountain
+"Projectile_RayOfFrost_Trap",--
+"Projectile_RayOfSickness",--Ray of Sickness
+"Projectile_RayOfSickness_2",--Ray of Sickness
+"Projectile_RayOfSickness_3",--Ray of Sickness
+"Projectile_RayOfSickness_4",--
+"Projectile_RayOfSickness_5",--
+"Projectile_RayOfSickness_6",--
+"Projectile_RayOfSickness_BookOfAnceintSecrets",--
+"Projectile_Ricochet",--Ricochet
+"Projectile_RollingBoulder",--Boulder
+"Projectile_RottenFoodExplosion",--
+"Projectile_SCL_Distillery_PoisonCloud_Trap",--Poison Eruption
+"Projectile_SCL_FishermansHut_KuoToaNet",--
+"Projectile_SCL_SpikeTrap",--
+"Projectile_SHA_EntrancePuzzle_RingPushBack",--Ring Puzzle Pushback
+"Projectile_SHA_Necromancer_RayOfSickness",--
+"Projectile_SINGLE",--
+"Projectile_ScorchingRay",--Scorching Ray
+"Projectile_ScorchingRay_3",--
+"Projectile_ScorchingRay_4",--
+"Projectile_ScorchingRay_5",--
+"Projectile_ScorchingRay_6",--
+"Projectile_ScorchingRay_CircletOfBlasting",--
+"Projectile_ScorchingRay_Monk",--Embrace of the Inferno
+"Projectile_ScorchingRay_Trap",--
+"Projectile_Shadowblend_Effect",--null
+"Projectile_Shadowblend_Effect_End",--
+"Projectile_SleetStorm_WaterFrozen",--Sleet Storm
+"Projectile_SlicingLunge_Slayer",--
+"Projectile_Smite_Banishing",--Banishing Smite (Ranged)
+"Projectile_Smite_Banishing_6",--
+"Projectile_Smite_Banishing_Container",--
+"Projectile_Smite_Banishing_Container_6",--
+"Projectile_Smite_Branding",--Branding Smite (Ranged)
+"Projectile_Smite_Branding_3",--
+"Projectile_Smite_Branding_4",--
+"Projectile_Smite_Branding_5",--
+"Projectile_Smite_Branding_6",--
+"Projectile_Smite_Branding_ZarielTiefling",--
+"Projectile_SneakAttack",--Sneak Attack (Ranged)
+"Projectile_SneakAttack_Swarm",--
+"Projectile_Solution_Oil_AttackBuff_Destroy",--Oil of Accuracy
+"Projectile_Solution_Oil_Bane_Destroy",--Oil of Bane
+"Projectile_Solution_Oil_Combustion_Destroy",--Oil of Combustion
+"Projectile_Solution_Oil_DamageAttackBuff_Destroy",--Diluted Oil of Sharpness
+"Projectile_Solution_Oil_Frost_Destroy",--Oil of Freezing
+"Projectile_Solution_Oil_Reduce_Destroy",--Oil of Diminution
+"Projectile_Solution_Oil_RemoveResistanceFire_Destroy",--Arsonist's Oil
+"Projectile_Solution_Oil_Wizardsbane_Destroy",--Wizardsbane Oil
+"Projectile_SpiderInfestation",--Spread Infestation
+"Projectile_SpiderlingSpawning",--Phase Spider Egg Sac
+"Projectile_Spike_Trap",--Trap Spike
+"Projectile_SpikedBulb",--Spiked Bulb
+"Projectile_SplinterExplosion",--
+"Projectile_Stalactite_Explosion",--Shattered Stalactite
+"Projectile_SteelWatcher_Biped_Jump",--
+"Projectile_SteelWatcher_Biped_SelfDestructExplosion",--
+"Projectile_SteelWatcher_Biped_SelfDestructExplosion_NoDamage",--
+"Projectile_SteelWatcher_Crossbow",--Debilitating Shot
+"Projectile_SteelWatcher_Quadruped_Bola",--Launch Protocol: Bola
+"Projectile_SteelWatcher_Quadruped_SelfDestructExplosion",--Self-Detonate
+"Projectile_StoneThrow",--Throw Stone
+"Projectile_StoneThrow_Duergar",--
+"Projectile_StoneThrow_Harpy",--Sharp Rock
+"Projectile_StoneThrow_Kobold",--
+"Projectile_StoneThrow_Kobold_Swarm",--
+"Projectile_StoneThrow_Ogre",--Throw Stone
+"Projectile_StoneThrow_Swarm",--
+"Projectile_Sunflash",--Flashblinder
+"Projectile_SuperNova_Dragon_Skeletal",--Stormheart Nova
+"Projectile_SynapticDischarge_IntDev",--Synaptic Discharge
+"Projectile_SynapticDischarge_IntDev_Colony",--
+"Projectile_TADPOLE",--
+"Projectile_TAD_CullTheWeak",--Cull the Weak
+"Projectile_TAD_Levitate",--
+"Projectile_TAD_ShieldOfThralls_Explosion",--Shield of Thralls Blast
+"Projectile_TEST",--
+"Projectile_TEST_Chair_Throw",--Improvised Attack
+"Projectile_THROWABLES",--
+"Projectile_TRAPS",--
+"Projectile_TUT_BrineExplode",--
+"Projectile_TUT_Jump_Laezel",--
+"Projectile_TWN_LOW_Potion_Destroy_KarabasansGift",--Karabasan's Gift
+"Projectile_TWN_MasonsGuild_Grating",--Grating Trap
+"Projectile_TWN_PlaquePuzzle_AcidArrow_3",--
+"Projectile_TWN_RegretfulHunter_SoulRelease",--Soul Release
+"Projectile_TerrifyingLunge_Slayer",--Relentless Lunge
+"Projectile_TerrifyingLunge_Slayer_10",--
+"Projectile_ThrowMissile",--Throw Missile
+"Projectile_ThrowNet",--Throw Net
+"Projectile_Torchstalk_Explosion",--
+"Projectile_Torchstalk_Explosion_Small",--
+"Projectile_ToxicSpit",--Venomous Discharge
+"Projectile_ToxicSpit_Bulette",--Corrosive Phlegm
+"Projectile_ToxicSpit_Frog",--
+"Projectile_ToxicSpit_Ooze",--Ochre Sputum
+"Projectile_ToxicSpit_PhaseSpider",--
+"Projectile_ToxicSpit_PhaseSpiderQueen",--
+"Projectile_Toxin_Destroy_Basic",--Simple Toxin
+"Projectile_Toxin_Destroy_PurpleWorm",--Purple Worm Toxin
+"Projectile_Toxin_Destroy_SerpentVenom",--Serpent Fang Toxin
+"Projectile_Toxin_Destroy_Wyvern",--Wyvern Toxin
+"Projectile_TripAttack",--Trip Attack (Ranged)
+"Projectile_TripAttack_NPC",--
+"Projectile_Turret_Arcane",--
+"Projectile_UND_AdamantineForge_HammerImpact",--Hammer Impact
+"Projectile_UND_AdamantineForge_HammerImpact_NoVFX",--Hammer Impact
+"Projectile_UND_BuletteSpawnExplode",--Resurface
+"Projectile_UND_DarkLake_RaftCaptainJump",--
+"Projectile_UND_DuergarRaft_Hammer_Explosion",--
+"Projectile_UND_HarperStash_Trap",--Shatter
+"Projectile_UND_LavaBubbleBurst",--Molten Flow
+"Projectile_UND_MagicMissile_SocietyOfBrilliance_Amulet",--
+"Projectile_UND_Runepowder_Barrel_Explosion",--Runepowder Barrel Explosion
+"Projectile_UND_Runepowder_Vial_Explosion",--Runepowder Vial Explosion
+"Projectile_UND_SharFort_Turret",--Moonlight Artillery
+"Projectile_UND_ThayanCellar_OrbExplosion",--
+"Projectile_UND_Wand_Fireball_Crooked_Spell",--
+"Projectile_UND_ZhentChest_Trap",--
+"Projectile_UNI_BrilliantRetort",--
+"Projectile_UNI_MassHealRing_Spell",--
+"Projectile_UrticatingHair_Spider",--Urticating Hairs
+"Projectile_VacuumBulb",--Void Bulb
+"Projectile_VolatileItem_Explosion",--Explode
+"Projectile_WEAPON ATTACK",--
+"Projectile_WEAPON_ACTION_PROJECTILE",--
+"Projectile_WYR_Circus_AiHelperOpenCage",--
+"Projectile_WYR_Circus_MumblingStaff_FireBolt",--Firebolt?
+"Projectile_WYR_CrushingFist_Gortash_FallingFist",--Crush the Defiant
+"Projectile_WYR_Explosion_Trap_Gortash",--Incineration Caster: Overheat
+"Projectile_WYR_ExplosiveToy_Explosion",--Really Warm Hug
+"Projectile_WYR_ExplosiveToy_Explosion_Chest",--
+"Projectile_WYR_FlamethrowerTile_Gortash",--
+"Projectile_WYR_GrenadeLauncher_Gortash_Explosion",--Concussion Grenade
+"Projectile_WYR_Grenade_Launcher_Gortash",--
+"Projectile_WYR_Ironhand_GnomeJump",--
+"Projectile_WYR_JourneysEnd_BardJump",--
+"Projectile_WYR_MainHandAttack_Gortash",--
+"Projectile_WYR_PhaseOptimizer_Gortash",--Steel Watch Overclock Protocol
+"Projectile_WYR_ReelIn_Gortash",--Reel In
+"Projectile_WYR_Reflectoguard_Gortash",--Apply Reflectoguard
+"Projectile_WYR_SmugglersCave_IceKnife_3",--
+"Projectile_WYR_WyrmRock_StunTrap",--Stunner
+"Projectile_Wall_Of_Ice_Explode",--Wall of Ice
+"Projectile_WarMagic_Githyanki_Attack",--
+"Projectile_WaterSplash",--Water Splash
+"Projectile_WaterSplash_Large",--Water Barrel
+"Projectile_WhiteSporeCloud",--Haste Spores
+"Projectile_WhiteSporeCloud_Grenade",--
+"Projectile_WhiteSporeCloud_Trap",--
+"Projectile_WildMagicBarbarian_LightBolt",--Wild Magic: Bolt of Light
+"Projectile_WildMagic_Heal",--
+"Projectile_WildMagic_Heal_2",--
+"Projectile_WildMagic_Heal_3",--
+"Projectile_WildMagic_Heal_4",--
+"Projectile_WildMagic_Heal_5",--
+"Projectile_WildMagic_Heal_6",--
+"Projectile_WitchBolt",--Witch Bolt
+"Projectile_WitchBolt_2",--Witch Bolt
+"Projectile_WitchBolt_3",--Witch Bolt
+"Projectile_WitchBolt_4",--
+"Projectile_WitchBolt_5",--
+"Projectile_WitchBolt_6",--
+"Projectile_WitchBolt_Trap",--
+"Projectile_Wraith_Douse_Technical",--
+"Projectile__ArrowOfXSlaying",--
+"Projectile__MAG",--
+"Rush_Aggressive",--
+"Rush_Charge_Minotaur",--Charge
+"Rush_Charge_Minotaur_Ally",--
+"Rush_Charger_Attack",--Charger: Weapon Attack
+"Rush_Charger_Push",--Charger: Shove
+"Rush_ForceTunnel",--Force Tunnel
+"Rush_GoldenLance",--Lance Charge
+"Rush_InfernalTrample",--
+"Rush_LOW_RaphaelBoar_Rush",--
+"Rush_MAG_Barbarian_Armor_Trample",--Bull Rush
+"Rush_MAG_Mobility_SprintForMomentum_Action",--Sprint
+"Rush_MAG_ZephyrFlash",--Zephyr Flash
+"Rush_MF_ForceTunnel",--Strengthened Force Tunnel
+"Rush_Primal_Stampede",--Primal Stampede
+"Rush_Rush",--Rush
+"Rush_Rush_Boar",--
+"Rush_Rush_Boar_Summon",--Boar Charge
+"Rush_Rush_DeepRothe",--Charge
+"Rush_Rush_DeepRothe_NPC",--Frenzied Charge
+"Rush_SpringAttack",--Rush Attack
+"Rush_WEAPON_ACTION_RUSH",--
+"Shout_AOE",--
+"Shout_AberrantShape",--Aberrant Shape
+"Shout_AberrantShape_Dismiss",--Dismiss Aberrant Shape
+"Shout_ActionSurge",--Action Surge
+"Shout_Aid",--Aid
+"Shout_Aid_3",--
+"Shout_Aid_4",--
+"Shout_Aid_5",--
+"Shout_Aid_6",--
+"Shout_AlterSelf",--%%% Alter Self
+"Shout_AlterSelf_Drow",--%%% Alter Self
+"Shout_AlterSelf_Duergar",--%%% Alter Self
+"Shout_AlterSelf_Dwarf",--%%% Alter Self
+"Shout_AlterSelf_Elf",--%%% Alter Self
+"Shout_AlterSelf_Githyanki",--%%% Alter Self
+"Shout_AlterSelf_HalfDrow",--%%% Alter Self
+"Shout_AlterSelf_HalfElf",--%%% Alter Self
+"Shout_AlterSelf_Halfling",--%%% Alter Self
+"Shout_AlterSelf_Human",--%%% Alter Self
+"Shout_AlterSelf_Tiefling",--%%% Alter Self
+"Shout_ArcaneRecovery",--Arcane Recovery
+"Shout_ArcaneRecovery_1",--Arcane Recovery: Level 1
+"Shout_ArcaneRecovery_2",--Arcane Recovery: Level 2
+"Shout_ArcaneRecovery_3",--Arcane Recovery: Level 3
+"Shout_ArcaneRecovery_4",--Arcane Recovery: Level 4
+"Shout_ArcaneRecovery_5",--Arcane Recovery: Level 5
+"Shout_ArmorOfAgathys",--Armour of Agathys
+"Shout_ArmorOfAgathys_2",--Armour of Agathys
+"Shout_ArmorOfAgathys_3",--Armour of Agathys
+"Shout_ArmorOfAgathys_4",--
+"Shout_ArmorOfAgathys_5",--
+"Shout_ArmorOfAgathys_6",--
+"Shout_ArmsOfHadar",--Arms of Hadar
+"Shout_ArmsOfHadar_2",--Arms of Hadar
+"Shout_ArmsOfHadar_3",--Arms of Hadar
+"Shout_ArmsOfHadar_4",--
+"Shout_ArmsOfHadar_5",--
+"Shout_ArmsOfHadar_6",--
+"Shout_AspectOfTheElk",--Aspect of the Elk
+"Shout_AspectOfTheWolf",--Aspect of the Wolf
+"Shout_AstralKnowledge",--Astral Knowledge
+"Shout_AstralKnowledge_Charisma",--Astral Knowledge: Charisma
+"Shout_AstralKnowledge_Dexterity",--Astral Knowledge: Dexterity
+"Shout_AstralKnowledge_Intelligence",--Astral Knowledge: Intelligence
+"Shout_AstralKnowledge_Strength",--Astral Knowledge: Strength
+"Shout_AstralKnowledge_Wisdom",--Astral Knowledge: Wisdom
+"Shout_AuraOfVitality",--Warden of Vitality
+"Shout_AuraOf_Courage",--Aura of Courage
+"Shout_AuraOf_Devotion",--Aura of Devotion
+"Shout_AuraOf_Hate",--Aura of Hate
+"Shout_AuraOf_Murder",--Aura of Murder
+"Shout_AuraOf_Protection",--Aura of Protection
+"Shout_AuraOf_Terror",--Aura of Terror
+"Shout_AuraOf_Warding",--Aura of Warding
+"Shout_Bard_Perform_BardDance_Drum",--
+"Shout_Bard_Perform_BardDance_Flute",--
+"Shout_Bard_Perform_BardDance_Lute",--
+"Shout_Bard_Perform_BardDance_Lyre",--
+"Shout_Bard_Perform_BardDance_Violin",--
+"Shout_Bard_Perform_BardDance_Whistle",--Perform 'Bard Dance'
+"Shout_Bard_Perform_DOS2_1_Drum",--
+"Shout_Bard_Perform_DOS2_1_Flute",--
+"Shout_Bard_Perform_DOS2_1_Lute",--
+"Shout_Bard_Perform_DOS2_1_Lyre",--
+"Shout_Bard_Perform_DOS2_1_Violin",--
+"Shout_Bard_Perform_DOS2_1_Whistle",--Perform 'Of Divinity and Sin'
+"Shout_Bard_Perform_DOS2_2_Drum",--
+"Shout_Bard_Perform_DOS2_2_Flute",--
+"Shout_Bard_Perform_DOS2_2_Lute",--
+"Shout_Bard_Perform_DOS2_2_Lyre",--
+"Shout_Bard_Perform_DOS2_2_Violin",--
+"Shout_Bard_Perform_DOS2_2_Whistle",--Perform 'Sing For Me'
+"Shout_Bard_Perform_DOS2_3_Drum",--
+"Shout_Bard_Perform_DOS2_3_Flute",--
+"Shout_Bard_Perform_DOS2_3_Lute",--
+"Shout_Bard_Perform_DOS2_3_Lyre",--
+"Shout_Bard_Perform_DOS2_3_Violin",--
+"Shout_Bard_Perform_DOS2_3_Whistle",--Perform 'The Queen's High Seas'
+"Shout_Bard_Perform_Drum",--
+"Shout_Bard_Perform_Flute",--
+"Shout_Bard_Perform_Lute",--
+"Shout_Bard_Perform_Lyre",--
+"Shout_Bard_Perform_Stargazing_Drum",--
+"Shout_Bard_Perform_Stargazing_Flute",--
+"Shout_Bard_Perform_Stargazing_Lute",--
+"Shout_Bard_Perform_Stargazing_Lyre",--
+"Shout_Bard_Perform_Stargazing_Violin",--
+"Shout_Bard_Perform_Stargazing_Whistle",--Perform 'Old Time Battles'
+"Shout_Bard_Perform_ThePower_Drum",--
+"Shout_Bard_Perform_ThePower_Flute",--
+"Shout_Bard_Perform_ThePower_Lute",--
+"Shout_Bard_Perform_ThePower_Lyre",--
+"Shout_Bard_Perform_ThePower_Violin",--
+"Shout_Bard_Perform_ThePower_Whistle",--Perform 'The Power'
+"Shout_Bard_Perform_Violin",--
+"Shout_Bard_Perform_Whistle",--Perform
+"Shout_BeaconOfHope",--Beacon of Hope
+"Shout_BeaconOfHope_4",--
+"Shout_BeaconOfHope_5",--
+"Shout_BeaconOfHope_6",--
+"Shout_Berserk_FleshGolem",--Corpulent Rage
+"Shout_BlackHole_DarkVine_Giant",--Black Hole
+"Shout_BladeWard",--Blade Ward
+"Shout_Blink",--Blink
+"Shout_Blink_4",--
+"Shout_Blink_5",--
+"Shout_Blink_6",--
+"Shout_Blink_Dismiss",--Dismiss Blink
+"Shout_Blink_Teleport_Dismiss",--Leave Ethereal Plane
+"Shout_Blur",--Blur
+"Shout_Blur_3",--
+"Shout_Blur_4",--
+"Shout_Blur_5",--
+"Shout_Blur_6",--
+"Shout_Blur_Githyanki",--
+"Shout_BootsOfSpeed",--Click Heels
+"Shout_BreakFree_Restrained",--Break Free
+"Shout_BurningRage_Myrmidon_Fire",--Myrmidon's Immolation
+"Shout_CHA_ShellKid_Stone_Spell",--Umberlee's Praise
+"Shout_COL_RestoreDrain_Madness",--Madness
+"Shout_COL_RestoreDrain_PsychicDamage",--Psychic Damage
+"Shout_COL_RestoreDrain_Stun",--Stun
+"Shout_CRA_DyingMindflayer_Enthrall",--Enthrall
+"Shout_CRE_GithyankiInquisitor_Mindsteal_Tempest",--Mindsteal Tempest
+"Shout_CRE_MAG_Githborn_Aberrations_Hunt",--Ancient Grudges
+"Shout_CallForHelp",--Cry for Help
+"Shout_CallForHelp_GiantEagle",--
+"Shout_CallForHelp_HookHorror",--Echoes in the Dark
+"Shout_CallForHelp_ScryingEye",--Psychic Scream
+"Shout_CallOfTheDamned_Apostle",--Call of the Damned
+"Shout_CharmAnimalsAndPlants",--Charm Animals and Plants
+"Shout_CloakOfShadows",--Channel Divinity: Cloak of Shadows
+"Shout_CloakOfShadows_Monk",--Cloak of Shadows
+"Shout_CoinBomb_TollCollector",--Combustible Coins
+"Shout_CoinStorm_TollCollector",--Coinstorm
+"Shout_ComprehendLanguages",--Comprehend Languages
+"Shout_Countercharm_Perform_ThePower",--Countercharm
+"Shout_CreateLava",--Create Lava
+"Shout_CreateSorceryPoints",--Create Sorcery Points
+"Shout_CreateSorceryPoints_1",--Create Sorcery Points: 1
+"Shout_CreateSorceryPoints_2",--Create Sorcery Points: 2
+"Shout_CreateSorceryPoints_3",--Create Sorcery Points: 3
+"Shout_CreateSorceryPoints_4",--Create Sorcery Points: 4
+"Shout_CreateSpellSlot",--Create Spell Slot
+"Shout_CreateSpellSlot_1",--Create Spell Slot: Level 1
+"Shout_CreateSpellSlot_2",--Create Spell Slot: Level 2
+"Shout_CreateSpellSlot_3",--Create Spell Slot: Level 3
+"Shout_CreateSpellSlot_4",--Create Spell Slot: Level 4
+"Shout_CreateSpellSlot_5",--Create Spell Slot: Level 5
+"Shout_Crouch",--Crouch
+"Shout_CrusadersMantle",--Crusader's Mantle
+"Shout_CrusadersMantle_4",--
+"Shout_CrusadersMantle_5",--
+"Shout_CrusadersMantle_6",--
+"Shout_CursedTome_Seelie_Wildshape",--Sights of the Seelie: Bestial Communion Wildshape
+"Shout_DEAD_GIRL",--
+"Shout_DEN_ARM_LuckyBoots_Spell",--%%% Lucky Boots
+"Shout_DEN_Halsin_WildShape_Bear",--
+"Shout_DEN_KanonPush",--Push
+"Shout_DEPRECATED_HAV_InvisHelper_TurnOffTorches",--
+"Shout_DEPRECATED_HAV_PsychicPlague",--%%% Psychic Plague
+"Shout_DarkUrge_Dismiss",--Dismiss: Slayer
+"Shout_DarkUrge_Slayer",--Slayer
+"Shout_Darkvision_ThirdEye",--Third Eye: Darkvision
+"Shout_Dash",--Dash
+"Shout_Dash_BonusAction",--Dash: Bonus Action
+"Shout_Dash_BonusAction_NPC",--
+"Shout_Dash_CunningAction",--Cunning Action: Dash
+"Shout_Dash_CunningAction_NPC_OncePerTurn",--
+"Shout_Dash_HookHorror",--
+"Shout_Dash_NPC",--
+"Shout_Dash_StepOfTheWind",--Step of the Wind: Dash
+"Shout_DeathBurst_Chosen_IceMephit",--Death Burst
+"Shout_DeathBurst_Chosen_MudMephit",--Death Burst
+"Shout_DestructiveWave",--Destructive Wave
+"Shout_DestructiveWave_Necrotic",--Destructive Wave: Necrotic
+"Shout_DestructiveWave_Necrotic_6",--
+"Shout_DestructiveWave_Radiant",--Destructive Wave: Radiant
+"Shout_DestructiveWave_Radiant_6",--
+"Shout_DetectEvilAndGood",--Detect Evil and Good
+"Shout_DetectThoughts",--Detect Thoughts
+"Shout_DetectThoughts_3",--
+"Shout_DetectThoughts_4",--
+"Shout_DetectThoughts_5",--
+"Shout_DetectThoughts_6",--
+"Shout_Disengage",--Disengage
+"Shout_Disengage_BonusAction",--Disengage: Bonus Action
+"Shout_Disengage_CunningAction",--Cunning Action: Disengage
+"Shout_Disengage_Goblin",--Nimble Escape
+"Shout_Disengage_StepOfTheWind",--Step of the Wind: Disengage
+"Shout_DisguiseSelf",--Disguise Self
+"Shout_DisguiseSelf_Cancel",--Dispel Disguise
+"Shout_DisguiseSelf_Dragonborn_Female",--Disguise Self: Femme Dragonborn
+"Shout_DisguiseSelf_Dragonborn_Female_MOMF",--
+"Shout_DisguiseSelf_Dragonborn_Male",--Disguise Self: Masc Dragonborn
+"Shout_DisguiseSelf_Dragonborn_Male_MOMF",--
+"Shout_DisguiseSelf_Drow_Female",--Disguise Self: Femme Drow
+"Shout_DisguiseSelf_Drow_Female_MOMF",--
+"Shout_DisguiseSelf_Drow_Male",--Disguise Self: Masc Drow
+"Shout_DisguiseSelf_Drow_Male_MOMF",--
+"Shout_DisguiseSelf_Drow_Strong_Female",--Disguise Self: Femme Strong Drow
+"Shout_DisguiseSelf_Drow_Strong_Female_MOMF",--
+"Shout_DisguiseSelf_Drow_Strong_Male",--Disguise Self: Masc Strong Drow
+"Shout_DisguiseSelf_Drow_Strong_Male_MOMF",--
+"Shout_DisguiseSelf_Dwarf_Female",--Disguise Self: Femme Dwarf
+"Shout_DisguiseSelf_Dwarf_Female_MOMF",--
+"Shout_DisguiseSelf_Dwarf_Male",--Disguise Self: Masc Dwarf
+"Shout_DisguiseSelf_Dwarf_Male_MOMF",--
+"Shout_DisguiseSelf_Elf_Female",--Disguise Self: Femme Elf
+"Shout_DisguiseSelf_Elf_Female_MOMF",--
+"Shout_DisguiseSelf_Elf_Male",--Disguise Self: Masc Elf
+"Shout_DisguiseSelf_Elf_Male_MOMF",--
+"Shout_DisguiseSelf_Elf_Strong_Female",--Disguise Self: Femme Strong Elf
+"Shout_DisguiseSelf_Elf_Strong_Female_MOMF",--
+"Shout_DisguiseSelf_Elf_Strong_Male",--Disguise Self: Masc Strong Elf
+"Shout_DisguiseSelf_Elf_Strong_Male_MOMF",--
+"Shout_DisguiseSelf_Githyanki_Female",--Disguise Self: Femme Githyanki
+"Shout_DisguiseSelf_Githyanki_Female_MOMF",--
+"Shout_DisguiseSelf_Githyanki_Male",--Disguise Self: Masc Githyanki
+"Shout_DisguiseSelf_Githyanki_Male_MOMF",--
+"Shout_DisguiseSelf_Gnome_Female",--Disguise Self: Femme Gnome
+"Shout_DisguiseSelf_Gnome_Female_MOMF",--
+"Shout_DisguiseSelf_Gnome_Male",--Disguise Self: Masc Gnome
+"Shout_DisguiseSelf_Gnome_Male_MOMF",--
+"Shout_DisguiseSelf_HalfElf_Female",--Disguise Self: Femme Half-Elf
+"Shout_DisguiseSelf_HalfElf_Female_MOMF",--
+"Shout_DisguiseSelf_HalfElf_Male",--Disguise Self: Masc Half-Elf
+"Shout_DisguiseSelf_HalfElf_Male_MOMF",--
+"Shout_DisguiseSelf_HalfElf_Strong_Female",--Disguise Self: Femme Strong Half-Elf
+"Shout_DisguiseSelf_HalfElf_Strong_Female_MOMF",--
+"Shout_DisguiseSelf_HalfElf_Strong_Male",--Disguise Self: Masc Strong Half-Elf
+"Shout_DisguiseSelf_HalfElf_Strong_Male_MOMF",--
+"Shout_DisguiseSelf_HalfOrc_Female",--Disguise Self: Femme Half-Orc
+"Shout_DisguiseSelf_HalfOrc_Female_MOMF",--
+"Shout_DisguiseSelf_HalfOrc_Male",--Disguise Self: Masc Half-Orc
+"Shout_DisguiseSelf_HalfOrc_Male_MOMF",--
+"Shout_DisguiseSelf_Halfling_Female",--Disguise Self: Femme Halfling
+"Shout_DisguiseSelf_Halfling_Female_MOMF",--
+"Shout_DisguiseSelf_Halfling_Male",--Disguise Self: Masc Halfling
+"Shout_DisguiseSelf_Halfling_Male_MOMF",--
+"Shout_DisguiseSelf_Human_Female",--Disguise Self: Femme Human
+"Shout_DisguiseSelf_Human_Female_MOMF",--
+"Shout_DisguiseSelf_Human_Male",--Disguise Self: Masc Human
+"Shout_DisguiseSelf_Human_Male_Doppelganger",--
+"Shout_DisguiseSelf_Human_Male_MOMF",--
+"Shout_DisguiseSelf_Human_Strong_Female",--Disguise Self: Femme Strong Human
+"Shout_DisguiseSelf_Human_Strong_Female_MOMF",--
+"Shout_DisguiseSelf_Human_Strong_Male",--Disguise Self: Masc Strong Human
+"Shout_DisguiseSelf_Human_Strong_Male_MOMF",--
+"Shout_DisguiseSelf_MaskOfManyFaces",--Shapeshift
+"Shout_DisguiseSelf_Tiefling_Female",--Disguise Self: Femme Tiefling
+"Shout_DisguiseSelf_Tiefling_Female_MOMF",--
+"Shout_DisguiseSelf_Tiefling_Male",--Disguise Self: Masc Tiefling
+"Shout_DisguiseSelf_Tiefling_Male_MOMF",--
+"Shout_DisguiseSelf_Tiefling_Strong_Female",--Disguise Self: Femme Strong Tiefling
+"Shout_DisguiseSelf_Tiefling_Strong_Female_MOMF",--
+"Shout_DisguiseSelf_Tiefling_Strong_Male",--Disguise Self: Masc Strong Tiefling
+"Shout_DisguiseSelf_Tiefling_Strong_Male_MOMF",--
+"Shout_Dismiss_Self",--Dismiss Summon
+"Shout_DispelEvilAndGood",--Dispel Evil And Good
+"Shout_DispelEvilAndGood_6",--
+"Shout_Distract_Cat_Summon",--Meow
+"Shout_DivineEminence",--Divine Eminence
+"Shout_DivineFavor",--Divine Favour
+"Shout_DivineFavor_2",--Divine Favour
+"Shout_DivineFavor_3",--Divine Favour
+"Shout_DivineFavor_4",--
+"Shout_DivineFavor_5",--
+"Shout_DivineFavor_6",--
+"Shout_DivineIntervention",--Divine Intervention
+"Shout_DivineIntervention_Attack",--Divine Intervention: Sunder the Heretical
+"Shout_DivineIntervention_Healing",--Divine Intervention: Opulent Revival
+"Shout_DivineIntervention_Supplies",--Divine Intervention: Golden Generosity
+"Shout_DivineIntervention_Weapon",--Divine Intervention: Arm Thy Servant
+"Shout_DivineSense",--Divine Sense
+"Shout_Dreadful_Aspect",--Dreadful Aspect
+"Shout_END_AllyAbilities_MultipleSummon",--Gather Your Allies
+"Shout_END_DevilishOX_Polymorph_Dismiss",--
+"Shout_END_EmperorPrelude_PsionicDream",--
+"Shout_END_Gale_ActivateNethereseOrb",--Netherese Orb Blast
+"Shout_END_MindFlayerFormCivilian",--
+"Shout_END_Nautiloid_HighHallInterior_Firing",--Nautiloid Bombardment
+"Shout_END_Nautiloid_HighHallInterior_Targeting",--Nautiloid Targeting
+"Shout_END_NetherBrain_KarsusCompulsionResist",--Defy Compulsion
+"Shout_END_Netherbrain_CommandForces",--Command Forces
+"Shout_END_Netherbrain_DraconicDomination",--Countermeasure: Dominate
+"Shout_END_Netherbrain_HellFromAbove",--Countermeasure: Fleet
+"Shout_END_Rooftops_CallForHelp",--Calling for help.
+"Shout_END_Rooftops_HelpArrives",--Strength in Numbers
+"Shout_END_SpiritGuardians_Necrotic_SuperThrall",--
+"Shout_EndRage",--End Rage
+"Shout_EndlessRage",--Endless Rage
+"Shout_Enlarge_Duergar",--Enlarge
+"Shout_EntanglingPlants_Blight_Vine",--Entangling Plants
+"Shout_EvasiveFootwork",--Evasive Footwork
+"Shout_ExpeditiousRetreat",--Expeditious Retreat
+"Shout_ExpeditiousRetreat_2",--Expeditious Retreat
+"Shout_ExpeditiousRetreat_3",--Expeditious Retreat
+"Shout_ExpeditiousRetreat_4",--
+"Shout_ExpeditiousRetreat_5",--
+"Shout_ExpeditiousRetreat_6",--
+"Shout_FOR_Ogre_Blur",--
+"Shout_FOR_Ogre_Enrage",--Buthir's Wrath
+"Shout_FOR_Ogre_Enrage_Hardcore",--
+"Shout_FOR_Owlbear_Enrage",--A Mother's Desperation
+"Shout_FOR_Owlbear_Enrage_Hardcore",--
+"Shout_FOR_SpiderQueen_Enrage",--Spider Queen's Wrath
+"Shout_FOR_SpiderQueen_Enrage_Hardcore",--
+"Shout_FalseLife",--False Life
+"Shout_FalseLife_2",--False Life
+"Shout_FalseLife_3",--False Life
+"Shout_FalseLife_4",--
+"Shout_FalseLife_5",--
+"Shout_FalseLife_6",--
+"Shout_FalseLife_FiendishVigor",--Invocation: False Life
+"Shout_Fear_TollCollector_Face",--Blind Terror
+"Shout_FeatherFall",--Feather Fall
+"Shout_FeatherFall_2",--Feather Fall
+"Shout_FeatherFall_3",--Feather Fall
+"Shout_FeatherFall_4",--
+"Shout_FeatherFall_5",--
+"Shout_FeatherFall_6",--
+"Shout_FerociousAppetite",--Unrelenting Ferocity
+"Shout_FeyPresence",--Fey Presence: Beguiling
+"Shout_FeyPresence_Container",--Fey Presence
+"Shout_FeyPresence_Frightened",--Fey Presence: Disturbing
+"Shout_FireShield",--Fire Shield
+"Shout_FireShield_5",--
+"Shout_FireShield_6",--
+"Shout_FireShield_Chill",--Fire Shield: Chill
+"Shout_FireShield_Chill_5",--
+"Shout_FireShield_Chill_6",--
+"Shout_FireShield_Warm",--Fire Shield: Warm
+"Shout_FireShield_Warm_5",--
+"Shout_FireShield_Warm_6",--
+"Shout_Fire_TollCollector_Face",--Burning Avarice
+"Shout_FlameBlade",--Flame Blade
+"Shout_FlameBlade_3",--
+"Shout_FlameBlade_4",--
+"Shout_FlameBlade_5",--
+"Shout_FlameBlade_6",--
+"Shout_FlameBlade_MephistophelesTiefling",--Legacy of Cania: Flame Blade
+"Shout_Fly_Monk",--Ride the Wind
+"Shout_ForcedDive_VampireSquid_Tentacle",--Forced Dive
+"Shout_FrightfulPresence_Dragon",--
+"Shout_FrightfulPresence_Dragon_Skeletal",--Frightful Presence
+"Shout_FullSwing",--Prepare
+"Shout_Fury_Gnoll",--Seething Fury
+"Shout_Fury_Gnoll_Boss",--
+"Shout_Fury_Gnoll_Unlock",--Frenzied Fury
+"Shout_GLO_Pixie_InspectMoonlantern",--Inspect Moonlantern
+"Shout_GLO_Voss_TeleportOut",--
+"Shout_GOB_DetonateSelf",--Detonate
+"Shout_GOB_GoblinKing_ForceShout",--Repulsor
+"Shout_GOB_GoblinPriest_CallForHelp",--Call for Help
+"Shout_GOB_Ogre_Enrage",--Polma's Wrath
+"Shout_GOB_PainPriest_DaggerSpell",--Blood Sacrifice
+"Shout_GOB_Priestess_MirrorImage",--
+"Shout_GOB_WolfPens_Dash_GoblinAdult",--
+"Shout_GOB_WolfPens_Dash_GoblinKid",--
+"Shout_GOB_WolfPens_Disengage_GoblinKid",--
+"Shout_GaseousForm_Dismiss",--Dismiss Gaseous Form
+"Shout_GaseousForm_Monk",--Mist Stance
+"Shout_Generic_Bugbear",--
+"Shout_Generic_Gnoll",--
+"Shout_Generic_Goblin",--
+"Shout_Generic_Minotaur",--
+"Shout_Generic_Ogre",--
+"Shout_GoadingRoar_Bear_Summon",--Goading Roar
+"Shout_GoblinWarcry",--Reckless Warcry
+"Shout_Grapple_DarkVine_Interrupt",--Stop Grappling
+"Shout_GuidedStrike",--Guided Strike
+"Shout_HAG_Frog_ReflectiveMucus",--Reflective Mucus
+"Shout_HAG_SpawnDoubles_MayrinaIllusion",--Damsel in Distress
+"Shout_HAG_SpawnDoubles_Phase1",--Auntie's Trickery
+"Shout_HAG_SpawnDoubles_Phase2",--A Coven of Hags
+"Shout_HAG_UseCharm",--Charm
+"Shout_HAV_FlamingSpy_SummonHands",--Awaken Crawling Claws
+"Shout_HAV_FlamingSpy_VampiricShout",--Vampiric Shout
+"Shout_HarmonyOfFireAndWater",--Harmony of Fire and Water
+"Shout_HealingMist_Myrmidon_Water",--Healing Vapours
+"Shout_HealingMist_Wildshape_Myrmidon_Water",--
+"Shout_HealingRadiance",--Healing Radiance
+"Shout_HealingRadiance_Heal",--Healing Radiance
+"Shout_HealingWord_Mass",--Mass Healing Word
+"Shout_HealingWord_Mass_4",--
+"Shout_HealingWord_Mass_5",--
+"Shout_HealingWord_Mass_6",--
+"Shout_HellishRebuke",--Hellish Rebuke
+"Shout_HellishRebuke_2",--Hellish Rebuke
+"Shout_HellishRebuke_3",--Hellish Rebuke
+"Shout_HellishRebuke_4",--
+"Shout_HellishRebuke_5",--
+"Shout_HellishRebuke_6",--
+"Shout_HellishRebuke_AsmodeusTiefling",--Infernal Legacy: Hellish Rebuke
+"Shout_HellishRebuke_WarlockMI",--
+"Shout_HelpArrives",--Strength in Numbers
+"Shout_HelpArrives_GiantEagle",--Signalling Cry
+"Shout_HelpArrives_HookHorror",--Hook Clacks
+"Shout_HelpArrives_ScryingEye",--Psychic Resonance
+"Shout_HeroesFeast",--Heroes' Feast
+"Shout_Hide",--Hide
+"Shout_HideInPlainSight",--Hide in Plain Sight
+"Shout_Hide_BonusAction",--Cunning Action: Hide
+"Shout_Hide_DreadAmbusher",--Dread Ambusher: Hide
+"Shout_Hide_ShadowArts",--Shadow Arts: Hide
+"Shout_ITEMS",--
+"Shout_InfiltrationExpertise",--Infiltration Expertise
+"Shout_InfiltrationExpertise_Cancel",--Dispel Identity
+"Shout_InfiltrationExpertise_Dragonborn_Female",--Infiltration Expertise: Femme Dragonborn
+"Shout_InfiltrationExpertise_Dragonborn_Male",--Infiltration Expertise: Masc Dragonborn
+"Shout_InfiltrationExpertise_Drow_Female",--Infiltration Expertise: Femme Drow
+"Shout_InfiltrationExpertise_Drow_Male",--Infiltration Expertise: Masc Drow
+"Shout_InfiltrationExpertise_Drow_Strong_Female",--Infiltration Expertise: Femme Strong Drow
+"Shout_InfiltrationExpertise_Drow_Strong_Male",--Infiltration Expertise: Masc Strong Drow
+"Shout_InfiltrationExpertise_Dwarf_Female",--Infiltration Expertise: Femme Dwarf
+"Shout_InfiltrationExpertise_Dwarf_Male",--Infiltration Expertise: Masc Dwarf
+"Shout_InfiltrationExpertise_Elf_Female",--Infiltration Expertise: Femme Elf
+"Shout_InfiltrationExpertise_Elf_Male",--Infiltration Expertise: Masc Elf
+"Shout_InfiltrationExpertise_Elf_Strong_Female",--Infiltration Expertise: Femme Strong Elf
+"Shout_InfiltrationExpertise_Elf_Strong_Male",--Infiltration Expertise: Masc Strong Elf
+"Shout_InfiltrationExpertise_Githyanki_Female",--Infiltration Expertise: Femme Githyanki
+"Shout_InfiltrationExpertise_Githyanki_Male",--Infiltration Expertise: Masc Githyanki
+"Shout_InfiltrationExpertise_Gnome_Female",--Infiltration Expertise: Femme Gnome
+"Shout_InfiltrationExpertise_Gnome_Male",--Infiltration Expertise: Masc Gnome
+"Shout_InfiltrationExpertise_HalfElf_Female",--Infiltration Expertise: Femme Half-Elf
+"Shout_InfiltrationExpertise_HalfElf_Male",--Infiltration Expertise: Masc Half-Elf
+"Shout_InfiltrationExpertise_HalfElf_Strong_Female",--Infiltration Expertise: Femme Strong Half-Elf
+"Shout_InfiltrationExpertise_HalfElf_Strong_Male",--Infiltration Expertise: Masc Strong Half-Elf
+"Shout_InfiltrationExpertise_HalfOrc_Female",--Infiltration Expertise: Femme Half-Orc
+"Shout_InfiltrationExpertise_HalfOrc_Male",--Infiltration Expertise: Masc Half-Orc
+"Shout_InfiltrationExpertise_Halfling_Female",--Infiltration Expertise: Femme Halfling
+"Shout_InfiltrationExpertise_Halfling_Male",--Infiltration Expertise: Masc Halfling
+"Shout_InfiltrationExpertise_Human_Female",--Infiltration Expertise: Femme Human
+"Shout_InfiltrationExpertise_Human_Male",--Infiltration Expertise: Masc Human
+"Shout_InfiltrationExpertise_Human_Strong_Female",--Infiltration Expertise: Femme Strong Human
+"Shout_InfiltrationExpertise_Human_Strong_Male",--Infiltration Expertise: Masc Strong Human
+"Shout_InfiltrationExpertise_Tiefling_Female",--Infiltration Expertise: Femme Tiefling
+"Shout_InfiltrationExpertise_Tiefling_Male",--Infiltration Expertise: Masc Tiefling
+"Shout_InfiltrationExpertise_Tiefling_Strong_Female",--Infiltration Expertise: Femme Strong Tiefling
+"Shout_InfiltrationExpertise_Tiefling_Strong_Male",--Infiltration Expertise: Masc Strong Tiefling
+"Shout_Inkblot",--Inkblot
+"Shout_InspiringLeader",--Inspiring Leader
+"Shout_InvisibilityField_Orthon",--
+"Shout_Invisibility_Duergar",--
+"Shout_Invisibility_Imp",--Invisibility
+"Shout_Invisibility_MistyEscape",--Cloaking Mist
+"Shout_Invisibility_Myrmidon_Air",--Invisibility
+"Shout_Invisibility_Quasit",--
+"Shout_Invisibility_ShadarKai_GloomWeaver",--Invisibility
+"Shout_KnowledgeOfTheAges",--Knowledge of the Ages
+"Shout_KnowledgeOfTheAges_Charisma",--Knowledge of the Ages: Charisma
+"Shout_KnowledgeOfTheAges_Dexterity",--Knowledge of the Ages: Dexterity
+"Shout_KnowledgeOfTheAges_Intelligence",--Knowledge of the Ages: Intelligence
+"Shout_KnowledgeOfTheAges_Strength",--Knowledge of the Ages: Strength
+"Shout_KnowledgeOfTheAges_Wisdom",--Knowledge of the Ages: Wisdom
+"Shout_LOW_BhaalCultist_PowerWordKill_Ritual",--Bhaal's Power Word Kill Ritual
+"Shout_LOW_BhaalCultist_PowerWordKill_Ritual_Start",--Bhaal's Power Word Kill Ritual
+"Shout_LOW_BhaalCultist_Teleport",--Benign Transposition: Teleport
+"Shout_LOW_Cazador_Ascend",--Ascension
+"Shout_LOW_Cazador_SwitchStance",--Enough, Wretches!
+"Shout_LOW_Dolor_Dash",--
+"Shout_LOW_Dolor_Disengage",--
+"Shout_LOW_FlamingFist_Cleric_Aid_4",--
+"Shout_LOW_FlamingFist_Cleric_CrussadersMantle_4",--
+"Shout_LOW_GithyankiPaladin_ConqueringPresence",--Conquering Presence
+"Shout_LOW_GreaseWizard_RaiseFire",--Invigorating Flame
+"Shout_LOW_HagSurvivor_Summon",--Crustacean Horde Call
+"Shout_LOW_Hag_InvisiblePassage",--Invisible Passage
+"Shout_LOW_Hag_Mushroom_Heal",--
+"Shout_LOW_Hag_SpawnDoubles_Phase1",--
+"Shout_LOW_Hag_SpawnDoubles_Phase2",--
+"Shout_LOW_Hag_SpawnDoubles_Phase3",--
+"Shout_LOW_Hag_SpawnDoubles_Phase4",--
+"Shout_LOW_HoH_DebtorExplosion",--Forever Indebted
+"Shout_LOW_HoH_Debtor_FlameBlade",--
+"Shout_LOW_HoH_Raphael_DebtorExplosion",--
+"Shout_LOW_HouseOfGrief_DivineIntervention",--
+"Shout_LOW_HouseOfGrief_ExploitFear_Spiders",--%%% Exploit Fear: Spiders
+"Shout_LOW_HouseOfGrief_ExploitFear_Wolf",--%%% Exploit Fear: Wolves
+"Shout_LOW_HouseOfGrief_Howl",--Sinister Howl
+"Shout_LOW_HouseOfGrief_UmbralFury",--
+"Shout_LOW_KelemvorPriestess_SpiritGuardians",--
+"Shout_LOW_KoboldHole_SpawnKobold_Inventor",--
+"Shout_LOW_KoboldHole_SpawnKobold_Melee",--Burrowing Kobold
+"Shout_LOW_KoboldHole_SpawnKobold_Ranged",--
+"Shout_LOW_KoboldLooter_CallsGang",--Gather the Pack
+"Shout_LOW_LivingSacrifice_Slayer",--Sanguine Animation
+"Shout_LOW_MindFlayerFormCivilian",--
+"Shout_LOW_MistyEscape_Astarion",--Misty Escape
+"Shout_LOW_MistyEscape_Vampire_Cazador",--Misty Escape
+"Shout_LOW_MurderPrayer_ReaperOfBhaal",--
+"Shout_LOW_MurderTribunal_DeathbringerLegacy",--Deathbringer's Legacy
+"Shout_LOW_NecromancyOfThay_Summon_Technical",--Necromancy of Thay
+"Shout_LOW_OpenGate_BringReinforcements",--Extraplanar Summons
+"Shout_LOW_OskarsBeloved_Visage_Confusion",--Disconcerting Visage
+"Shout_LOW_OskarsBeloved_Visage_Confusion_Hardcore",--Disconcerting Visage
+"Shout_LOW_OskarsBeloved_Visage_Frightened",--Terrifying Visage
+"Shout_LOW_OskarsBeloved_Visage_Frightened_Hardcore",--Terrifying Visage
+"Shout_LOW_OskarsBeloved_Visage_Unnerved",--Perturbing Visage
+"Shout_LOW_Raphael_SoulSiphon",--Consume Souls
+"Shout_LOW_Raphael_SoulSiphon_Hardcore",--
+"Shout_LOW_Raphael_SoulSiphon_Urgent",--
+"Shout_LOW_Raphael_SoulSiphon_Urgent_Hardcore",--
+"Shout_LOW_Raphael_Transform",--Fiendish Ascension
+"Shout_LOW_Raphael_Transform_2",--
+"Shout_LOW_Raphael_Transform_3",--
+"Shout_LOW_Raphael_Transform_4",--
+"Shout_LOW_Raphael_Transform_Failsafe",--
+"Shout_LOW_Sacrifice_Slayer_Orin",--
+"Shout_LOW_SerialKiller_BootsOfDimensionDoor",--Boots of Dimension Door
+"Shout_LOW_Shapechanger_Doppelganger_Highberry_000",--null
+"Shout_LOW_SorcerousSundries_WakeOfTheDead",--Wake of the Dead
+"Shout_LOW_SteelWatchFoundry_ActivateCollarDetonation",--Initiate Collar Detonation
+"Shout_LOW_TheLodge_Wildshape",--
+"Shout_LOW_TransformIntoSlayer_Orin",--
+"Shout_LOW_UnsettlingVisage_Orin",--Unsettling Visage
+"Shout_LOW_Wilshape_Myrmidon_Fire_NPC",--
+"Shout_Leadership_Hobgoblin",--Leadership
+"Shout_LuringSong_Harpy",--Luring Song
+"Shout_MAG_Aid",--
+"Shout_MAG_Aid3_KhalidsGift_Self",--Khalid's Gift: Aid
+"Shout_MAG_Aid3_Self",--Shield of Devotion: Aid
+"Shout_MAG_Aid_Self",--Absolute's Talisman: Aid
+"Shout_MAG_ArmorOfAgathys_3",--
+"Shout_MAG_ArmsOfHadar_3",--
+"Shout_MAG_BeaconOfHope",--
+"Shout_MAG_Blink",--
+"Shout_MAG_BloodOfLathander_PrayerOfHealing",--
+"Shout_MAG_ChargedLightning_Discharge",--Discharge Voltage
+"Shout_MAG_ChargedLightning_LightningAura",--Lightning Aura
+"Shout_MAG_ChargedLightning_LightningBlast",--Lightning Blast
+"Shout_MAG_CircuitryInterface",--Circuitry Interface
+"Shout_MAG_CombatStaff_Enlarge",--Whossa Large Fellow?
+"Shout_MAG_Critical_ArcanicCritical",--Arcane Critical
+"Shout_MAG_CrusadersMantle",--
+"Shout_MAG_DarkJusticiarArmor_Lesser_ShieldOfFaith",--Shar's Aegis
+"Shout_MAG_DarkJusticiarArmor_ShieldOfFaith",--Shar's Aegis
+"Shout_MAG_DetectThoughts",--
+"Shout_MAG_DevoteesMace_Healing_Aura",--Healing Incense Aura
+"Shout_MAG_Dismiss_CircuitryInterface",--Dismiss Construct Mode
+"Shout_MAG_FireShield_Chill",--
+"Shout_MAG_FireShield_Chill_Ravengard",--
+"Shout_MAG_FireShield_Ravengard",--
+"Shout_MAG_FireShield_Warm",--
+"Shout_MAG_FireShield_Warm_Ravengard",--
+"Shout_MAG_Fire_SelfImmolation",--Self Immolation
+"Shout_MAG_FlamingFist_BattleWizardGauntlet_ProtectionFromMissiles",--Protection From Missiles
+"Shout_MAG_FlamingFist_BlazingRetaliation",--Blazing Retaliation
+"Shout_MAG_FlamingFist_ScoutRing_Blur",--
+"Shout_MAG_HarpersAmulet_Shield",--
+"Shout_MAG_Harpers_HarmonizingRapier_Perfrom",--Mellow Harmony
+"Shout_MAG_Harpers_RingOfTwilight_Hide",--Twilit Shroud
+"Shout_MAG_Harpers_SingingSword_Container",--Phalar Aluve: Melody
+"Shout_MAG_Harpers_SingingSword_Shriek",--Phalar Aluve: Shriek
+"Shout_MAG_Harpers_SingingSword_Sing",--Phalar Aluve: Sing
+"Shout_MAG_HealingWord_Mass",--
+"Shout_MAG_Infernal_Fly",--Fly
+"Shout_MAG_Inkblot",--Darkness Cloak
+"Shout_MAG_Jump",--Jump
+"Shout_MAG_Legendary_Chromatic_DestructiveWave",--
+"Shout_MAG_Legendary_GiantSlayer_EnlargeSelf",--Giant Form
+"Shout_MAG_Martial_Exertion",--Martial Exertion
+"Shout_MAG_MirrorImage",--
+"Shout_MAG_Monk_DetectThought",--
+"Shout_MAG_Monk_Restore_Ki",--Ki Restoration
+"Shout_MAG_Monk_Restore_Ki_Lesser",--
+"Shout_MAG_PassWithoutTrace",--
+"Shout_MAG_ProduceFlame",--
+"Shout_MAG_PullingShout",--Tightening Orbit
+"Shout_MAG_RampartAura",--Rampart Aura
+"Shout_MAG_RavenAmulet_Polymorph",--Polymorph: Dire Raven
+"Shout_MAG_RavenAmulet_Polymorph_Dismiss",--Dismiss Polymorph
+"Shout_MAG_Restore_BardicInspiration",--Restore Bardic Inspiration
+"Shout_MAG_Restore_ChannelDivinity",--Eternal Devotion
+"Shout_MAG_SeeInvisibility",--
+"Shout_MAG_Self_ElementalWeapon",--Elemental Age
+"Shout_MAG_Self_ElementalWeapon_Acid",--Corrosive Age
+"Shout_MAG_Self_ElementalWeapon_Cold",--Glacial Age
+"Shout_MAG_Self_ElementalWeapon_Fire",--Burning Age
+"Shout_MAG_Selunite_MageArmor",--Lunar Bulwark
+"Shout_MAG_Shapeshift",--Shapeshift
+"Shout_MAG_Shapeshift_Cancel",--Reconstitution
+"Shout_MAG_Shapeshift_Dragonborn_Female",--
+"Shout_MAG_Shapeshift_Dragonborn_Male",--
+"Shout_MAG_Shapeshift_Drow_Female",--
+"Shout_MAG_Shapeshift_Drow_Male",--
+"Shout_MAG_Shapeshift_Dwarf_Female",--
+"Shout_MAG_Shapeshift_Dwarf_Male",--
+"Shout_MAG_Shapeshift_Elf_Female",--
+"Shout_MAG_Shapeshift_Elf_Male",--
+"Shout_MAG_Shapeshift_Githyanki_Female",--
+"Shout_MAG_Shapeshift_Githyanki_Male",--
+"Shout_MAG_Shapeshift_Gnome_Female",--
+"Shout_MAG_Shapeshift_Gnome_Male",--
+"Shout_MAG_Shapeshift_HalfElf_Female",--
+"Shout_MAG_Shapeshift_HalfElf_Male",--
+"Shout_MAG_Shapeshift_HalfOrc_Female",--
+"Shout_MAG_Shapeshift_HalfOrc_Male",--
+"Shout_MAG_Shapeshift_Halfling_Female",--
+"Shout_MAG_Shapeshift_Halfling_Male",--
+"Shout_MAG_Shapeshift_Human_Female",--
+"Shout_MAG_Shapeshift_Human_Male",--
+"Shout_MAG_Shapeshift_Human_Stong_Female",--
+"Shout_MAG_Shapeshift_Human_Stong_Male",--
+"Shout_MAG_Shapeshift_Tiefling_Female",--
+"Shout_MAG_Shapeshift_Tiefling_Male",--
+"Shout_MAG_Shield",--
+"Shout_MAG_Shield_LeatherArmor",--
+"Shout_MAG_Shout_Fly",--Githborn: Flying Boots
+"Shout_MAG_SoulCatching_Heal",--Soul Snare: Heal
+"Shout_MAG_SpellBlade_Augmentation",--Debilitating Infusion
+"Shout_MAG_SpellSlotRestoration",--Spell Slot Restoration
+"Shout_MAG_SpellSlotRestoration_1",--
+"Shout_MAG_SpellSlotRestoration_2",--
+"Shout_MAG_SpellSlotRestoration_3",--
+"Shout_MAG_SpellSlotRestoration_4",--
+"Shout_MAG_SpellSlotRestoration_5",--
+"Shout_MAG_SpellSlotRestoration_6",--
+"Shout_MAG_SpellSlotRestoration_PearlOfPower",--Pearlescent Restoration
+"Shout_MAG_SpellSlotRestoration_PearlOfPower_1",--Pearlescent Restoration Level 1
+"Shout_MAG_SpellSlotRestoration_PearlOfPower_2",--Pearlescent Restoration Level 2
+"Shout_MAG_SpellSlotRestoration_PearlOfPower_3",--Pearlescent Restoration Level 3
+"Shout_MAG_StoneSkin",--Gargoyle's Countenance
+"Shout_MAG_TheBulwark_ReflectiveShell",--
+"Shout_MAG_TheChromatic_AcidAttunement",--Sizzling Cataclysm
+"Shout_MAG_TheChromatic_ChromaticAttunement",--Kereska's Favour
+"Shout_MAG_TheChromatic_ColdAttunement",--Frost of Dark Winter
+"Shout_MAG_TheChromatic_FireAttunement",--Flame of Wrath
+"Shout_MAG_TheChromatic_LightningAttunement",--Bolts of Doom
+"Shout_MAG_TheChromatic_PoisonAttunement",--Deadlier than Arsenic
+"Shout_MAG_TheChromatic_ThunderAttunement",--Bone-Shaking Thunder
+"Shout_MAG_Thunder_ThunderClap",--Thunderclap
+"Shout_MAG_TurnUndead",--
+"Shout_MAG_Victory_Longbow_Haste",--Celestial Haste
+"Shout_MAG_WarlockSpellRestoration",--Caitiff's Restoration
+"Shout_MAG_WeaponAction_FlashingBlade",--Blinding Flourish
+"Shout_MAG_WeaponAction_TelekineticBolt",--Arcane Ammunition
+"Shout_MAG_WeaponAction_UndeadTurningBolt",--Sacred Munitions
+"Shout_MAG_WhirlwindAttack",--
+"Shout_MAG_Windrider_GaseousForm",--Ride the Winds
+"Shout_MAG_ZOC_GoadingBlast",--Goading Blast
+"Shout_MAG_ZOC_ImmovableShout",--Stand Like Stone
+"Shout_MAG_Zhentarim_Bloodfeeding",--Scarlet Regeneration
+"Shout_MAG_Zhentarim_Bloodfeeding_Container",--Scarlet Feast
+"Shout_MAG_Zhentarim_Bloodfeeding_Critical",--Scarlet Saturation
+"Shout_MAG_Zhentarim_Bloodfeeding_Disadvantage",--Scarlet Stupor
+"Shout_MF_PsionicOverload",--
+"Shout_MONSTERS",--
+"Shout_MOO_BloodPotion_Blur",--
+"Shout_MOO_BloodPotion_Flameblade",--
+"Shout_MOO_BloodPotion_HellishRebuke",--
+"Shout_MOO_BloodPotion_Thaumaturgy",--
+"Shout_MOO_MAG_Ketheric_HowlOfTheDead",--Howl of the Dead
+"Shout_MOO_Nightsong_RadiantConsumption",--Lunar Blessing
+"Shout_MOO_SendingStone_CallJaheira",--%%% Call Jaheira
+"Shout_MageArmor_ArmorOfShadows",--Invocation: Armour of Shadows
+"Shout_MagicAllergy_Enlarge",--Magic Allergy: Chaotic Offence
+"Shout_MagicAllergy_ForceExplosion",--Magic Allergy: Force explosion
+"Shout_MagicAllergy_GremishkaSpawn",--Magic Allergy: Gremishka Spawn
+"Shout_MagicAllergy_Polymorph",--Magic Allergy: Panther Polymorph
+"Shout_MagicAllergy_SelfHeal",--Magic Allergy: Ice Bloom
+"Shout_MagicAwareness",--Magic Awareness
+"Shout_MetalCoating_Myrmidon_Earth",--Muck to Metal
+"Shout_MindFlayerForm",--Ceremorphosis
+"Shout_MindFlayerForm_Dismiss",--Dismiss Form
+"Shout_MirrorImage",--Mirror Image
+"Shout_MirrorImage_3",--
+"Shout_MirrorImage_4",--
+"Shout_MirrorImage_5",--
+"Shout_MirrorImage_6",--
+"Shout_Moan_Cloaker",--Moan
+"Shout_MudSlap_Myrmidon_Earth",--Sludgy Sling
+"Shout_MudSlap_Wildshape_Myrmidon_Earth",--
+"Shout_NaturalRecovery",--Natural Recovery
+"Shout_NaturalRecovery_1",--Natural Recovery: Level 1
+"Shout_NaturalRecovery_2",--Natural Recovery: Level 2
+"Shout_NaturalRecovery_3",--Natural Recovery: Level 3
+"Shout_NaturalRecovery_4",--Natural Recovery: Level 4
+"Shout_NaturalRecovery_5",--Natural Recovery: Level 5
+"Shout_Necrotic_TollCollector_Face",--Death Shriek
+"Shout_Needlestorm_DarkVine_Giant",--Needlestorm
+"Shout_ORI_Wyll_FireShield_Warm",--
+"Shout_OneWithShadows",--One with Shadows
+"Shout_Overheat_Azer",--Overheat
+"Shout_Owlbear_Wildshape_Enrage",--Enrage
+"Shout_Owlbear_Wildshape_Smash",--Rupture
+"Shout_PackHowl_Barbarian",--Inciting Howl
+"Shout_PackHowl_Wolf_Dire",--Inciting Howl
+"Shout_PackHowl_Wolf_Dire_NPC",--Savage Howl
+"Shout_PactOfTheBlade",--Pact of the Blade
+"Shout_PactOfTheBlade_Battleaxe",--Pact of the Blade: Battleaxe
+"Shout_PactOfTheBlade_Bind",--Bind Pact Weapon
+"Shout_PactOfTheBlade_Dismiss",--Dismiss Pact Weapon
+"Shout_PactOfTheBlade_Glaive",--Pact of the Blade: Glaive
+"Shout_PactOfTheBlade_Greatsword",--Pact of the Blade: Greatsword
+"Shout_PactOfTheBlade_Rapier",--Pact of the Blade: Rapier
+"Shout_PactOfTheBlade_Trident",--Pact of the Blade: Trident
+"Shout_PactOfTheBlade_Warhammer",--Pact of the Blade: Warhammer
+"Shout_Paralyze_TollCollector_Face",--Choking Wail
+"Shout_PassWithoutTrace",--Pass Without Trace
+"Shout_PassWithoutTrace_3",--
+"Shout_PassWithoutTrace_4",--
+"Shout_PassWithoutTrace_5",--
+"Shout_PassWithoutTrace_6",--
+"Shout_PassWithoutTrace_Monk",--Shadow Arts: Pass Without Trace
+"Shout_PatientDefense",--Patient Defence
+"Shout_Poison_TollCollector_Face",--Venomous Guilt
+"Shout_PrayerOfHealing",--Prayer of Healing
+"Shout_PrayerOfHealing_3",--
+"Shout_PrayerOfHealing_4",--
+"Shout_PrayerOfHealing_5",--
+"Shout_PrayerOfHealing_6",--
+"Shout_PrecisionAttack",--Precision Attack
+"Shout_PreserveLife",--Preserve Life
+"Shout_PrimalHowl_Wolf",--
+"Shout_PrimevalAwareness_SenseCreatures",--Primeval Awareness: Sense Creatures
+"Shout_ProduceFlame",--Produce Flame
+"Shout_ProduceFlame_Dismiss",--Produce Flame: Dismiss
+"Shout_Prowl_Panther",--Prowl
+"Shout_RadianceOfTheDawn",--Radiance of the Dawn
+"Shout_Rage",--Rage
+"Shout_Rage_Boar",--
+"Shout_Rage_Frenzy",--Frenzy
+"Shout_Rage_Totem_Bear",--Rage: Bear Heart
+"Shout_Rage_Totem_Eagle",--Rage: Eagle Heart
+"Shout_Rage_Totem_Elk",--Rage: Elk Heart
+"Shout_Rage_Totem_Tiger",--Rage: Tiger Heart
+"Shout_Rage_Totem_Wolf",--Rage: Wolf Heart
+"Shout_Rage_WildMagic",--Rage: Wild Magic
+"Shout_ReadThoughts",--Read Thoughts
+"Shout_Reckless_Minotaur",--Reckless Roar
+"Shout_Reduce_Duergar",--Reduce
+"Shout_Reduce_Duergar_NPC",--
+"Shout_ReflectiveShell",--Reflective Shell
+"Shout_RegainHP",--Regain Hit Points
+"Shout_RegainHP_Peace_NPC",--
+"Shout_Repulsor",--Repulsor
+"Shout_RequestBookOfShadows",--New Book of Shadows
+"Shout_Roar_Bear_Polar",--
+"Shout_SCL_OliverFight_FamiliarMemory",--From Dust We Rise, For Love We Must Return
+"Shout_SCL_OliverFight_FluffyMemory",--Fluffy Memory
+"Shout_SCL_OliverFight_ShadowCall",--Friends Until The End
+"Shout_SCL_SpiderLyre_Perform",--Play the Spider's Lyre
+"Shout_SELF",--
+"Shout_SHA_GolemBell_Summon",--Summon Golem
+"Shout_SHA_Justiciar_UmbralFury",--Subsume Shadow
+"Shout_SHA_Nightsong_StartKissCombat",--%%% DEPRECATED - Nightsong
+"Shout_SHA_Skeleton_DarkCelebration",--Dark Celebration
+"Shout_SacredWeapon",--Sacred Weapon
+"Shout_Sacrifice_Slayer",--Let The Slaughter Begin
+"Shout_SecondWind",--Second Wind
+"Shout_SeeInvisibility",--See Invisibility
+"Shout_SeeInvisibility_3",--
+"Shout_SeeInvisibility_4",--
+"Shout_SeeInvisibility_5",--
+"Shout_SeeInvisibility_6",--
+"Shout_SeeInvisibility_Seek",--Sense Hidden Presence
+"Shout_SeeInvisibility_ThirdEye",--Third Eye: See Invisibility
+"Shout_SeeInvisibility_TrainedEye",--See Invisibility
+"Shout_Seeming_Recast",--Adjust Seeming
+"Shout_SeismicStrike_Elemental_Earth",--Seismic Strike
+"Shout_ShadowBlade",--Shadow Blade
+"Shout_ShadowBlend",--Shadow Blend
+"Shout_ShadowStealth_Meazel",--Shadow Stealth
+"Shout_ShadowTeleport_Meazel_Helper",--
+"Shout_Shapechanger",--
+"Shout_Shapechanger_Doppelganger",--Doppelganger
+"Shout_Shapechanger_Doppelganger_Apply_OffBalance",--
+"Shout_Shapechanger_Doppelganger_Dismiss",--Dismiss Shapechanger
+"Shout_Shapechanger_Doppelganger_Dismiss_Urgent",--Morphic Ambush
+"Shout_Shapechanger_Imp",--
+"Shout_Shapechanger_Mist_Vampire",--
+"Shout_Shapechanger_Werewolf",--
+"Shout_Shield_MindFlayer",--
+"Shout_Shield_Sorcerer",--
+"Shout_Shield_Sorcerer_2",--
+"Shout_Shield_Sorcerer_3",--
+"Shout_Shield_Sorcerer_4",--
+"Shout_Shield_Sorcerer_5",--
+"Shout_Shield_Sorcerer_6",--
+"Shout_Shield_Warlock",--
+"Shout_Shield_Warlock_2",--
+"Shout_Shield_Warlock_3",--
+"Shout_Shield_Warlock_4",--
+"Shout_Shield_Warlock_5",--
+"Shout_Shield_Warlock_6",--
+"Shout_Shield_Wizard",--Shield
+"Shout_Shield_Wizard_2",--
+"Shout_Shield_Wizard_3",--
+"Shout_Shield_Wizard_4",--
+"Shout_Shield_Wizard_5",--
+"Shout_Shield_Wizard_6",--
+"Shout_Shillelagh",--Shillelagh
+"Shout_ShillelaghTestAnimation_Melee",--Shillelagh
+"Shout_ShillelaghTestAnimation_Ranged",--Shillelagh
+"Shout_Shillelagh_Dryad",--Strengthened Shillelagh
+"Shout_Shroud_Self",--Shroud Self
+"Shout_Silence_TollCollector_Face",--Moral Confinement
+"Shout_Slow_TollCollector_Face",--Brutal Servitude
+"Shout_SongOfRest",--Song of Rest
+"Shout_SpeakWithAnimals",--Speak with Animals
+"Shout_SpeakWithAnimals_2",--Speak with Animals
+"Shout_SpeakWithAnimals_3",--Speak with Animals
+"Shout_SpeakWithAnimals_4",--
+"Shout_SpeakWithAnimals_5",--
+"Shout_SpeakWithAnimals_6",--
+"Shout_SpeakWithAnimals_Barbarian",--
+"Shout_SpeakWithAnimals_BeastSpeech",--Invocation: Speak with Animals
+"Shout_SpeakWithAnimals_ForestGnome",--
+"Shout_SpeakWithAnimals_Ritual",--
+"Shout_SpeakWithAnimals_SpiritSeeker",--
+"Shout_SpiritGuardians",--Spirit Guardians
+"Shout_SpiritGuardians_Necrotic",--
+"Shout_SpiritGuardians_Necrotic_4",--
+"Shout_SpiritGuardians_Necrotic_5",--
+"Shout_SpiritGuardians_Necrotic_6",--
+"Shout_SpiritGuardians_Radiant",--
+"Shout_SpiritGuardians_Radiant_4",--
+"Shout_SpiritGuardians_Radiant_5",--
+"Shout_SpiritGuardians_Radiant_6",--
+"Shout_StaticOverdrive_Automaton",--Static Overdrive
+"Shout_Steady",--Brace (Melee)
+"Shout_SteadyRanged",--Brace (Ranged)
+"Shout_SteadyRangedCrossbow",--
+"Shout_SteelWatcher_Biped_SeeInvisibility",--Seeker Matrix
+"Shout_SteelWatcher_Biped_SelfDestruct_Begin",--
+"Shout_SteelWatcher_Quadruped_ActivateBulwarkMode",--Defensive Protocol: Bulwark
+"Shout_SteelWatcher_Quadruped_ActivateBulwarkMode2",--
+"Shout_SteelWatcher_Quadruped_Dash",--
+"Shout_SteelWatcher_Quadruped_Repel",--Repelling Protocol
+"Shout_SteelWatcher_Quadruped_SelfDestruct_Begin",--Self-Detonation Protocol
+"Shout_SteelWatcher_Quadruped_TerminateBulwarkMode",--Terminate Bulwark Protocol
+"Shout_Stench_Ghast",--Stench
+"Shout_StillnessOfMind",--Stillness of Mind
+"Shout_Stomp_AdamantineGolem",--Quake
+"Shout_SuddenRush_Gnoll",--Sudden Rush
+"Shout_SupremeSneak",--Supreme Sneak
+"Shout_SymbioticEntity",--Symbiotic Entity
+"Shout_TADPOLE",--
+"Shout_TAD_DisplacerBeast",--Displacer Beast Shape
+"Shout_TAD_DisplacerBeast_Dismiss",--Dismiss Displacer Beast Shape
+"Shout_TAD_PsionicOverload",--Psionic Overload
+"Shout_TEST",--
+"Shout_TWN_GithyankiWarlock_FormOfDread",--Form of Dread
+"Shout_Terrifying_Howl",--Terrifying Howl
+"Shout_Thaumaturgy",--Thaumaturgy
+"Shout_TurnTheFaithless",--Turn the Faithless
+"Shout_TurnTheUnholy",--Turn the Unholy
+"Shout_TurnUndead",--Turn Undead
+"Shout_UND_DetectThoughts_Tower_Amulet",--
+"Shout_UND_FeatherFall_Tower_Boots",--
+"Shout_UND_Invisibility_ShadowOfMenzoberranzan",--Shrouded in Shadow
+"Shout_UND_MonkAmulet_TalkToAmulet",--Talk to the Sentient Amulet
+"Shout_UND_Nere_ShieldOfScreams",--Shield of Screams
+"Shout_UND_Phase1_AdamantineGolem",--Awaken
+"Shout_UND_Phase1_AdamantineGolem_Hardcore",--
+"Shout_UND_Phase2_AdamantineGolem",--Seismic Wrath
+"Shout_UND_Phase2_AdamantineGolem_Hardcore",--
+"Shout_UND_SocietyOfBrilliance_Teleportation",--Teleport
+"Shout_UmbralCloak",--Umbral Shroud
+"Shout_Unstoppable",--
+"Shout_WEAPON_ACTION_SHOUT",--
+"Shout_WILDSHAPE",--
+"Shout_WYR_Alioramus_MatingPheromones",--Exude Mating Pheromones
+"Shout_WYR_CallForHelp_Bane_Gortash",--Invoke the Black Hand
+"Shout_WYR_ChainsOfTyranny_Gortash",--Tyrant's Bindings
+"Shout_WYR_Dribbles_Dog_Howl",--Menacing Howl
+"Shout_WYR_MessHallBodyguard_ArmorOfAgathys",--
+"Shout_WYR_OrinsImpersonation_TempleTeleport",--Acolyte's Retreat
+"Shout_WYR_PotentDrink_Blackout",--Hoots' Hooch: Blackout
+"Shout_WYR_PotentDrink_Blink",--Hoots' Hooch: Blink
+"Shout_WYR_PotentDrink_Dance",--Hoots' Hooch: Dancing Fool
+"Shout_WYR_PotentDrink_Mindread",--Hoots' Hooch: Gifted
+"Shout_WYR_PotentDrink_Nauseous",--Hoots' Hooch: Bad Breath
+"Shout_WYR_PotentDrink_Polymorph",--Hoots' Hooch: Transformation
+"Shout_WYR_PotentDrink_Size",--Hoots' Hooch: Size Instability
+"Shout_WYR_PotentDrink_Stone",--Hoots' Hooch: Stoned
+"Shout_WYR_PotentDrink_Sunblind",--Hoots' Hooch: Photosensitivity
+"Shout_WYR_PotentDrink_SwA",--Hoots' Hooch: Beast Tongue
+"Shout_WYR_Runepowder_Bomb_Detonate",--Detonate Runepowder Bomb
+"Shout_WYR_Shapechanger_Doppelganger_Circus",--Shift your shape into a new humanoid form.
+"Shout_WYR_Shapechanger_Doppelganger_Temple",--Shift your shape into a new humanoid form.
+"Shout_WYR_Shapechanger_Doppelganger_Temple2",--Shift your shape into a new humanoid form.
+"Shout_WYR_Shapechanger_Doppelganger_Temple3",--Shift your shape into a new humanoid form.
+"Shout_WYR_StinkingCloudCheese",--Cheesy Smell
+"Shout_WeaponBond",--Weapon Bond
+"Shout_WeaponBond_Summon",--Summon Bound Weapon
+"Shout_Whirlwind",--Whirlwind Attack
+"Shout_Whirlwind_Elemental_Air",--Primordial Gales
+"Shout_WholenessOfBody",--Wholeness of Body
+"Shout_WildMagicBarbarian_ExplodingFlumph_Activate",--Wild Magic: Intangible Spirit
+"Shout_WildMagicBarbarian_LightBolt_Activate",--Wild Magic: Bolt of Light
+"Shout_WildMagicBarbarian_MagicRetribution",--Wild Magic: Magic Retribution
+"Shout_WildMagicBarbarian_ProtectiveLights",--Wild Magic: Protective Lights
+"Shout_WildMagicBarbarian_ShadowyTendrils",--Wild Magic: Dark Tendrils
+"Shout_WildMagicBarbarian_Teleport_Activate",--Wild Magic: Teleport
+"Shout_WildMagicBarbarian_VineGrowth",--Wild Magic: Vine Growth
+"Shout_WildMagicBarbarian_WeaponInfusion",--Wild Magic: Weapon Infusion
+"Shout_WildMagic_ActionSurge",--Wild Magic: Action Surge
+"Shout_WildMagic_Blur",--Wild Magic: Blur
+"Shout_WildMagic_Burning",--Wild Magic: Burning
+"Shout_WildMagic_Cambion",--Wild Magic: Cambion
+"Shout_WildMagic_CatsAndDogs",--Wild Magic: Cats and Dogs
+"Shout_WildMagic_Enchant",--Wild Magic: Enchant Weapons
+"Shout_WildMagic_EnlargeReduce",--Wild Magic: Enlarge/Reduce
+"Shout_WildMagic_Entangle",--Wild Magic: Entangle
+"Shout_WildMagic_Fly",--Wild Magic: Flight
+"Shout_WildMagic_Fog",--Wild Magic: Fog
+"Shout_WildMagic_Heal",--Wild Magic: Explosive Healing
+"Shout_WildMagic_Mephit",--Wild Magic: Summon Mephit
+"Shout_WildMagic_Polymorph",--Wild Magic: Polymorph
+"Shout_WildMagic_ResilientSphere",--Wild Magic: Resilient Sphere
+"Shout_WildMagic_Shield",--Wild Magic: Shield
+"Shout_WildMagic_Slow",--Wild Magic: Slow
+"Shout_WildMagic_SorceryPoints",--Wild Magic: Sorcery Points
+"Shout_WildMagic_SpeakWithAnimals",--Wild Magic: Speak with Animals
+"Shout_WildMagic_SpikeGrowth",--Wild Magic: Spike Growth
+"Shout_WildMagic_Swap",--Wild Magic: Swap
+"Shout_WildMagic_Telekinesis",--Wild Magic: Telekinesis
+"Shout_WildMagic_Teleport",--Wild Magic: Teleport
+"Shout_WildMagic_TurnMagic",--Wild Magic: Turn Magic
+"Shout_WildShape",--Wild Shape
+"Shout_WildShape_Badger",--Wild Shape: Badger
+"Shout_WildShape_Badger_NPC",--Wild Shape: Badger
+"Shout_WildShape_Badger_NPC_Moon",--
+"Shout_WildShape_Bear_Black_NPC",--Wild Shape: Black Bear
+"Shout_WildShape_Bear_Black_NPC_Moon",--
+"Shout_WildShape_Bear_Grey_NPC",--Wild Shape: Grey Bear
+"Shout_WildShape_Bear_Grey_NPC_Moon",--
+"Shout_WildShape_Bear_NPC",--Wild Shape: Bear
+"Shout_WildShape_Bear_NPC_Moon",--
+"Shout_WildShape_Bear_Polar",--Wild Shape: Bear
+"Shout_WildShape_Bear_Polar_NPC",--Wild Shape: Polar Bear
+"Shout_WildShape_Bear_Polar_NPC_Moon",--
+"Shout_WildShape_Boar_NPC",--Wild Shape: Boar
+"Shout_WildShape_Boar_NPC_Moon",--
+"Shout_WildShape_Cat",--Wild Shape: Cat
+"Shout_WildShape_Combat",--
+"Shout_WildShape_Combat_Badger",--
+"Shout_WildShape_Combat_Bear_Polar",--
+"Shout_WildShape_Combat_Cat",--
+"Shout_WildShape_Combat_DeepRothe",--
+"Shout_WildShape_Combat_Dilophosaurus",--
+"Shout_WildShape_Combat_Heal",--Lunar Mend
+"Shout_WildShape_Combat_Heal_1",--Lunar Mend: Level 1
+"Shout_WildShape_Combat_Heal_2",--Lunar Mend: Level 2
+"Shout_WildShape_Combat_Heal_3",--Lunar Mend: Level 3
+"Shout_WildShape_Combat_Heal_4",--Lunar Mend: Level 4
+"Shout_WildShape_Combat_Heal_5",--Lunar Mend: Level 5
+"Shout_WildShape_Combat_Heal_6",--Lunar Mend: Level 6
+"Shout_WildShape_Combat_Myrmidon_Air",--
+"Shout_WildShape_Combat_Myrmidon_Earth",--
+"Shout_WildShape_Combat_Myrmidon_Fire",--
+"Shout_WildShape_Combat_Myrmidon_Fire_NPC",--
+"Shout_WildShape_Combat_Myrmidon_Water",--
+"Shout_WildShape_Combat_Owlbear",--
+"Shout_WildShape_Combat_Raven",--
+"Shout_WildShape_Combat_Spider",--
+"Shout_WildShape_Combat_Wolf_Dire",--
+"Shout_WildShape_DeepRothe",--Wild Shape: Deep Rothé
+"Shout_WildShape_DeepRothe_NPC",--Wild Shape: Deep Rothé
+"Shout_WildShape_Dilophosaurus",--Wild Shape: Dilophosaurus
+"Shout_WildShape_Dismiss",--Dismiss Wild Shape
+"Shout_WildShape_Myrmidon_Air",--Wild Shape: Air Myrmidon
+"Shout_WildShape_Myrmidon_Earth",--Wild Shape: Earth Myrmidon
+"Shout_WildShape_Myrmidon_Fire",--Wild Shape: Fire Myrmidon
+"Shout_WildShape_Myrmidon_Water",--Wild Shape: Water Myrmidon
+"Shout_WildShape_Owlbear",--Wild Shape: Owlbear
+"Shout_WildShape_Raven",--Wild Shape: Dire Raven
+"Shout_WildShape_Raven_NPC",--
+"Shout_WildShape_Raven_NPC_Moon",--
+"Shout_WildShape_Spider",--Wild Shape: Spider
+"Shout_WildShape_Spider_NPC",--Wild Shape: Spider
+"Shout_WildShape_Spider_NPC_Moon",--
+"Shout_WildShape_Wolf_Dire",--Wild Shape: Wolf
+"Shout_WildShape_Wolf_Dire_NPC",--Wild Shape: Dire Wolf
+"Shout_WildShape_Wolf_Dire_NPC_Moon",--
+"Shout_WildShape_Wolf_NPC",--Wild Shape: Wolf
+"Shout_WildShape_Wolf_NPC_Moon",--
+"Shout_WildShape_Wolf_White_NPC",--
+"Shout_WildShape_Wolf_White_NPC_Moon",--
+"Shout_Wildshape_Combat_Panther",--
+"Shout_Wildshape_Combat_SaberTooth_Tiger",--
+"Shout_Wildshape_Panther",--Wild Shape: Panther
+"Shout_Wildshape_SaberTooth_Tiger",--Wild Shape: Sabre-Toothed Tiger
+"Shout_WindWalk",--Wind Walk
+"Shout_WitchBolt_Activate",--Activate Witch Bolt
+"Shout__WildMagic",--Wild Magic Surge
+"Shout__WildMagic_Activate",--Wild Magic Surge
+"Shout__WildmagicBarbarian",--Wild Magic Surge
+"Target_AOE",--
+"Target_AbjureEnemy",--Abjure Enemy
+"Target_AdvancedMeleeWeaponAction",--
+"Target_AnimalFriendship",--Animal Friendship
+"Target_AnimalFriendship_2",--Animal Friendship
+"Target_AnimalFriendship_2_AI",--
+"Target_AnimalFriendship_3",--Animal Friendship
+"Target_AnimalFriendship_3_AI",--
+"Target_AnimalFriendship_4",--
+"Target_AnimalFriendship_4_AI",--
+"Target_AnimalFriendship_5",--
+"Target_AnimalFriendship_5_AI",--
+"Target_AnimalFriendship_6",--
+"Target_AnimalFriendship_6_AI",--
+"Target_AnimateDead",--Animate Dead
+"Target_AnimateDead_FlyingGhoul",--Animate Dead: Flying Ghoul
+"Target_AnimateDead_FlyingGhoul_6",--Animate Dead: Flying Ghoul Flock
+"Target_AnimateDead_FlyingGhoul_6_AI",--
+"Target_AnimateDead_Ghoul",--Animate Dead: Ghoul
+"Target_AnimateDead_Ghoul_6",--Animate Dead: Ghoul Pack
+"Target_AnimateDead_Ghoul_6_AI",--
+"Target_AnimateDead_NPC",--Animate Dead
+"Target_AnimateDead_Skeleton",--Animate Dead: Skeleton
+"Target_AnimateDead_Skeleton_4",--Animate Dead: Skeleton Squad
+"Target_AnimateDead_Skeleton_4_AI",--
+"Target_AnimateDead_Surgeon",--Lovely Assistant
+"Target_AnimateDead_Zombie",--Animate Dead: Zombie
+"Target_AnimateDead_Zombie_4",--Animate Dead: Zombie Battalion
+"Target_AnimateDead_Zombie_4_AI",--
+"Target_AnimatingSpores",--Animating Spores
+"Target_ArcaneEye",--Arcane Eye
+"Target_ArcaneLock",--Arcane Lock
+"Target_ArcaneLock_3",--
+"Target_ArcaneLock_4",--
+"Target_ArcaneLock_5",--
+"Target_ArcaneLock_6",--
+"Target_ArcaneLock_Dismiss",--Dismiss Arcane Lock
+"Target_AstralStep_Githyanki",--Astral Step
+"Target_AuraOfVitality_Activate",--Restore Vitality
+"Target_Bane",--Bane
+"Target_Bane_2",--Bane
+"Target_Bane_2_AI",--
+"Target_Bane_3",--Bane
+"Target_Bane_3_AI",--
+"Target_Bane_4",--
+"Target_Bane_4_AI",--
+"Target_Bane_5",--
+"Target_Bane_5_AI",--
+"Target_Bane_6",--
+"Target_Bane_6_AI",--
+"Target_Bane_AI",--
+"Target_Bane_Drider",--
+"Target_Bane_ThiefOfFiveFates",--Invocation: Bane
+"Target_Bane_ThiefOfFiveFates_2",--
+"Target_Bane_ThiefOfFiveFates_2_AI",--
+"Target_Bane_ThiefOfFiveFates_3",--
+"Target_Bane_ThiefOfFiveFates_3_AI",--
+"Target_Bane_ThiefOfFiveFates_4",--
+"Target_Bane_ThiefOfFiveFates_4_AI",--
+"Target_Bane_ThiefOfFiveFates_5",--
+"Target_Bane_ThiefOfFiveFates_5_AI",--
+"Target_Bane_ThiefOfFiveFates_6",--
+"Target_Bane_ThiefOfFiveFates_6_AI",--
+"Target_Bane_ThiefOfFiveFates_AI",--
+"Target_BanesWrath",--Bane's Wrath
+"Target_Banishment",--Banishment
+"Target_Banishment_5",--
+"Target_Banishment_5_AI",--
+"Target_Banishment_6",--
+"Target_Banishment_6_AI",--
+"Target_BarbedVine_DarkVine",--Barbed Vine
+"Target_BardicInspiration",--Bardic Inspiration
+"Target_BardicInspiration_Combat",--Combat Inspiration
+"Target_Barkskin",--Barkskin
+"Target_Barkskin_3",--
+"Target_Barkskin_4",--
+"Target_Barkskin_5",--
+"Target_Barkskin_6",--
+"Target_Bash",--Bash
+"Target_Beak",--Beak Attack
+"Target_Beak_Raven_Familiar",--
+"Target_Beak_Raven_Summon",--
+"Target_BendLuck",--Bend Luck
+"Target_BendLuck_AbilityCheck_Bonus",--Bend Luck: Ability Check Bonus
+"Target_BendLuck_AbilityCheck_Penalty",--Bend Luck: Ability Check Penalty
+"Target_BendLuck_Interrupt_Negative",--
+"Target_BendLuck_Interrupt_Positive",--
+"Target_BenignTransposition_Teleport",--Benign Transposition: Teleport
+"Target_BestowCurse",--Bestow Curse
+"Target_BestowCurse_4",--
+"Target_BestowCurse_5",--
+"Target_BestowCurse_6",--
+"Target_BestowCurse_Ability_Charisma",--Bestow Curse: Charisma Disadvantage
+"Target_BestowCurse_Ability_Charisma_4",--
+"Target_BestowCurse_Ability_Charisma_5",--
+"Target_BestowCurse_Ability_Charisma_6",--
+"Target_BestowCurse_Ability_Constitution",--Bestow Curse: Constitution Disadvantage
+"Target_BestowCurse_Ability_Constitution_4",--
+"Target_BestowCurse_Ability_Constitution_5",--
+"Target_BestowCurse_Ability_Constitution_6",--
+"Target_BestowCurse_Ability_Dexterity",--Bestow Curse: Dexterity Disadvantage
+"Target_BestowCurse_Ability_Dexterity_4",--
+"Target_BestowCurse_Ability_Dexterity_5",--
+"Target_BestowCurse_Ability_Dexterity_6",--
+"Target_BestowCurse_Ability_Intelligence",--Bestow Curse: Intelligence Disadvantage
+"Target_BestowCurse_Ability_Intelligence_4",--
+"Target_BestowCurse_Ability_Intelligence_5",--
+"Target_BestowCurse_Ability_Intelligence_6",--
+"Target_BestowCurse_Ability_Strength",--Bestow Curse: Strength Disadvantage
+"Target_BestowCurse_Ability_Strength_4",--
+"Target_BestowCurse_Ability_Strength_5",--
+"Target_BestowCurse_Ability_Strength_6",--
+"Target_BestowCurse_Ability_Wisdom",--Bestow Curse: Wisdom Disadvantage
+"Target_BestowCurse_Ability_Wisdom_4",--
+"Target_BestowCurse_Ability_Wisdom_5",--
+"Target_BestowCurse_Ability_Wisdom_6",--
+"Target_BestowCurse_Attack",--Bestow Curse: Attack Disadvantage
+"Target_BestowCurse_Attack_4",--
+"Target_BestowCurse_Attack_5",--
+"Target_BestowCurse_Attack_6",--
+"Target_BestowCurse_ExtraDamage",--Bestow Curse: Additional Damage
+"Target_BestowCurse_ExtraDamage_4",--
+"Target_BestowCurse_ExtraDamage_5",--
+"Target_BestowCurse_ExtraDamage_6",--
+"Target_BestowCurse_SkipTurn",--Bestow Curse: Dread
+"Target_BestowCurse_SkipTurn_4",--
+"Target_BestowCurse_SkipTurn_5",--
+"Target_BestowCurse_SkipTurn_6",--
+"Target_Bite",--Bite
+"Target_Bite_Alioramus",--
+"Target_Bite_Bat",--
+"Target_Bite_Bat_Weakening",--
+"Target_Bite_Bear_Black_Summon",--
+"Target_Bite_Bear_Brown",--
+"Target_Bite_Bulette",--
+"Target_Bite_Cloaker",--
+"Target_Bite_Dilophosaurus",--
+"Target_Bite_Dog",--
+"Target_Bite_Dog_Ghost",--
+"Target_Bite_GiantBadger",--
+"Target_Bite_GiantBadger_Summon",--
+"Target_Bite_GiantSpider",--Venomous Bite
+"Target_Bite_GiantSpider_Summon",--
+"Target_Bite_GiantSpider_Wildshape",--
+"Target_Bite_Gnoll",--
+"Target_Bite_Gnoll_Bonus",--
+"Target_Bite_Gnoll_Fang",--Demonic Bite
+"Target_Bite_Gnoll_Fang_Bonus",--
+"Target_Bite_Gremishka",--
+"Target_Bite_Hyena",--
+"Target_Bite_Mimic",--Bite
+"Target_Bite_MothersLoathing",--Bite
+"Target_Bite_Panther",--
+"Target_Bite_PhaseSpider",--
+"Target_Bite_PhaseSpider_Queen",--
+"Target_Bite_PhaseSpider_Queen_ExtraAttack",--
+"Target_Bite_Rat",--
+"Target_Bite_Rat_Combatant",--
+"Target_Bite_Rat_Cranium",--
+"Target_Bite_Rat_Summon",--Infectious Bite
+"Target_Bite_Rat_Vampire",--Vampiric Vermin
+"Target_Bite_Rat_Wounding",--Necrotic Bite
+"Target_Bite_SaberTooth",--
+"Target_Bite_ShadowMastiff",--Shadowjaw Bite
+"Target_Bite_SkeletonHound",--
+"Target_Bite_Spectator",--
+"Target_Bite_SwordSpider",--
+"Target_Bite_TinySpider",--
+"Target_Bite_TinySpider_Familiar",--
+"Target_Bite_TinySpider_Phase",--
+"Target_Bite_TinySpider_Underdark",--
+"Target_Bite_Vampire",--
+"Target_Bite_Wolf",--
+"Target_Bite_Wolf_Dire",--
+"Target_Bite_Wolf_Dire_NPC",--
+"Target_Bite_Wolf_Dire_Wildshape",--Exposing Bite
+"Target_Bite_Wolf_Summon",--Lunging Bite
+"Target_Bite_Worg_Cruel",--
+"Target_BlackTentacles",--Evard's Black Tentacles
+"Target_BlackTentacles_5",--
+"Target_BlackTentacles_6",--
+"Target_BladeFlourish_Defensive",--Defensive Flourish (Melee)
+"Target_BladeFlourish_Mobile",--Mobile Flourish (Melee)
+"Target_BladeFlourish_Mobile_FollowUp",--Mobile Flourish: Teleport
+"Target_Bless",--Bless
+"Target_Bless_2",--
+"Target_Bless_2_AI",--
+"Target_Bless_3",--
+"Target_Bless_3_AI",--
+"Target_Bless_4",--
+"Target_Bless_4_AI",--
+"Target_Bless_5",--
+"Target_Bless_5_AI",--
+"Target_Bless_6",--
+"Target_Bless_6_AI",--
+"Target_Bless_AI",--
+"Target_BlessingOfTheTrickster",--Blessing of the Trickster
+"Target_Blight",--Blight
+"Target_Blight_5",--
+"Target_Blight_6",--
+"Target_Blindness",--Blindness
+"Target_Blindness_3",--
+"Target_Blindness_3_AI",--
+"Target_Blindness_4",--
+"Target_Blindness_4_AI",--
+"Target_Blindness_5",--
+"Target_Blindness_5_AI",--
+"Target_Blindness_6",--
+"Target_Blindness_6_AI",--
+"Target_Blink_Teleport",--Blink: Teleport
+"Target_BloodBath_Slayer",--Sumptuous Blood Bath
+"Target_BloodBath_Slayer_10",--
+"Target_BloodFest_Gnoll",--Bloodfest
+"Target_BloodLust_RedCap",--Bloodlust
+"Target_BolsteringMagic_Boost",--Bolstering Magic: Boon
+"Target_BolsteringMagic_SpellSlot1",--Bolstering Magic: Level 1 Spell Slot
+"Target_BolsteringMagic_SpellSlot2",--Bolstering Magic: Level 2 Spell Slot
+"Target_BolsteringMagic_SpellSlot3",--Bolstering Magic: Level 3 Spell Slot
+"Target_BoomingBlade",--Booming Blade
+"Target_BoomingBladeEx",--Blasting Blade
+"Target_Bufotoxin_Frog_Summon",--Bufotoxin
+"Target_Burrow_Bulette",--Burrow
+"Target_Burrow_DarkVine",--
+"Target_Burrow_GiantBadger",--Burrow
+"Target_Burrow_Myrmidon_Earth",--
+"Target_Burrow_Wildshape_Myrmidon_Earth",--
+"Target_CHA_FogCloud_Skeleton",--
+"Target_CHA_Silence_Skeleton",--
+"Target_CHA_TrueStrike_CompassSpear",--
+"Target_CRE_GithyankiGish_Blindness_3",--
+"Target_CRE_MageHandShove[Deprecated]",--
+"Target_CRE_MageHand_AutoShove",--
+"Target_CRE_Savarsh_CombatInstruction",--Mental Instruction
+"Target_CRE_Savarsh_CombatInstruction_Hardcore",--
+"Target_CallLightning",--Call Lightning
+"Target_CallLightning_4",--
+"Target_CallLightning_5",--
+"Target_CallLightning_6",--
+"Target_CallLightning_LightningBolt",--Activate Call Lightning
+"Target_CallLightning_LightningBolt_4",--
+"Target_CallLightning_LightningBolt_5",--
+"Target_CallLightning_LightningBolt_6",--
+"Target_CalmEmotions",--Calm Emotions
+"Target_CalmEmotions_3",--Calm Emotions
+"Target_CalmEmotions_4",--
+"Target_CalmEmotions_5",--
+"Target_CalmEmotions_6",--
+"Target_Charger_Attack",--Charger: Attack
+"Target_Charger_Push",--Charger: Push
+"Target_CharmPerson",--Charm Person
+"Target_CharmPerson_2",--Charm Person
+"Target_CharmPerson_2_AI",--
+"Target_CharmPerson_3",--Charm Person
+"Target_CharmPerson_3_AI",--
+"Target_CharmPerson_4",--
+"Target_CharmPerson_4_AI",--
+"Target_CharmPerson_5",--
+"Target_CharmPerson_5_AI",--
+"Target_CharmPerson_6",--
+"Target_CharmPerson_6_AI",--
+"Target_CharmPerson_Cultist",--
+"Target_CharmPerson_Vampire",--
+"Target_ChillTouch",--Bone Chill
+"Target_CircleOfDeath",--Circle of Death
+"Target_Claws",--Claws
+"Target_ClawsOfTheGrave_Necromite",--Reach from Beyond
+"Target_Claws_AnimateDead_Ghoul",--
+"Target_Claws_Apostle",--Cold Embrace
+"Target_Claws_Bear_Black_Summon",--
+"Target_Claws_Bear_Brown",--
+"Target_Claws_Bear_Cave",--
+"Target_Claws_Bear_Polar",--
+"Target_Claws_Cat",--
+"Target_Claws_CrawlingClaw",--
+"Target_Claws_Drider",--Venom Claws
+"Target_Claws_Ettercap",--
+"Target_Claws_Ghast",--
+"Target_Claws_Ghoul",--
+"Target_Claws_Ghoul_Flying",--Claws
+"Target_Claws_GiantBadger",--
+"Target_Claws_GiantBadger_Wildshape",--
+"Target_Claws_GreenHag",--
+"Target_Claws_Harpy",--
+"Target_Claws_IceMephit",--Freezing Claws
+"Target_Claws_Imp",--
+"Target_Claws_Imp_Summon",--
+"Target_Claws_IntellectDevourer",--
+"Target_Claws_IntellectDevourer_Colony",--
+"Target_Claws_IntellectDevourer_Weakened",--Weak Claws
+"Target_Claws_Meazel",--
+"Target_Claws_Meenlock",--Claws
+"Target_Claws_Meenlock_Variation",--
+"Target_Claws_Mephit_Magma",--Burning Claws
+"Target_Claws_Mephit_Mud",--Punch
+"Target_Claws_MudMephit_ConjureMinorElmental",--Muddy Claws
+"Target_Claws_Owlbear",--
+"Target_Claws_Owlbear_Cub",--Tiny Claws
+"Target_Claws_Owlbear_WildShape",--
+"Target_Claws_Quasit",--
+"Target_Claws_Quasit_Summon",--
+"Target_Claws_Sahuagin",--
+"Target_Claws_Scarecrow",--
+"Target_Claws_Shadow",--Necrotic Claws
+"Target_Claws_StoneCursed",--
+"Target_Claws_Surgeon",--
+"Target_Claws_TollCollector",--
+"Target_Claws_Vampire",--
+"Target_Claws_Werewolf",--
+"Target_Cloaker_Phantasms",--Phantasms
+"Target_Cloaker_Phantasms2",--
+"Target_Cloaker_Phantasms3",--
+"Target_CloudOfDaggers",--Cloud of Daggers
+"Target_CloudOfDaggers_3",--
+"Target_CloudOfDaggers_4",--
+"Target_CloudOfDaggers_5",--
+"Target_CloudOfDaggers_6",--
+"Target_Cloudkill",--Cloudkill
+"Target_Cloudkill_6",--
+"Target_Cloudkill_Recast",--
+"Target_Cloudkill_Recast_6",--
+"Target_CoinDamage_TollCollector",--Jealous Avarice
+"Target_Command_Approach",--Command: Approach
+"Target_Command_Approach_2",--
+"Target_Command_Approach_2_AI",--
+"Target_Command_Approach_3",--
+"Target_Command_Approach_3_AI",--
+"Target_Command_Approach_4",--
+"Target_Command_Approach_4_AI",--
+"Target_Command_Approach_5",--
+"Target_Command_Approach_5_AI",--
+"Target_Command_Approach_6",--
+"Target_Command_Approach_6_AI",--
+"Target_Command_Container",--Command
+"Target_Command_Container_2",--
+"Target_Command_Container_3",--
+"Target_Command_Container_4",--
+"Target_Command_Container_5",--
+"Target_Command_Container_6",--
+"Target_Command_Drop",--Command: Drop
+"Target_Command_Drop_2",--
+"Target_Command_Drop_2_AI",--
+"Target_Command_Drop_3",--
+"Target_Command_Drop_3_AI",--
+"Target_Command_Drop_4",--
+"Target_Command_Drop_4_AI",--
+"Target_Command_Drop_5",--
+"Target_Command_Drop_5_AI",--
+"Target_Command_Drop_6",--
+"Target_Command_Drop_6_AI",--
+"Target_Command_Flee",--Command: Flee
+"Target_Command_Flee_2",--
+"Target_Command_Flee_2_AI",--
+"Target_Command_Flee_3",--
+"Target_Command_Flee_3_AI",--
+"Target_Command_Flee_4",--
+"Target_Command_Flee_4_AI",--
+"Target_Command_Flee_5",--
+"Target_Command_Flee_5_AI",--
+"Target_Command_Flee_6",--
+"Target_Command_Flee_6_AI",--
+"Target_Command_Grovel",--Command: Grovel
+"Target_Command_Grovel_2",--
+"Target_Command_Grovel_2_AI",--
+"Target_Command_Grovel_3",--
+"Target_Command_Grovel_3_AI",--
+"Target_Command_Grovel_4",--
+"Target_Command_Grovel_4_AI",--
+"Target_Command_Grovel_5",--
+"Target_Command_Grovel_5_AI",--
+"Target_Command_Grovel_6",--
+"Target_Command_Grovel_6_AI",--
+"Target_Command_Grovel_NPC",--
+"Target_Command_Halt",--Command: Halt
+"Target_Command_Halt_2",--Command: Halt
+"Target_Command_Halt_2_AI",--
+"Target_Command_Halt_3",--Command: Halt
+"Target_Command_Halt_3_AI",--
+"Target_Command_Halt_4",--
+"Target_Command_Halt_4_AI",--
+"Target_Command_Halt_5",--
+"Target_Command_Halt_5_AI",--
+"Target_Command_Halt_6",--
+"Target_Command_Halt_6_AI",--
+"Target_Command_Halt_NPC",--
+"Target_CommandersStrike",--Commander's Strike
+"Target_CompelledDuel",--Compelled Duel
+"Target_CompelledDuel_2",--
+"Target_CompelledDuel_3",--
+"Target_CompelledDuel_4",--
+"Target_CompelledDuel_5",--
+"Target_CompelledDuel_6",--
+"Target_ConcussiveSmash",--Concussive Smash
+"Target_ConcussiveSmash_Deva",--
+"Target_ConcussiveSmash_SpiritualWeapon_Maul",--
+"Target_Confusion",--Confusion
+"Target_ConfusionRay_Spectator",--Confusion Ray
+"Target_Confusion_5",--
+"Target_Confusion_6",--
+"Target_ConjureElemental_Container",--Conjure Elemental
+"Target_ConjureElemental_Container_6",--
+"Target_ConjureElemental_Elemental_Air",--Conjure Elemental: Air Elemental
+"Target_ConjureElemental_Elemental_Earth",--Conjure Elemental: Earth Elemental
+"Target_ConjureElemental_Elemental_Fire",--Conjure Elemental: Fire Elemental
+"Target_ConjureElemental_Elemental_Fire_NPC",--
+"Target_ConjureElemental_Elemental_Water",--Conjure Elemental: Water Elemental
+"Target_ConjureElemental_Myrmidon_Air",--Conjure Elemental: Air Myrmidon
+"Target_ConjureElemental_Myrmidon_Earth",--Conjure Elemental: Earth Myrmidon
+"Target_ConjureElemental_Myrmidon_Fire",--Conjure Elemental: Fire Myrmidon
+"Target_ConjureElemental_Myrmidon_Water",--Conjure Elemental: Water Myrmidon
+"Target_ConjureElementals_Minor_Azer",--Conjure Minor Elemental: Azer
+"Target_ConjureElementals_Minor_Azer_5",--
+"Target_ConjureElementals_Minor_Azer_6",--
+"Target_ConjureElementals_Minor_Container",--Conjure Minor Elemental
+"Target_ConjureElementals_Minor_Container_5",--
+"Target_ConjureElementals_Minor_Container_6",--
+"Target_ConjureElementals_Minor_IceMephit",--Conjure Minor Elemental: Ice Mephits
+"Target_ConjureElementals_Minor_IceMephit_5",--
+"Target_ConjureElementals_Minor_IceMephit_6",--
+"Target_ConjureElementals_Minor_MudMephit",--Conjure Minor Elemental: Mud Mephits
+"Target_ConjureElementals_Minor_MudMephit_5",--
+"Target_ConjureElementals_Minor_MudMephit_6",--
+"Target_ConjureIntellectDevour",--Conjure Us
+"Target_ConjureWoodlandBeings",--Conjure Woodland Being
+"Target_ConjureWoodlandBeings_5",--
+"Target_ConjureWoodlandBeings_6",--
+"Target_Constrict_Blight_Vine",--Constrict
+"Target_Consume_Apostle",--Consume the Faithful
+"Target_Contagion",--Contagion
+"Target_Contagion_BlindingSickness",--Contagion: Blinding Sickness
+"Target_Contagion_BlindingSickness_6",--
+"Target_Contagion_FilthFever",--Contagion: Filth Fever
+"Target_Contagion_FilthFever_6",--
+"Target_Contagion_FleshRot",--Contagion: Flesh Rot
+"Target_Contagion_FleshRot_6",--
+"Target_Contagion_FleshRot_NPC",--
+"Target_Contagion_Mindfire",--Contagion: Mindfire
+"Target_Contagion_Mindfire_6",--
+"Target_Contagion_Seizure",--Contagion: Seizure
+"Target_Contagion_Seizure_6",--
+"Target_Contagion_SlimyDoom",--Contagion: Slimy Doom
+"Target_Contagion_SlimyDoom_6",--
+"Target_Contagion_SlimyDoom_NPC",--
+"Target_ControlUndead",--Control Undead
+"Target_ControlledChaos",--Controlled Chaos
+"Target_CounterSpell_Mindflayer",--
+"Target_Countercharm",--Countercharm
+"Target_Counterspell",--Counterspell
+"Target_Counterspell_4",--
+"Target_Counterspell_5",--
+"Target_Counterspell_6",--
+"Target_Counterspell_Failure",--Failed Counterspell
+"Target_Counterspell_Success",--
+"Target_CreateDestroyWater",--Create or Destroy Water
+"Target_CreateIllusion_DisplacerBeast",--Illusory Copy
+"Target_CreateShadow_Wraith",--Umbral Ally
+"Target_CreateUndead",--Create Undead
+"Target_CreateWater",--Create Water
+"Target_CreateWater_2",--
+"Target_CreateWater_3",--
+"Target_CreateWater_4",--
+"Target_CreateWater_5",--
+"Target_CreateWater_6",--
+"Target_CreateWater_MinorConjuration",--Minor Conjuration: Create Water
+"Target_CreateWater_NPC",--
+"Target_CreateWater_StaffOfRain",--
+"Target_CripplingPinch_Crab_Summon",--Maiming Pinch
+"Target_CripplingStrike",--Maiming Strike
+"Target_CrownOfMadness",--Crown of Madness
+"Target_CrownOfMadness_3",--
+"Target_CrownOfMadness_4",--
+"Target_CrownOfMadness_5",--
+"Target_CrownOfMadness_6",--
+"Target_Crush_DarkVine_Giant",--Merciless Crush
+"Target_CureWounds",--Cure Wounds
+"Target_CureWounds_2",--
+"Target_CureWounds_3",--
+"Target_CureWounds_4",--
+"Target_CureWounds_5",--
+"Target_CureWounds_6",--
+"Target_CureWounds_Mass",--Mass Cure Wounds
+"Target_CureWounds_Mass_6",--
+"Target_CureWounds_Mass_6_AI",--
+"Target_CureWounds_Mass_AI",--
+"Target_Curse_Gnoll",--Soul Offering
+"Target_Curse_Ogre",--Lump's Command
+"Target_CursedTome_Seelie_Summon",--Sights of the Seelie: Summon Deva
+"Target_CursedTome_WakeTheDead",--Danse Macabre
+"Target_CuttingWords",--Cutting Words
+"Target_DEN_Apprentice_DaggerOfShar_Spell",--Edge of Darkness
+"Target_DEN_BearReward_LesserRestoration",--
+"Target_DEN_DancingLights_Arabella_Locket",--
+"Target_DEN_EnsnaringStrike_HalsinBlade",--
+"Target_DEN_Entangle_Staff",--Faithwarden's Vines
+"Target_DEN_Nettie_HealingWord",--
+"Target_DEN_TheRiteOfThorns",--Rite of Thorns
+"Target_DampenElements_Interrupt",--Dampen Elements
+"Target_DancingLights",--Dancing Lights
+"Target_DancingLights_DeepRothe",--
+"Target_Darkness",--Darkness
+"Target_Darkness_3",--
+"Target_Darkness_4",--
+"Target_Darkness_5",--
+"Target_Darkness_6",--
+"Target_Darkness_Drider",--
+"Target_Darkness_DrowMagic",--
+"Target_Darkness_Monk",--Shadow Arts: Darkness
+"Target_Darkvision",--Darkvision
+"Target_Darkvision_3",--
+"Target_Darkvision_4",--
+"Target_Darkvision_5",--
+"Target_Darkvision_6",--
+"Target_Darkvision_Monk",--Shadow Arts: Darkvision
+"Target_Daylight",--Daylight: Sphere
+"Target_Daylight_4",--
+"Target_Daylight_5",--
+"Target_Daylight_6",--
+"Target_Daylight_Container",--Daylight
+"Target_Daylight_Container_4",--
+"Target_Daylight_Container_5",--
+"Target_Daylight_Container_6",--
+"Target_Daylight_Enchantment",--Daylight: Enchant Item
+"Target_Daylight_Enchantment_4",--
+"Target_Daylight_Enchantment_5",--
+"Target_Daylight_Enchantment_6",--
+"Target_DeathBurst_IntellectDevourer",--Engorged Burst
+"Target_DeathWard",--Death Ward
+"Target_DeathWard_5",--
+"Target_DeathWard_6",--
+"Target_DesignateTarget_ShadowMound",--Underdark Pheromones
+"Target_DestroyWater",--Destroy Water
+"Target_DestroyWater_2",--
+"Target_DestroyWater_3",--
+"Target_DestroyWater_4",--
+"Target_DestroyWater_5",--
+"Target_DestroyWater_6",--
+"Target_DevourIntellect",--Devour Intellect
+"Target_DevourIntellect_US",--
+"Target_Devour_Ghoul",--Devour
+"Target_Devour_Ghoul_AnimateDead",--Devour
+"Target_Devour_ShadowMound",--Devour
+"Target_Dig",--Dig
+"Target_DigestCorpse_CorpseFlower",--Digest Corpse
+"Target_Dip",--Dip
+"Target_Dip_NPC",--
+"Target_Dipped_Fire",--%%% Dipped Fire Attack
+"Target_Dipped_Poison",--Dipped Poison Attack
+"Target_DisarmingAttack",--Disarming Attack (Melee)
+"Target_DisarmingAttack_NPC",--
+"Target_DisarmingStrike",--Disarming Strike
+"Target_DispelEvilAndGood_BreakEnchantment",--Dispel Evil And Good: Break Enchantment
+"Target_DispelEvilAndGood_Dismissal",--Dispel Evil And Good: Dismissal
+"Target_DispelMagic",--Dispel Magic
+"Target_DispelMagic_4",--%%% Dispel Magic
+"Target_DispelMagic_5",--%%% Dispel Magic
+"Target_DispelMagic_6",--%%% Dispel Magic
+"Target_DissonantWhispers",--Dissonant Whispers
+"Target_DissonantWhispers_2",--Dissonant Whispers
+"Target_DissonantWhispers_3",--Dissonant Whispers
+"Target_DissonantWhispers_4",--
+"Target_DissonantWhispers_5",--
+"Target_DissonantWhispers_6",--
+"Target_Distract",--Distract
+"Target_DistractingStrike",--Distracting Strike (Melee)
+"Target_DivineGuardian",--Divine Guardian
+"Target_DivineStrike_Life_Container",--Divine Strike: Life
+"Target_DivineStrike_Melee_Life",--Divine Strike: Life (Melee)
+"Target_DivineStrike_Melee_Nature_Cold",--Divine Strike: Frigid Cold
+"Target_DivineStrike_Melee_Nature_Fire",--Divine Strike: Roaring Flames
+"Target_DivineStrike_Melee_Nature_Lightning",--Divine Strike: Arcing Bolts
+"Target_DivineStrike_Melee_Tempest",--Divine Strike: Tempest
+"Target_DivineStrike_Melee_Trickery",--Divine Strike: Poison
+"Target_DivineStrike_Melee_War",--Divine Strike: Warmaster
+"Target_DivineStrike_Nature_Container",--Divine Strike: Elemental Fury
+"Target_DivineStrike_Tempest_Container",--Divine Strike: Tempest
+"Target_DivineStrike_Trickery_Container",--Divine Strike: Poison
+"Target_DivineStrike_War_Container",--Divine Strike: Warmaster
+"Target_DominateBeast",--Dominate Beast
+"Target_DominateBeast_5",--
+"Target_DominateBeast_6",--
+"Target_DominateBeast_FullControl",--Dominate Beast: Full Control
+"Target_DominatePerson",--Dominate Person
+"Target_DominatePerson_6",--
+"Target_DominatePerson_Mindflayer",--Mind Flayer Domination
+"Target_DrainingKiss_Cambion",--Draining Kiss
+"Target_DrainingKiss_Incubus",--
+"Target_DreadAmbusher",--Dread Ambusher (Melee)
+"Target_DreadfulGlare_Mummy",--Dreadful Glare
+"Target_END_AllyAbilities_FlamingFistSummon",--Florrick's Cohort
+"Target_END_AllyAbilities_GrenediersSummon",--Ironhand Grenadiers
+"Target_END_AllyAbilities_GurSummon",--Gur Huntwardens
+"Target_END_AllyAbilities_HarperSummon",--Silver Harp Squadron
+"Target_END_AllyAbilities_KeeneSummon",--Guildmaster Keene's Fixers
+"Target_END_AllyAbilities_StunningGaze",--
+"Target_END_AllyAbilities_VampireCreaturesSummon",--Retinue of the Vampire Lord
+"Target_END_AllyAbilities_VeteranSummon",--Hellrider Platoon
+"Target_END_AllyAbilities_WatchSummon",--The Watch
+"Target_END_AllyAbilities_ZhentarimSummon",--Black Fist Enforcers
+"Target_END_AllyAbility_HagInvisibility",--Veil of the Weird
+"Target_END_AllyAbility_IsobelHeal",--Balm of the Moonmaiden
+"Target_END_AllyAbility_LorroakanArtillery",--Lorroakan's Firestorm
+"Target_END_AllyAbility_MizoraSummon",--Mizora, Agent of Avernus
+"Target_END_AllyAbility_NightsongSummon",--Sword of the Silverlight
+"Target_END_AllyAbility_OrthonSummon",--Hellstalker Yurgir
+"Target_END_AllyAbility_OwlbearCubSummon",--Battle-Ready Owlbear
+"Target_END_AllyAbility_PhasmSummon",--An Apple a Day
+"Target_END_AllyAbility_RolanArtillery",--Rolan's Firestorm
+"Target_END_AllyAbility_SteelWatcherSummon",--Gondian Steel Watcher
+"Target_END_AllyAbilties_ShadowAdepts",--Nightbringer's Shadow Adepts
+"Target_END_Daisy_Command_Drop",--Psionic Suggestion: Drop
+"Target_END_Daisy_Command_Flee",--Psionic Suggestion: Flee
+"Target_END_Daisy_Command_Grovel",--Psionic Suggestion: Grovel
+"Target_END_Daisy_Command_Halt",--Psionic Suggestion: Halt
+"Target_END_Daisy_Command_Hush",--Psionic Suggestion: Hush
+"Target_END_Daisy_Teleport",--Fleeting Dream
+"Target_END_DevilishOX_AlternateForm_DireWolf",--
+"Target_END_DevilishOX_AlternateForm_Minotaur",--
+"Target_END_DevilishOX_AlternateForm_PhaseSpider",--
+"Target_END_DevilishOX_AlternateForm_ShadowMastiff",--
+"Target_END_Emperor_BlackTentacles",--
+"Target_END_Emperor_Counterspell",--
+"Target_END_Emperor_Sleep",--
+"Target_END_Emperor_Slow",--
+"Target_END_Mindflayer_CrownDomination",--Karsus' Compulsion
+"Target_END_Nautiloid_IllithidHorde",--
+"Target_END_Netherbrain_GraspFromBelow",--
+"Target_END_Orpheus_Invisibility_Greater",--
+"Target_END_Orpheus_Sanctuary",--
+"Target_END_Orphues_GlobeOfInvulnerability",--
+"Target_END_Thrall_CalmEmotions",--
+"Target_END_Thrall_StaggeringSmite",--
+"Target_END_VossEncounter_GithMistyStep",--
+"Target_ElementalWeapon",--Elemental Weapon
+"Target_ElementalWeapon_Acid",--Elemental Weapon: Acid
+"Target_ElementalWeapon_Acid_4",--
+"Target_ElementalWeapon_Acid_5",--
+"Target_ElementalWeapon_Acid_6",--
+"Target_ElementalWeapon_Cold",--Elemental Weapon: Cold
+"Target_ElementalWeapon_Cold_4",--
+"Target_ElementalWeapon_Fire",--Elemental Weapon: Fire
+"Target_ElementalWeapon_Fire_4",--
+"Target_ElementalWeapon_Fire_NPC",--
+"Target_ElementalWeapon_Lightning",--Elemental Weapon: Lightning
+"Target_ElementalWeapon_Lightning_4",--
+"Target_ElementalWeapon_Thunder",--Elemental Weapon: Thunder
+"Target_ElementalWeapon_Thunder_4",--
+"Target_EnhanceAbility",--Enhance Ability
+"Target_EnhanceAbility_3",--
+"Target_EnhanceAbility_4",--
+"Target_EnhanceAbility_5",--
+"Target_EnhanceAbility_6",--
+"Target_EnhanceAbility_BearsEndurance",--Bear's Endurance
+"Target_EnhanceAbility_BearsEndurance_3",--
+"Target_EnhanceAbility_BearsEndurance_3_AI",--
+"Target_EnhanceAbility_BearsEndurance_4",--
+"Target_EnhanceAbility_BearsEndurance_4_AI",--
+"Target_EnhanceAbility_BearsEndurance_5",--
+"Target_EnhanceAbility_BearsEndurance_5_AI",--
+"Target_EnhanceAbility_BearsEndurance_6",--
+"Target_EnhanceAbility_BearsEndurance_6_AI",--
+"Target_EnhanceAbility_BullsStrength",--Bull's Strength
+"Target_EnhanceAbility_BullsStrength_3",--
+"Target_EnhanceAbility_BullsStrength_3_AI",--
+"Target_EnhanceAbility_BullsStrength_4",--
+"Target_EnhanceAbility_BullsStrength_4_AI",--
+"Target_EnhanceAbility_BullsStrength_5",--
+"Target_EnhanceAbility_BullsStrength_5_AI",--
+"Target_EnhanceAbility_BullsStrength_6",--
+"Target_EnhanceAbility_BullsStrength_6_AI",--
+"Target_EnhanceAbility_CatsGrace",--Cat's Grace
+"Target_EnhanceAbility_CatsGrace_3",--
+"Target_EnhanceAbility_CatsGrace_3_AI",--
+"Target_EnhanceAbility_CatsGrace_4",--
+"Target_EnhanceAbility_CatsGrace_4_AI",--
+"Target_EnhanceAbility_CatsGrace_5",--
+"Target_EnhanceAbility_CatsGrace_5_AI",--
+"Target_EnhanceAbility_CatsGrace_6",--
+"Target_EnhanceAbility_CatsGrace_6_AI",--
+"Target_EnhanceAbility_EaglesSplendor",--Eagle's Splendour
+"Target_EnhanceAbility_EaglesSplendor_3",--
+"Target_EnhanceAbility_EaglesSplendor_3_AI",--
+"Target_EnhanceAbility_EaglesSplendor_4",--
+"Target_EnhanceAbility_EaglesSplendor_4_AI",--
+"Target_EnhanceAbility_EaglesSplendor_5",--
+"Target_EnhanceAbility_EaglesSplendor_5_AI",--
+"Target_EnhanceAbility_EaglesSplendor_6",--
+"Target_EnhanceAbility_EaglesSplendor_6_AI",--
+"Target_EnhanceAbility_FoxsCunning",--Fox's Cunning
+"Target_EnhanceAbility_FoxsCunning_3",--
+"Target_EnhanceAbility_FoxsCunning_3_AI",--
+"Target_EnhanceAbility_FoxsCunning_4",--
+"Target_EnhanceAbility_FoxsCunning_4_AI",--
+"Target_EnhanceAbility_FoxsCunning_5",--
+"Target_EnhanceAbility_FoxsCunning_5_AI",--
+"Target_EnhanceAbility_FoxsCunning_6",--
+"Target_EnhanceAbility_FoxsCunning_6_AI",--
+"Target_EnhanceAbility_OwlsWisdom",--Owl's Wisdom
+"Target_EnhanceAbility_OwlsWisdom_3",--
+"Target_EnhanceAbility_OwlsWisdom_3_AI",--
+"Target_EnhanceAbility_OwlsWisdom_4",--
+"Target_EnhanceAbility_OwlsWisdom_4_AI",--
+"Target_EnhanceAbility_OwlsWisdom_5",--
+"Target_EnhanceAbility_OwlsWisdom_5_AI",--
+"Target_EnhanceAbility_OwlsWisdom_6",--
+"Target_EnhanceAbility_OwlsWisdom_6_AI",--
+"Target_Enlarge",--Enlarge
+"Target_EnlargeReduce",--Enlarge/Reduce
+"Target_Enlarge_3",--
+"Target_Enlarge_4",--
+"Target_Enlarge_5",--
+"Target_Enlarge_6",--
+"Target_EnsnaringStrike",--Ensnaring Strike (Melee)
+"Target_EnsnaringStrike_2",--
+"Target_EnsnaringStrike_3",--
+"Target_EnsnaringStrike_4",--
+"Target_EnsnaringStrike_5",--
+"Target_EnsnaringStrike_6",--
+"Target_Entangle",--Entangle
+"Target_Entangle_2",--Entangle
+"Target_Entangle_3",--Entangle
+"Target_Entangle_4",--
+"Target_Entangle_5",--
+"Target_Entangle_6",--
+"Target_Entangle_Dryad",--
+"Target_Entangle_WoodWoad",--
+"Target_Entangle_WoodWoad_Hardcore",--
+"Target_Enthrall",--Enthral
+"Target_Enthrall_3",--
+"Target_Enthrall_4",--
+"Target_Enthrall_5",--
+"Target_Enthrall_6",--
+"Target_Entomb_Spider",--Cocoon
+"Target_EtherealJaunt",--Ethereal Jaunt
+"Target_EtherealJaunt_Queen",--
+"Target_EtherealJaunt_Spiderling",--
+"Target_Exhale_Fire",--Exhale Fire
+"Target_ExtraAttack",--Main Hand Attack (Multiattack)
+"Target_ExtraAttack_Minotaur",--Gore (Multiattack)
+"Target_ExtraAttack_Unarmed",--Main Hand Attack (Multiattack)
+"Target_ExtractBrain_Mindflayer",--Extract Brain
+"Target_ExtractBrain_Player_Mindflayer",--
+"Target_Eyebite",--Eyebite
+"Target_Eyebite_Asleep",--Eyebite: Asleep
+"Target_Eyebite_Asleep_Free",--
+"Target_Eyebite_Panicked",--Eyebite: Panicked
+"Target_Eyebite_Panicked_Free",--
+"Target_Eyebite_Sickened",--Eyebite: Sickened
+"Target_Eyebite_Sickened_Free",--
+"Target_FOR_Smite_Searing_DeathOfATrueSoul",--
+"Target_FOR_SpiderQueen_HatchEggs",--Matriarch's Call
+"Target_FOR_ThayanCellar_SummonQuasit",--Find Familiar: Cheeky Quasit
+"Target_FaerieFire",--Faerie Fire
+"Target_FaerieFire_2",--Faerie Fire
+"Target_FaerieFire_3",--Faerie Fire
+"Target_FaerieFire_4",--
+"Target_FaerieFire_5",--
+"Target_FaerieFire_6",--
+"Target_FaerieFire_Drider",--
+"Target_FaerieFire_DrowMagic",--Drow Magic: Faerie Fire
+"Target_FearRay_Spectator",--Fear Ray
+"Target_FeignDeath",--Feign Death
+"Target_FeignDeath_4",--
+"Target_FeignDeath_5",--
+"Target_FeignDeath_6",--
+"Target_FeintingAttack",--Feinting Attack
+"Target_FiendishCharm_Cambion",--Fiendish Charm
+"Target_FiendishCharm_Incubus",--Incubus Charm
+"Target_Fiendish_Resilience_Acid",--Fiendish Resilience: Acid
+"Target_Fiendish_Resilience_Bludgeoning",--Fiendish Resilience: Bludgeoning
+"Target_Fiendish_Resilience_Cold",--Fiendish Resilience: Cold
+"Target_Fiendish_Resilience_Container",--Fiendish Resilience
+"Target_Fiendish_Resilience_Fire",--Fiendish Resilience: Fire
+"Target_Fiendish_Resilience_Force",--Fiendish Resilience: Force
+"Target_Fiendish_Resilience_Lightning",--Fiendish Resilience: Lightning
+"Target_Fiendish_Resilience_Necrotic",--Fiendish Resilience: Necrotic
+"Target_Fiendish_Resilience_Piercing",--Fiendish Resilience: Piercing
+"Target_Fiendish_Resilience_Poison",--Fiendish Resilience: Poison
+"Target_Fiendish_Resilience_Psychic",--Fiendish Resilience: Psychic
+"Target_Fiendish_Resilience_Radiant",--Fiendish Resilience: Radiant
+"Target_Fiendish_Resilience_Slashing",--Fiendish Resilience: Slashing
+"Target_Fiendish_Resilience_Thunder",--Fiendish Resilience: Thunder
+"Target_FieryStrike_Myrmidon_Fire",--Scorching Strike
+"Target_FindFamiliar",--Find Familiar
+"Target_FindFamiliar_2",--
+"Target_FindFamiliar_3",--
+"Target_FindFamiliar_4",--
+"Target_FindFamiliar_5",--
+"Target_FindFamiliar_6",--
+"Target_FindFamiliar_Boo",--Find Familiar: Boo
+"Target_FindFamiliar_Cat",--Find Familiar: Cat
+"Target_FindFamiliar_Cat_2",--
+"Target_FindFamiliar_Cat_3",--
+"Target_FindFamiliar_Cat_4",--
+"Target_FindFamiliar_Cat_5",--
+"Target_FindFamiliar_Cat_6",--
+"Target_FindFamiliar_Cat_Ritual",--
+"Target_FindFamiliar_Crab",--Find Familiar: Crab
+"Target_FindFamiliar_Crab_2",--
+"Target_FindFamiliar_Crab_3",--
+"Target_FindFamiliar_Crab_4",--
+"Target_FindFamiliar_Crab_5",--
+"Target_FindFamiliar_Crab_6",--
+"Target_FindFamiliar_Crab_Ritual",--Find Familiar: Crab
+"Target_FindFamiliar_Dog",--Find Familiar: Scratch
+"Target_FindFamiliar_Dog_Ritual",--
+"Target_FindFamiliar_Frog",--Find Familiar: Frog
+"Target_FindFamiliar_Frog_2",--
+"Target_FindFamiliar_Frog_3",--
+"Target_FindFamiliar_Frog_4",--
+"Target_FindFamiliar_Frog_5",--
+"Target_FindFamiliar_Frog_6",--
+"Target_FindFamiliar_Frog_Ritual",--Find Familiar: Frog
+"Target_FindFamiliar_NPC",--
+"Target_FindFamiliar_Rat",--Find Familiar: Rat
+"Target_FindFamiliar_Rat_2",--
+"Target_FindFamiliar_Rat_3",--
+"Target_FindFamiliar_Rat_4",--
+"Target_FindFamiliar_Rat_5",--
+"Target_FindFamiliar_Rat_6",--
+"Target_FindFamiliar_Rat_Ritual",--Find Familiar: Rat
+"Target_FindFamiliar_Raven",--Find Familiar: Raven
+"Target_FindFamiliar_Raven_2",--
+"Target_FindFamiliar_Raven_3",--
+"Target_FindFamiliar_Raven_4",--
+"Target_FindFamiliar_Raven_5",--
+"Target_FindFamiliar_Raven_6",--
+"Target_FindFamiliar_Raven_NPC",--
+"Target_FindFamiliar_Raven_Ritual",--Find Familiar: Raven
+"Target_FindFamiliar_Ritual",--
+"Target_FindFamiliar_Spider",--Find Familiar: Spider
+"Target_FindFamiliar_Spider_2",--
+"Target_FindFamiliar_Spider_3",--
+"Target_FindFamiliar_Spider_4",--
+"Target_FindFamiliar_Spider_5",--
+"Target_FindFamiliar_Spider_6",--
+"Target_FindFamiliar_Spider_NPC",--
+"Target_FindFamiliar_Spider_Ritual",--Find Familiar: Spider
+"Target_FistOfUnbrokenAir",--Fist of Unbroken Air
+"Target_Fist_Mummy",--Rotting Fist
+"Target_Fist_Myconid",--Fist
+"Target_Fist_Myconid_Strong",--
+"Target_Fist_Myconid_Weak",--
+"Target_Flail_Gnoll_Madness",--Flail of Madness
+"Target_Flail_Gnoll_Pain",--Flail of Pain
+"Target_Flail_Gnoll_Paralysis",--Flail of Paralysis
+"Target_FlameBlade_Attack",--Flame Blade Strike
+"Target_FlameStrike",--Flame Strike
+"Target_FlameStrike_6",--
+"Target_FlamingSphere",--Flaming Sphere
+"Target_FlamingSphere_3",--
+"Target_FlamingSphere_4",--
+"Target_FlamingSphere_5",--
+"Target_FlamingSphere_6",--
+"Target_FlamingSphere_Move",--Move Sphere
+"Target_FlamingSphere_Ram",--Ram
+"Target_FlamingSphere_Ram_3",--
+"Target_FlamingSphere_Ram_4",--
+"Target_FlamingSphere_Ram_5",--
+"Target_FlamingSphere_Ram_6",--
+"Target_FleshToStone",--Flesh to Stone
+"Target_FloatingDisk",--Tenser's Floating Disk
+"Target_Flock_Raven",--On Black Wings
+"Target_Flurry",--Flurry
+"Target_FlurryOfBlows",--Flurry of Blows
+"Target_Fly",--Grant Flight
+"Target_Fly_4",--
+"Target_Fly_4_AI",--
+"Target_Fly_5",--
+"Target_Fly_5_AI",--
+"Target_Fly_6",--
+"Target_Fly_6_AI",--
+"Target_Fly_Dragon",--Fly
+"Target_Fly_Dragon_Skeletal",--Fly
+"Target_Fly_Dragon_Skeletal_EnterFlightState",--Gather Power
+"Target_Fly_Dragon_Skeletal_EnterFlightState_Far",--Gather Power
+"Target_FogCloud",--Fog Cloud
+"Target_FogCloud_2",--Fog Cloud
+"Target_FogCloud_3",--Fog Cloud
+"Target_FogCloud_4",--
+"Target_FogCloud_5",--
+"Target_FogCloud_6",--
+"Target_ForcedManeuver",--Forced Manoeuvre
+"Target_FreedomOfMovement",--Freedom of Movement
+"Target_FreedomOfMovement_5",--
+"Target_FreedomOfMovement_6",--
+"Target_FreezingSphere",--Otiluke's Freezing Sphere
+"Target_FreezingSphere_Throw",--Otiluke's Conveniently Portable Freezing Sphere
+"Target_FreezingStrike_Myrmidon_Water",--Hiemal Strike
+"Target_FrenziedStrike",--Frenzied Strike
+"Target_FrenziedStrike_Boar",--Frenzied Strike
+"Target_Friends",--Friends
+"Target_FungalInfestation",--Fungal Infestation
+"Target_GLO_CursedIronFlask_CaptureCreature",--Capture Creature
+"Target_GLO_DangerousBook_SpeakWithDead",--
+"Target_GOB_AnimalFriendship_Pens_BeastmasterAmulet",--
+"Target_GOB_ChickenChase_CommentatorShove",--
+"Target_GOB_CureWounds_SeluneAmulet",--Selûne's Dream
+"Target_GOB_DrowCommander_Buff",--Soul Branding
+"Target_GOB_DrowCommander_HoldPerson",--
+"Target_GOB_GoblinKing_ForceAttack",--Absolute Power
+"Target_GOB_GoblinKing_ForceAttack_WeaponAttack",--
+"Target_GOB_PainPriest_ChillTouch",--
+"Target_GOB_PainPriest_WeaponAttack",--Agony's Caress
+"Target_GOB_Priestess_AbsolutesWord",--The Word of the Absolute
+"Target_GOB_Priestess_Grease",--
+"Target_GOB_Priestess_HealingWord",--
+"Target_GOB_Priestess_HoldPerson",--
+"Target_GOB_Priestess_ShieldOfFaith",--
+"Target_GOB_Priestess_ShockingGrasp",--
+"Target_GOB_Priestess_Telekinesis",--The Absolute's Hand
+"Target_GOB_Priestess_Telekinesis_Pull",--The Absolute's Will
+"Target_GOB_SpiderNest_ShortShove",--
+"Target_GOB_VoloGuard_Shove",--
+"Target_GOB_WolfPens_HalsinCureWounds",--
+"Target_GOB_WolfPens_HalsinMultiAttack_Bear",--
+"Target_Garrote_Meazel",--Garrotte
+"Target_GaseousForm",--Gaseous Form
+"Target_GaseousForm_4",--
+"Target_GaseousForm_5",--
+"Target_GaseousForm_6",--
+"Target_Gaze_Apostle",--Gaze of the Dead
+"Target_Generic_Goblin",--
+"Target_Generic_Hobgoblin",--
+"Target_GlobeOfInvulnerability",--Globe of Invulnerability
+"Target_GlyphOfWarding",--Glyph of Warding
+"Target_GlyphOfWarding_Acid",--Glyph of Warding: Acid
+"Target_GlyphOfWarding_Acid_4",--
+"Target_GlyphOfWarding_Acid_5",--
+"Target_GlyphOfWarding_Acid_6",--
+"Target_GlyphOfWarding_Cold",--Glyph of Warding: Cold
+"Target_GlyphOfWarding_Cold_4",--
+"Target_GlyphOfWarding_Cold_5",--
+"Target_GlyphOfWarding_Cold_6",--
+"Target_GlyphOfWarding_Detonation",--Glyph of Warding: Detonation
+"Target_GlyphOfWarding_Detonation_4",--
+"Target_GlyphOfWarding_Detonation_5",--
+"Target_GlyphOfWarding_Detonation_6",--
+"Target_GlyphOfWarding_Fire",--Glyph of Warding: Fire
+"Target_GlyphOfWarding_Fire_4",--
+"Target_GlyphOfWarding_Fire_5",--
+"Target_GlyphOfWarding_Fire_6",--
+"Target_GlyphOfWarding_Lightning",--Glyph of Warding: Lightning
+"Target_GlyphOfWarding_Lightning_4",--
+"Target_GlyphOfWarding_Lightning_5",--
+"Target_GlyphOfWarding_Lightning_6",--
+"Target_GlyphOfWarding_Sleep",--Glyph of Warding: Sleep
+"Target_GlyphOfWarding_Sleep_4",--
+"Target_GlyphOfWarding_Sleep_5",--
+"Target_GlyphOfWarding_Sleep_6",--
+"Target_GlyphOfWarding_Thunder",--Glyph of Warding: Thunder
+"Target_GlyphOfWarding_Thunder_4",--
+"Target_GlyphOfWarding_Thunder_5",--
+"Target_GlyphOfWarding_Thunder_6",--
+"Target_GoadingAttack",--Goading Attack (Melee)
+"Target_Goodberry",--Goodberry
+"Target_Goodberry_2",--Goodberry
+"Target_Goodberry_3",--Goodberry
+"Target_Goodberry_4",--
+"Target_Goodberry_5",--
+"Target_Goodberry_6",--
+"Target_Gore_DeepRothe",--Gore
+"Target_Gore_DeepRothe_NPC",--
+"Target_Gore_Minotaur",--Gore
+"Target_Grapple_DarkVine",--Grapple
+"Target_Grapple_NetherTentacle",--Grapple
+"Target_GraspingVine",--Grasping Vine
+"Target_GraspingVine_5",--
+"Target_GraspingVine_6",--
+"Target_GraspingVine_Pull",--Grasping Pull
+"Target_Grease",--Grease
+"Target_Grease_2",--
+"Target_Grease_3",--
+"Target_Grease_4",--
+"Target_Grease_5",--
+"Target_Grease_6",--
+"Target_GreatWeaponMaster_BonusAttack",--Great Weapon Master: Bonus Attack
+"Target_GreaterRestoration",--Greater Restoration
+"Target_GreaterRestoration_6",--
+"Target_GuardianOfFaith",--Guardian of Faith
+"Target_GuardianOfFaith_5",--
+"Target_GuardianOfFaith_6",--
+"Target_Guidance",--Guidance
+"Target_Guidance_TalismanOfSelune",--
+"Target_HAG_ClearIllusion",--Break Illusion
+"Target_HAG_Hagspawn_SummonHusband",--Second Marriage
+"Target_HAG_HoldPerson",--
+"Target_HAG_MaskOfRegret",--Curse of Regret
+"Target_HAG_MaskOfServitude",--Boon of Servitude
+"Target_HAG_MaskOfTerror",--Curse of Terror
+"Target_HAG_MaskOfVengeance",--Vengeful Strike
+"Target_HAG_MudMephit_Summon",--
+"Target_HAG_ProtectionFromEvilAndGood_Amulet",--
+"Target_HAG_SinisterStrike",--Sinister Strike
+"Target_HAG_ViciousMockery",--
+"Target_HAV_DevilishOX_AlternateForm_DireWolf",--Alternate Form: Dire Wolf
+"Target_HAV_DevilishOX_AlternateForm_Minotaur",--Alternate Form: Minotaur
+"Target_HAV_DevilishOX_AlternateForm_PhaseSpider",--Alternate Form: Phase Spider
+"Target_HAV_DevilishOX_AlternateForm_ShadowMastiff",--Alternate Form: Shadow Mastiff
+"Target_HAV_HalsinLakeside_PortalExplosion",--%%% Empty
+"Target_HAV_TakingIsobel_CureWounds_Isobel",--
+"Target_HAV_TakingIsobel_FlyingGhoul_KidnapperKO",--
+"Target_HAV_TakingIsobel_HealingWord_Isobel",--
+"Target_HAV_TakingIsobel_KidnapperKO",--
+"Target_HAV_TakingIsobel_MHA_Override_FlyingGhoul",--
+"Target_HAV_TakingIsobel_MHA_Override_Marcus",--
+"Target_HAV_TakingIsobel_SacredFlame_Isobel",--
+"Target_HAV_TakingIsobel_SearingSmite_Marcus",--
+"Target_HAV_TakingIsobel_Shove_Marcus",--
+"Target_HAV_TakingIsobel_TakeMol",--Clutch
+"Target_HallucinationSpores",--Hallucination Spores
+"Target_HaloOfSpores",--Halo of Spores
+"Target_Harm",--Harm
+"Target_HarvestTheDead_CorpseFlower",--Harvest the Dead
+"Target_Haste",--Haste
+"Target_Haste_4",--
+"Target_Haste_5",--
+"Target_Haste_6",--
+"Target_Headbutt_Hollyphant",--Hollyphant Headbutt
+"Target_Headbutt_TollCollector_Face",--Headbutt
+"Target_Heal",--Heal
+"Target_Heal_FleshGolem",--Gift of Flesh
+"Target_Healer_Heal",--Seal Wounds
+"Target_HealingWord",--Healing Word
+"Target_HealingWord_2",--
+"Target_HealingWord_3",--
+"Target_HealingWord_4",--
+"Target_HealingWord_5",--
+"Target_HealingWord_6",--
+"Target_HeartStopper",--Heartstopper
+"Target_HeatMetal",--Heat Metal
+"Target_HeatMetal_3",--
+"Target_HeatMetal_4",--
+"Target_HeatMetal_5",--
+"Target_HeatMetal_6",--
+"Target_HeatMetal_MagmaMephit",--
+"Target_HeatMetal_Reapply",--Heat Metal: Reapply Damage
+"Target_HeatMetal_Reapply_3",--
+"Target_HeatMetal_Reapply_4",--
+"Target_HeatMetal_Reapply_5",--
+"Target_HeatMetal_Reapply_6",--
+"Target_HeatMetal_Reapply_MagmaMephit",--
+"Target_HellishRebuke",--Hellish Rebuke
+"Target_HellishRebuke_2",--Hellish Rebuke
+"Target_HellishRebuke_3",--Hellish Rebuke
+"Target_HellishRebuke_4",--
+"Target_HellishRebuke_5",--
+"Target_HellishRebuke_6",--
+"Target_HellishRebuke_Myrmidon",--
+"Target_Help",--Help
+"Target_Help_BonusAction",--
+"Target_Heroism",--Heroism
+"Target_Heroism_2",--Heroism
+"Target_Heroism_2_AI",--
+"Target_Heroism_3",--Heroism
+"Target_Heroism_3_AI",--
+"Target_Heroism_4",--
+"Target_Heroism_4_AI",--
+"Target_Heroism_5",--
+"Target_Heroism_5_AI",--
+"Target_Heroism_6",--
+"Target_Heroism_6_AI",--
+"Target_Hex",--Hex
+"Target_Hex_2",--Hex
+"Target_Hex_3",--Hex
+"Target_Hex_4",--
+"Target_Hex_5",--
+"Target_Hex_6",--
+"Target_Hex_Charisma",--Hex (Charisma)
+"Target_Hex_Charisma_2",--
+"Target_Hex_Charisma_3",--
+"Target_Hex_Charisma_4",--
+"Target_Hex_Charisma_5",--
+"Target_Hex_Charisma_6",--
+"Target_Hex_Constitution",--Hex (Constitution)
+"Target_Hex_Constitution_2",--
+"Target_Hex_Constitution_3",--
+"Target_Hex_Constitution_4",--
+"Target_Hex_Constitution_5",--
+"Target_Hex_Constitution_6",--
+"Target_Hex_Dexterity",--Hex (Dexterity)
+"Target_Hex_Dexterity_2",--
+"Target_Hex_Dexterity_3",--
+"Target_Hex_Dexterity_4",--
+"Target_Hex_Dexterity_5",--
+"Target_Hex_Dexterity_6",--
+"Target_Hex_Intelligence",--Hex (Intelligence)
+"Target_Hex_Intelligence_2",--
+"Target_Hex_Intelligence_3",--
+"Target_Hex_Intelligence_4",--
+"Target_Hex_Intelligence_5",--
+"Target_Hex_Intelligence_6",--
+"Target_Hex_Reapply",--Reapply Hex
+"Target_Hex_Reapply_Charisma",--Reapply Hex (Charisma)
+"Target_Hex_Reapply_Constitution",--Reapply Hex (Constitution)
+"Target_Hex_Reapply_Dexterity",--Reapply Hex (Dexterity)
+"Target_Hex_Reapply_Intelligence",--Reapply Hex (Intelligence)
+"Target_Hex_Reapply_Strength",--Reapply Hex (Strength)
+"Target_Hex_Reapply_Wisdom",--Reapply Hex (Wisdom)
+"Target_Hex_Strength",--Hex (Strength)
+"Target_Hex_Strength_2",--
+"Target_Hex_Strength_3",--
+"Target_Hex_Strength_4",--
+"Target_Hex_Strength_5",--
+"Target_Hex_Strength_6",--
+"Target_Hex_Wisdom",--Hex (Wisdom)
+"Target_Hex_Wisdom_2",--
+"Target_Hex_Wisdom_3",--
+"Target_Hex_Wisdom_4",--
+"Target_Hex_Wisdom_5",--
+"Target_Hex_Wisdom_6",--
+"Target_HideousLaughter",--Tasha's Hideous Laughter
+"Target_HideousLaughter_2",--Tasha's Hideous Laughter
+"Target_HideousLaughter_3",--Tasha's Hideous Laughter
+"Target_HideousLaughter_4",--
+"Target_HideousLaughter_5",--
+"Target_HideousLaughter_6",--
+"Target_HinderingSmash",--Weakening Strike
+"Target_HoldMonster",--Hold Monster
+"Target_HoldMonster_6",--
+"Target_HoldMonster_6_AI",--
+"Target_HoldPerson",--Hold Person
+"Target_HoldPerson_3",--
+"Target_HoldPerson_3_AI",--
+"Target_HoldPerson_4",--
+"Target_HoldPerson_4_AI",--
+"Target_HoldPerson_5",--
+"Target_HoldPerson_5_AI",--
+"Target_HoldPerson_6",--
+"Target_HoldPerson_6_AI",--
+"Target_HoldPerson_Monk",--Clench of the North Wind
+"Target_HoldPerson_Redcap",--
+"Target_HolyRebuke",--Holy Rebuke
+"Target_Hook",--Hook
+"Target_HordeBreaker",--Horde Breaker (Melee)
+"Target_HordeBreaker_Free",--Horde Breaker Follow-Up (Melee)
+"Target_HorrificVisage",--Horrific Visage
+"Target_HungerOfHadar",--Hunger of Hadar
+"Target_HungerOfHadar_4",--
+"Target_HungerOfHadar_5",--
+"Target_HungerOfHadar_6",--
+"Target_HuntersMark",--Hunter's Mark
+"Target_HuntersMark_2",--
+"Target_HuntersMark_3",--
+"Target_HuntersMark_4",--
+"Target_HuntersMark_5",--
+"Target_HuntersMark_6",--
+"Target_HuntersMark_Reapply",--Reapply Hunter's Mark
+"Target_HypnoticGaze",--Hypnotic Gaze
+"Target_HypnoticGaze_Maintain",--Maintain Hypnotic Gaze
+"Target_HypnoticPattern",--Hypnotic Pattern
+"Target_HypnoticPattern_4",--
+"Target_HypnoticPattern_5",--
+"Target_HypnoticPattern_6",--
+"Target_INT_KiResonation_Blast_GithyankiMonk",--
+"Target_INT_KiResonation_Punch_BonusAction_GithyankiMonk",--
+"Target_INT_KiResonation_Punch_GithyankiMonk",--
+"Target_INT_StunningStrike_Unarmed_OncePerTurn",--
+"Target_INT_UnarmedAttack_Fake",--
+"Target_ITEMS",--
+"Target_IceStorm",--Ice Storm
+"Target_IceStorm_5",--
+"Target_IceStorm_6",--
+"Target_Identify",--Identify
+"Target_ImprovedFlare_Interrupt",--Improved Warding Flare
+"Target_ImprovedMinorIllusion",--Improved Minor Illusion
+"Target_InfectiousBite_Wolf",--Infectious Bite
+"Target_InfernalDagger",--Infernal Dagger
+"Target_InflictWounds",--Inflict Wounds
+"Target_InflictWounds_2",--
+"Target_InflictWounds_3",--
+"Target_InflictWounds_4",--
+"Target_InflictWounds_5",--
+"Target_InflictWounds_6",--
+"Target_InquisitorsMight",--Inquisitor's Might
+"Target_InquisitorsMight_NPC",--
+"Target_InsectPlague",--Insect Plague
+"Target_InsectPlague_6",--
+"Target_IntimidatingPresence",--Intimidating Presence
+"Target_IntimidatingPresence_Maintain",--Maintain Intimidating Presence
+"Target_Invisibility",--Invisibility
+"Target_Invisibility_3",--
+"Target_Invisibility_3_AI",--
+"Target_Invisibility_4",--
+"Target_Invisibility_4_AI",--
+"Target_Invisibility_5",--
+"Target_Invisibility_5_AI",--
+"Target_Invisibility_6",--
+"Target_Invisibility_6_AI",--
+"Target_Invisibility_Greater",--Greater Invisibility
+"Target_Invisibility_Greater_5",--Greater Invisibility
+"Target_Invisibility_Greater_6",--Greater Invisibility
+"Target_InvokeDuplicity",--Invoke Duplicity
+"Target_IronboundPursuit_RedCap",--Ironbound Pursuit
+"Target_IronboundPursuit_RedCap_Hardcore",--
+"Target_IrresistibleDance",--Otto's Irresistible Dance
+"Target_JugularStrike_Panther",--Jugular Strike
+"Target_JugularStrike_Panther_Gremishka",--
+"Target_Jump",--Enhance Leap
+"Target_Jump_2",--Enhance Leap
+"Target_Jump_3",--Enhance Leap
+"Target_Jump_4",--
+"Target_Jump_5",--
+"Target_Jump_6",--
+"Target_Jump_Githyanki",--Githyanki Psionics: Jump
+"Target_Jump_Ritual",--
+"Target_KiResonation_Blast",--Ki Resonation: Blast
+"Target_KiResonation_Punch",--Ki Resonation: Punch
+"Target_KiResonation_Punch_BonusAction",--Ki Resonation: Punch (Bonus Action)
+"Target_Knock",--Knock
+"Target_KnockOut_Person",--Knock Unconscious
+"Target_KnockOut_Person_Guaranteed",--
+"Target_Knock_3",--
+"Target_Knock_4",--
+"Target_Knock_5",--
+"Target_Knock_6",--
+"Target_Knock_LightCleric",--
+"Target_KnowYourEnemy",--Know Your Enemy
+"Target_LOW_Astarion_VampireAscendant",--Ascendant Bite
+"Target_LOW_BhaalCultist_BenignTransposition",--
+"Target_LOW_BhaalCultist_CloudOfDaggers",--Murderous Cloud of Daggers
+"Target_LOW_BhaalCultist_RangersCompanion_Raven",--Conjure Murder of Crows
+"Target_LOW_BhaalCultist_RendVision_Crow",--
+"Target_LOW_BhaalCultist_Slow",--
+"Target_LOW_BhaalCultist_ThroatPunch",--Throat Punch
+"Target_LOW_BhaalTemple_OrinBuff",--Boon of the Unstoppable
+"Target_LOW_BhaalTemple_OrinBuff_Hardcore",--
+"Target_LOW_Bite_Dog_Ghost",--
+"Target_LOW_BlackGauntlet_Command_Approach_4",--
+"Target_LOW_Blight_Cazador",--
+"Target_LOW_BlushingMermaid_Redcap_Bloodlust",--
+"Target_LOW_BlushingMermaid_Redcap_HoldPerson",--
+"Target_LOW_BlushingMermaid_Redcap_IronboundPursuit",--
+"Target_LOW_BlushingMermaid_Redcap_MultiAttack",--
+"Target_LOW_BlushingMermaid_Redcap_OpenWounds",--
+"Target_LOW_CallLightning_Cazador",--
+"Target_LOW_CastPortal",--Portal
+"Target_LOW_Claws_Ghast_Greater_Cazador_Ghast",--
+"Target_LOW_DarkUrge_PowerWordKill",--Power Word Kill
+"Target_LOW_DeathbringerAssault_Orin",--Deathbringer Assault
+"Target_LOW_DeathbringerAssault_Sarevok",--Deathbringer Assault
+"Target_LOW_DevilsFee_Boar",--Summon Gilded Hellsboar
+"Target_LOW_DevilsFee_Coin",--Mammon's Tax
+"Target_LOW_DevilsFee_Gold",--Petrifying Sting
+"Target_LOW_DevilsFee_GraspingHands",--Keeper's Fee
+"Target_LOW_DevilsFee_PromiseOfWealth",--Promise of Wealth
+"Target_LOW_DiabolicalThrall",--Diabolical Ally
+"Target_LOW_DissonantWhispers_Cazador_Ritualist",--
+"Target_LOW_Dog_Ghost_Mourn",--Loyal Furry Friend
+"Target_LOW_Dog_Ghost_PreyOffering_1",--Have Nice Gift!
+"Target_LOW_Dolor_Dip",--
+"Target_LOW_Dolor_Shove",--
+"Target_LOW_Eyebite_Asleep_Cazador_Ritualist",--
+"Target_LOW_Eyebite_CrownOfMadness_Cazador_Ritualist",--
+"Target_LOW_Eyebite_Sickened_Cazador_Ritualist",--
+"Target_LOW_FatherCarrion_GreaterCurse",--Mystic Carrion's Vile Curse
+"Target_LOW_FatherCarrion_PutridExplosion",--Carrion's Explosive Cloudkill
+"Target_LOW_FatherCarrion_PutridExplosion_Hardcore",--
+"Target_LOW_FlamingFist_Caster_Slow_4",--
+"Target_LOW_FlamingFist_Cleric_Command_Grovel_4",--
+"Target_LOW_FlamingFist_RangersCompanion_Wolf",--Wolf Companion
+"Target_LOW_FlamingFist_TripAttack",--
+"Target_LOW_GithyankiGish_Counterspell_4",--
+"Target_LOW_GithyankiProdigy_AstralStep_ReactiveDisplacement",--Astral Step
+"Target_LOW_GithyankiProdigy_CullTheEvil",--Sapping Images
+"Target_LOW_GithyankiProdigy_MentalImage_PsychicPunch",--Sapping Strike
+"Target_LOW_GreaseWizard_ConvertCorpse",--Invigorating Flame
+"Target_LOW_GreaseWizard_Elemental_Slam",--
+"Target_LOW_GreaseWizard_Mephit_Summon",--
+"Target_LOW_GreaseWizard_Mephit_Summon_Magma",--
+"Target_LOW_GreaseWizard_Ooze_Pseudo",--
+"Target_LOW_GreaseWizard_RaiseElemental",--
+"Target_LOW_Guildhall_AdaptableSneakAttack",--Versatile Sneak Attack (Melee)
+"Target_LOW_Guildhall_SneakyRiposte",--Chevalier Riposte
+"Target_LOW_HagShroom_Awaken",--Pearlspore Bell Awakening
+"Target_LOW_HagShroom_Resurrect",--Pearlspore Bell Resurrection
+"Target_LOW_HagSurvivor_Bloodlust",--
+"Target_LOW_HagSurvivor_Claw",--Razor Claw
+"Target_LOW_HagSurvivor_Multiattack",--
+"Target_LOW_HagSurvivor_Pursuit",--
+"Target_LOW_HagSurvivors_Summon",--Call of the Crustacean
+"Target_LOW_HagSurvivors_Summon_Additional",--
+"Target_LOW_Hag_Double_InsectPlague",--
+"Target_LOW_Hag_GreaterRestoration",--
+"Target_LOW_Hag_InsectPlague",--Ethel's Insect Plague
+"Target_LOW_Hag_Polymorph",--
+"Target_LOW_Hex_Dexterity_Trap",--
+"Target_LOW_Hope_Banishment",--Revoke Guest Status
+"Target_LOW_Houndmaster_HoundmastersMark",--Houndmaster's Mark
+"Target_LOW_HouseOfGrief_Apply_Heart",--Castigate Heartform
+"Target_LOW_HouseOfGrief_Apply_ShadowHeart",--
+"Target_LOW_HouseOfGrief_BeckoningDarkness",--
+"Target_LOW_HouseOfGrief_Darkness_4",--
+"Target_LOW_HouseOfGrief_DivineStrike",--
+"Target_LOW_HouseOfGrief_ExploitFear_Betrayal",--Mapped Terror: Betrayal
+"Target_LOW_HouseOfGrief_ExploitFear_Darkness",--Mapped Terror: Darkness
+"Target_LOW_HouseOfGrief_ExploitFear_Disease",--Mapped Terror: Disease
+"Target_LOW_HouseOfGrief_ExploitFear_Mindflayer",--Mapped Terror: Ceremorphosis
+"Target_LOW_HouseOfGrief_ExploitFear_Powerless",--Mapped Terror: Powerlessness
+"Target_LOW_HouseOfGrief_ExploitFear_Spider_2",--Mapped Terror: Spiders
+"Target_LOW_HouseOfGrief_ExploitFear_Wolf_2",--Mapped Terror: Wolves
+"Target_LOW_HouseOfGrief_InflictWounds_2",--
+"Target_LOW_HouseOfGrief_InflictWounds_3",--
+"Target_LOW_HouseOfGrief_OverwhelmingGrief",--
+"Target_LOW_HouseOfGrief_ShadowStep",--
+"Target_LOW_HouseOfGrief_SpiderBite",--
+"Target_LOW_HouseOfGrief_SpiderBite_Vic",--
+"Target_LOW_HouseOfGrief_Summon_Shadow",--%%% Summon Shadow
+"Target_LOW_HouseOfGrief_WolfBite",--
+"Target_LOW_HouseOfGrief_WolfBite_Vic",--
+"Target_LOW_HungerOfHadar_Cazador_Ritualist",--
+"Target_LOW_Incubus_GetNaked",--Bedroom Preparations
+"Target_LOW_IronThrone_HostageAttack",--
+"Target_LOW_IronThrone_MizoraHaste",--
+"Target_LOW_IronThrone_Mizora_Resurrect",--Zariel Pact: Resurrection
+"Target_LOW_IronThrone_Mizora_Spiderlings_Attack",--Extreme Measures
+"Target_LOW_IronThrone_Omeluum_Teleport",--Teleport to Submersible
+"Target_LOW_KelemvorPriestess_SpiritualWeapon",--
+"Target_LOW_LiaraPortyr_FlamingFury",--Flaming Fury
+"Target_LOW_MinscHideout_MinscAttacksWall",--
+"Target_LOW_Multiattack_Cazador",--
+"Target_LOW_OpenGate",--Astral Rift
+"Target_LOW_OskarsBeloved_Mummy_Glare",--
+"Target_LOW_OskarsBeloved_Mummy_Multiattack",--
+"Target_LOW_OskarsBeloved_Nurse_Multiattack",--
+"Target_LOW_OskarsBeloved_Nurse_Multiattack_Easy",--Multiattack
+"Target_LOW_OskarsBeloved_Possession",--Possession
+"Target_LOW_OskarsBeloved_WitheringTouch",--Withering Touch
+"Target_LOW_OskarsBeloved_WitheringTouch_Dialogue",--
+"Target_LOW_PlagueShip_Claws_Imp",--Caustic Claws
+"Target_LOW_PlagueShip_Sting_Imp",--
+"Target_LOW_Poltergeist_Shove",--Telekinetic Thrust
+"Target_LOW_Polymorph_Trap",--
+"Target_LOW_RamazithsTower_Dummy",--Elemental Retort
+"Target_LOW_RamazithsTower_Stoneskin",--
+"Target_LOW_Raphael_DevillishStrength",--Devilish Strength
+"Target_LOW_Raphael_FlameFury",--Incinerate
+"Target_LOW_Raphael_Gaze",--
+"Target_LOW_Raphael_Harvest",--Harvest Soul
+"Target_LOW_Raphael_Heal",--Infernal Salve
+"Target_LOW_Raphael_Hellcrawler",--
+"Target_LOW_Raphael_Multiattack",--
+"Target_LOW_Raphael_Reaper_Spell",--%%% Reap Soul
+"Target_LOW_Raphael_RepelDivinity_SoulDrain",--Soul Drain
+"Target_LOW_Raphael_RepelDivinity_Spell",--Punish Divinity
+"Target_LOW_Raphael_RestoreSoul",--Restore Soul
+"Target_LOW_Raphael_Shove",--
+"Target_LOW_Raphael_Soul_Explode",--%%% WIP
+"Target_LOW_Raphael_Soul_Madness",--%%% Cancelled spell
+"Target_LOW_Raphael_Summon_Eternal_Debtor",--%%% (unused spell) Summon Eternal Debtor
+"Target_LOW_Raphael_Summon_Eternal_Debtor_2",--
+"Target_LOW_Raphael_Summon_Eternal_Debtor_3",--
+"Target_LOW_Raphael_Summon_Eternal_Debtor_4",--
+"Target_LOW_Raphael_Summon_Eternal_Debtor_5",--
+"Target_LOW_Raphael_Summon_Eternal_Debtor_6",--
+"Target_LOW_Raphael_Summon_Eternal_Debtor_Consolidated",--Invocation of Eternal Debt
+"Target_LOW_Raphael_Summon_Soul_Screaming",--%%% Summon Screaming Soul
+"Target_LOW_RitualCapture_Cazador",--Forced Teleportation
+"Target_LOW_Rolan_MageArmor",--Rolan's Mage Armour
+"Target_LOW_Silence_Trap",--
+"Target_LOW_Slam_Zombie_Greater_Cazador_Zombie",--
+"Target_LOW_SpawnArcaneTurret",--Guardian Arcane Turret
+"Target_LOW_TheLodge_Blight_5",--
+"Target_LOW_Tolna_Command_Drop_3",--
+"Target_LOW_Tolna_Command_Flee_3",--
+"Target_LOW_Tolna_Command_Grovel_3",--
+"Target_LOW_UnholyAssassin_HoldPerson",--
+"Target_LOW_UnholyAssassin_SneakAttack",--
+"Target_LOW_VampireBite",--
+"Target_LOW_Vampire_Bite_NoAstarion",--
+"Target_LOW_Vampire_Claws_NonLethal",--
+"Target_LOW_Vampire_Claws_NonLethal_Spawn",--
+"Target_LOW_Vampire_Multiattack_NoAstarion",--
+"Target_LOW_Vampire_Multiattack_NoAstarion_Spawn",--
+"Target_LOW_ViciousMockery_Trap",--
+"Target_LOW_WardingBond_Distant",--
+"Target_LayOnHands",--Lay on Hands
+"Target_LayOnHands_BigHeal",--Lay on Hands: Greater Healing
+"Target_LayOnHands_Cure",--Lay on Hands: Cure
+"Target_LayOnHands_SmallHeal",--Lay on Hands: Lesser Healing
+"Target_LearnSpell",--Learn Spell
+"Target_Legendary_ShieldBlow_Riposte",--
+"Target_LesserRestoration",--Lesser Restoration
+"Target_LesserRestoration_3",--Lesser Restoration
+"Target_LesserRestoration_4",--
+"Target_LesserRestoration_5",--
+"Target_LesserRestoration_6",--
+"Target_Levitate",--Levitate
+"Target_LifeDrain_Wraith",--Life Drain
+"Target_Light",--Light
+"Target_LightningBlade",--Boltstruck Blade
+"Target_LightningStrike_Myrmidon_Air",--Electrified Flail
+"Target_Longstrider",--Longstrider
+"Target_Longstrider_2",--Longstrider
+"Target_Longstrider_2_AI",--
+"Target_Longstrider_3",--Longstrider
+"Target_Longstrider_3_AI",--
+"Target_Longstrider_4",--
+"Target_Longstrider_4_AI",--
+"Target_Longstrider_5",--
+"Target_Longstrider_5_AI",--
+"Target_Longstrider_6",--
+"Target_Longstrider_6_AI",--
+"Target_LungingAttack",--Lunging Attack
+"Target_MAG_BeckoningDarkness",--
+"Target_MAG_Bhaalist_Garrote",--
+"Target_MAG_Bhaalist_Hold_Person",--
+"Target_MAG_BlackTentacle",--
+"Target_MAG_Blight",--
+"Target_MAG_ChargedLightning_EnsnaringShock",--Ensnaring Shock
+"Target_MAG_ChargedLightning_LightningLure",--Lightning Lure
+"Target_MAG_CombatInstruction",--Rallying Encouragement
+"Target_MAG_Command_Approach",--
+"Target_MAG_Command_Container",--
+"Target_MAG_Command_Drop",--
+"Target_MAG_Command_Flee",--
+"Target_MAG_Command_Grovel",--
+"Target_MAG_Command_Halt",--
+"Target_MAG_CommanderStrike",--
+"Target_MAG_Confusion",--
+"Target_MAG_CounterSpell",--
+"Target_MAG_CounterSpell_Success",--
+"Target_MAG_CreateUndead",--
+"Target_MAG_Critical_Critical_Combo",--Press the Advantage
+"Target_MAG_CrownOfMadness",--
+"Target_MAG_Djinni_MageHand",--
+"Target_MAG_DominateBeast",--
+"Target_MAG_Drow_EnsnaringStrike",--Ensnaring Strands
+"Target_MAG_Drow_Web",--
+"Target_MAG_Drow_Web_Pull",--Pulling Web
+"Target_MAG_Druid_Armor_PlantGrowth",--
+"Target_MAG_Druid_HallucinationSpores",--
+"Target_MAG_Druid_PacifyingSpores",--
+"Target_MAG_ElementalWeapon",--Draconic Elemental Weapon
+"Target_MAG_ElementalWeapon_Acid",--Draconic Elemental Weapon: Acid
+"Target_MAG_ElementalWeapon_Cold",--Draconic Elemental Weapon: Cold
+"Target_MAG_ElementalWeapon_Fire",--Draconic Elemental Weapon: Fire
+"Target_MAG_ElementalWeapon_Lightning",--Draconic Elemental Weapon: Lightning
+"Target_MAG_ElementalWeapon_Thunder",--Draconic Elemental Weapon: Thunder
+"Target_MAG_EnsnaringStrike_Shield",--Woad's Ensnaring Strike
+"Target_MAG_FindFamiliar_Raven",--Summon Quothe the Raven
+"Target_MAG_FlamingFist_ScoutRing_Invisibility",--
+"Target_MAG_Frost_Frostbite",--Frostbite
+"Target_MAG_Gish_WeaknessBranding",--Brand the Weak
+"Target_MAG_Gish_WeaknessBranding_Bludgeoning",--Bludgeon the Weak
+"Target_MAG_Gish_WeaknessBranding_Piercing",--Pierce the Weak
+"Target_MAG_Gish_WeaknessBranding_Slashing",--Slash the Weak
+"Target_MAG_GoblinShield_Heroism",--
+"Target_MAG_Haste",--
+"Target_MAG_HealingWord",--
+"Target_MAG_HoldPerson",--
+"Target_MAG_HungerOfHadar",--
+"Target_MAG_HuntersMark",--
+"Target_MAG_HuntersMark_Grymskull",--
+"Target_MAG_Illithid_CharmPerson",--
+"Target_MAG_Illithid_MindTax",--Mind Tax
+"Target_MAG_InflictWounds_DK",--
+"Target_MAG_Knock",--
+"Target_MAG_Legendary_Chromatic_CloudKill",--
+"Target_MAG_Legendary_Chromatic_HungerOfHadar",--
+"Target_MAG_Legendary_Chromatic_IceStorm",--
+"Target_MAG_Legendary_Chromatic_Shatter",--
+"Target_MAG_Legendary_CompelledDuel",--Challenge to Duel
+"Target_MAG_Legendary_HellCrawler",--Hellcrawler
+"Target_MAG_Legendary_ImmolatingGaze",--Immolating Gaze
+"Target_MAG_MenacingAttack",--
+"Target_MAG_Myrkulites_AnimateDead",--
+"Target_MAG_Myrkulites_AnimateDead_Skeleton",--
+"Target_MAG_Myrkulites_AnimateDead_Zombie",--
+"Target_MAG_Myrkulites_CommandUndead",--Exhort the Risen
+"Target_MAG_Myrkulites_CommandUndead_Approach",--
+"Target_MAG_Myrkulites_CommandUndead_Drop",--
+"Target_MAG_Myrkulites_CommandUndead_Flee",--
+"Target_MAG_Myrkulites_CommandUndead_Grovel",--
+"Target_MAG_Myrkulites_CommandUndead_Halt",--
+"Target_MAG_Myrkulites_GhoulTouch",--Ghoulish Touch
+"Target_MAG_NymphCloak_Dominate_Person",--
+"Target_MAG_OrphicHammer_ChainBreaker",--Unshackling Strike
+"Target_MAG_PHB_ScimitarOfSpeed_BonusAttack",--Perfectly Balanced Strike
+"Target_MAG_Poison_PoisonLethality",--Virulent Venom
+"Target_MAG_Resistance",--
+"Target_MAG_RetrievingShot",--
+"Target_MAG_Shadow_FogCloud",--
+"Target_MAG_Shadow_Shadowstep",--Shadow Teleportation
+"Target_MAG_Smite_Wrathful",--
+"Target_MAG_Spectator_FearRay",--Ray of Fear
+"Target_MAG_Spectator_ParalyzingRay",--Paralyzing Ray
+"Target_MAG_Spectator_WoundingRay",--Wounding Ray
+"Target_MAG_SpiritualStand_Greataxe",--Sethan: Spiritual Greataxe
+"Target_MAG_SpiritualStand_Reduce",--Sethan: Reduce
+"Target_MAG_SpiritualWeapon",--
+"Target_MAG_SpiritualWeapon_Greataxe",--
+"Target_MAG_SpiritualWeapon_Greatsword",--
+"Target_MAG_SpiritualWeapon_Halberd",--
+"Target_MAG_SpiritualWeapon_Maul",--
+"Target_MAG_SpiritualWeapon_Spear",--
+"Target_MAG_SpiritualWeapon_Trident",--
+"Target_MAG_TheClover_TrueStrike_Riposte",--
+"Target_MAG_TheDueller_BonusAttack",--Dueller's Enthusiasm
+"Target_MAG_ThornWhip_Sorrow",--Sorrowful Lash
+"Target_MAG_Thorn_Blade_EnsnaringStrike",--
+"Target_MAG_ThunderousSmite",--
+"Target_MAG_TrueStrike",--
+"Target_MAG_TrueStrike_Grymskull",--
+"Target_MAG_Tyr_SwordAndHammer",--
+"Target_MAG_Tyrant_Command_Approach",--
+"Target_MAG_Tyrant_Command_Container",--
+"Target_MAG_Tyrant_Command_Drop",--
+"Target_MAG_Tyrant_Command_Flee",--
+"Target_MAG_Tyrant_Command_Grovel",--
+"Target_MAG_Tyrant_Command_Halt",--
+"Target_MAG_Umberlee_CreateDestroyWater",--
+"Target_MAG_Umberlee_CreateWater",--
+"Target_MAG_Umberlee_DestroyWater",--
+"Target_MAG_Vampiric_Touch",--
+"Target_MAG_WardingBond",--
+"Target_MAG_WeaponAction_Bloodrend",--Bloodrender
+"Target_MAG_WeaponAction_Bonesaw",--Incise Ligaments
+"Target_MAG_WeaponAction_CorrosiveStrike",--Corrosive Strike
+"Target_MAG_WeaponAction_EvilAndGoodSubjugation",--Extraplanar Scourge
+"Target_MAG_WeaponAction_FlamingBlade",--Flaming Blade
+"Target_MAG_WeaponAction_FlashingDawn",--Dawnburst Strike
+"Target_MAG_WeaponAction_Fleshrend",--Part the Flesh
+"Target_MAG_WeaponAction_FrigidBlade",--Frigid Blade
+"Target_MAG_WeaponAction_GiantSubjugation",--Topple the Big Folk
+"Target_MAG_WeaponAction_GrandSlam",--Grand Slam
+"Target_MAG_WeaponAction_Leech",--Bloodletting
+"Target_MAG_WeaponAction_Mindcrush",--Soulbreaker
+"Target_MAG_WeaponAction_Mindoverload",--Crowning Strike
+"Target_MAG_WeaponAction_MoonlightButterfly",--Moonlight Butterflies
+"Target_MAG_WeaponAction_PoisonMist",--Poison Mist
+"Target_MAG_WeaponAction_RevitalizingStrike",--Revitalising Strike
+"Target_MAG_WeaponAction_SearingBlood",--Searing Blood
+"Target_MAG_WeaponAction_ShadowBlade",--Shadowsoaked Blow
+"Target_MAG_WeaponAction_SilencingBlade",--Hush You!
+"Target_MAG_WeaponAction_SteadfastStrike",--Steadfast Strike
+"Target_MAG_WeaponAction_Syringe",--Inject Nostrum
+"Target_MAG_WeaponAction_Taxblade",--Blood Money
+"Target_MAG_WeaponAction_Trepan",--Trephination
+"Target_MAG_WeaponAction_UndyingSubjugation",--Profane Scourge
+"Target_MAG_WhipOfShar",--Whip of Shar
+"Target_MF_AbsorbIntellect",--Synaptic Consumption
+"Target_MF_BlackHole",--Nebulous Black Hole
+"Target_MF_ConcentratedBlast",--Potent Concentrated Blast
+"Target_MF_Imperil",--
+"Target_MF_Imperil_Recast",--
+"Target_MF_MindSanctuary",--
+"Target_MF_PerilousStakes",--Fierce Perilous Stakes
+"Target_MF_ShieldOfThralls",--Augmented Shield of Thralls
+"Target_MF_Tentacles_MindFlayer",--
+"Target_MONSTERS",--
+"Target_MONSTERS_TADPOLE",--
+"Target_MOO_BloodPotion_IceStorm",--
+"Target_MOO_BloodPotion_Jump",--
+"Target_MOO_BloodPotion_Knock",--
+"Target_MOO_BloodPotion_MistyStep",--
+"Target_MOO_Dominate_Mindflayer",--Hijack Tadpole
+"Target_MOO_Enthrall_MindFlayer",--Compel Attention
+"Target_MOO_Fanatic_Banishment",--
+"Target_MOO_Fanatic_Command_Flee",--
+"Target_MOO_Fanatic_GuardianOfFaith",--
+"Target_MOO_Fanatic_HungerOfHadar",--
+"Target_MOO_Ketheric_CommandTroops",--Deadly Orders
+"Target_MOO_Ketheric_SpawnDeathBloom",--Incubate Death
+"Target_MOO_MasterOfSouls_SpawnDeathBloom",--
+"Target_MOO_Nightsong_AbjureEnemy",--
+"Target_MOO_Nightsong_SearingSmite",--Lunar Smite
+"Target_MOO_Scrymaster_Control",--Commandeering Focus
+"Target_MOO_SendingStone_Beacon",--Call Reinforcements
+"Target_MOO_SendingStone_Beacon_HarperCaster",--Call for Harper Wizard
+"Target_MOO_SendingStone_Beacon_HarperMelee",--Call for Harper Fighter
+"Target_MOO_SendingStone_Beacon_HarperRanger",--Call for Harper Ranger
+"Target_MULTIPLE",--
+"Target_MageArmor",--Mage Armour
+"Target_MageArmor_2",--Mage Armour
+"Target_MageArmor_3",--Mage Armour
+"Target_MageArmor_4",--
+"Target_MageArmor_5",--
+"Target_MageArmor_6",--
+"Target_MageHand",--Mage Hand
+"Target_MageHand_GithyankiPsionics",--Githyanki Psionics: Mage Hand
+"Target_MagicCircle",--%%% Magic Circle
+"Target_MagicCircle_Elemental",--%%% Magic Circle
+"Target_MagicCircle_Elemental_4",--%%% Magic Circle
+"Target_MagicCircle_Elemental_5",--%%% Magic Circle
+"Target_MagicCircle_Elemental_6",--%%% Magic Circle
+"Target_MagicCircle_Fiend",--%%% Magic Circle
+"Target_MagicCircle_Fiend_4",--%%% Magic Circle
+"Target_MagicCircle_Fiend_5",--%%% Magic Circle
+"Target_MagicCircle_Fiend_6",--%%% Magic Circle
+"Target_MagicCircle_Undead",--%%% Magic Circle
+"Target_MagicCircle_Undead_4",--%%% Magic Circle
+"Target_MagicCircle_Undead_5",--%%% Magic Circle
+"Target_MagicCircle_Undead_6",--%%% Magic Circle
+"Target_MagicClub_WoodWoad",--Magic Club
+"Target_MagicWeapon",--Magic Weapon
+"Target_MagicWeapon_3",--
+"Target_MagicWeapon_4",--
+"Target_MagicWeapon_5",--
+"Target_MagicWeapon_6",--
+"Target_MainHandAttack",--Main Hand Attack
+"Target_MainHandAttack_Brewer",--
+"Target_MainHandAttack_GuardianOfFaith",--Strike of the Guardian
+"Target_MainHandAttack_Sahuagin",--
+"Target_MainHandAttack_ShadarKai_GloomWeaver",--Shadow Spear
+"Target_MainHandAttack_SpiritualWeapon_Greataxe",--Greataxe Slash
+"Target_MainHandAttack_SpiritualWeapon_Greatsword",--Greatsword Slash
+"Target_MainHandAttack_SpiritualWeapon_Halberd",--Halberd Slash
+"Target_MainHandAttack_SpiritualWeapon_Maul",--Maul Blow
+"Target_MainHandAttack_SpiritualWeapon_Spear",--Spear Thrust
+"Target_MainHandAttack_SpiritualWeapon_Trident",--Trident Thrust
+"Target_ManeuveringAttack",--Manoeuvring Attack (Melee)
+"Target_MenacingAttack",--Menacing Attack (Melee)
+"Target_MenacingAttack_NPC",--
+"Target_Mending",--Mending
+"Target_MentalSlam_Githyanki",--Psychic Rend
+"Target_MindFlayer_HammerAttack",--Orphic Hammerblow
+"Target_MindMastery_Duergar",--Mind Mastery
+"Target_MindSpike_MindMaster",--
+"Target_MindSpike_NPC",--Mind Spike
+"Target_MinorIllusion",--Minor Illusion
+"Target_MistyEscape_ShadarKai_GloomWeaver",--Shadowslip
+"Target_MistyStep",--Misty Step
+"Target_MistyStep_3",--
+"Target_MistyStep_4",--
+"Target_MistyStep_5",--
+"Target_MistyStep_6",--
+"Target_MistyStep_Djinni",--Shifting Winds
+"Target_MistyStep_Elemental_Air",--
+"Target_MistyStep_Elemental_Earth",--
+"Target_MistyStep_Elemental_Fire",--
+"Target_MistyStep_Elemental_Water",--
+"Target_MistyStep_Free",--
+"Target_MistyStep_Githyanki",--
+"Target_MistyStep_Myrmidon_Air",--Elemental Warp
+"Target_MistyStep_Myrmidon_Earth",--
+"Target_MistyStep_Myrmidon_Fire",--
+"Target_MistyStep_Myrmidon_Water",--
+"Target_MistyStep_Shadow_TEST",--
+"Target_Moonbeam",--Moonbeam
+"Target_Moonbeam_3",--
+"Target_Moonbeam_4",--
+"Target_Moonbeam_5",--
+"Target_Moonbeam_6",--
+"Target_Moonbeam_Move",--Move Moonbeam
+"Target_Moonbeam_Move_3",--
+"Target_Moonbeam_Move_4",--
+"Target_Moonbeam_Move_5",--
+"Target_Moonbeam_Move_6",--
+"Target_Multiattack",--Multiattack
+"Target_Multiattack_Automaton",--
+"Target_Multiattack_Bear",--
+"Target_Multiattack_Cloaker",--
+"Target_Multiattack_Doppelganger",--
+"Target_Multiattack_Dragon",--
+"Target_Multiattack_Dragon_Skeletal",--Multiattack
+"Target_Multiattack_Drider",--Multiattack
+"Target_Multiattack_Elemental_Air",--Multiattack
+"Target_Multiattack_Elemental_Earth",--Multiattack
+"Target_Multiattack_Elemental_Fire",--Multiattack
+"Target_Multiattack_Elemental_Lava",--
+"Target_Multiattack_Elemental_Water",--Multiattack
+"Target_Multiattack_Ettercap",--
+"Target_Multiattack_FleshGolem",--
+"Target_Multiattack_GiantBadger",--
+"Target_Multiattack_GiantEagle",--
+"Target_Multiattack_Gnoll",--
+"Target_Multiattack_Gnoll_Flind_Melee",--
+"Target_Multiattack_Harpy",--
+"Target_Multiattack_Harpy_Hardcore",--
+"Target_Multiattack_HookHorror",--
+"Target_Multiattack_Mummy",--
+"Target_Multiattack_Myconid",--
+"Target_Multiattack_Owlbear",--
+"Target_Multiattack_Redcap",--
+"Target_Multiattack_Sahuagin",--
+"Target_Multiattack_ShadowMound",--
+"Target_Multiattack_Slayer",--
+"Target_Multiattack_Surgeon",--
+"Target_Multiattack_Vampire",--
+"Target_Multiattack_Vampire_Spawn",--
+"Target_Multiattack_Werewolf",--Multiattack
+"Target_NULLSPELL",--
+"Target_NaturesWrath",--Nature's Wrath
+"Target_ORI_Gale_ShadowSummon",--Conjure Shadow Lantern Wraith
+"Target_ORI_Wyll_SummonCambion",--
+"Target_OUT_PlagueHouse_LesserRestoration",--
+"Target_ObliterationOrb_Netherbrain",--Orb of Negation
+"Target_OfferSelf_Necromite",--For the Lord of Bones!
+"Target_OffhandAttack",--Off-Hand Attack (Melee)
+"Target_Oil_Of_The_Basilisk",--Oil of the Basilisk
+"Target_OpenHandTechnique_Knock",--Flurry of Blows: Topple
+"Target_OpenHandTechnique_NoReactions",--Flurry of Blows: Stagger
+"Target_OpenHandTechnique_Push",--Flurry of Blows: Push
+"Target_OpenWounds_Redcap",--Open Wounds
+"Target_OpeningAttack",--Flourish
+"Target_PLAYERS_TADPOLE",--
+"Target_PLA_Githyanki_Rally",--
+"Target_PLA_ShieldOfFaith_SwordOfJustice",--Tyr's Protection
+"Target_PLA_ZhentDungeon_Punch",--
+"Target_PacifyingSpores",--Pacifying Spores
+"Target_PactOfTheChain_Imp",--Find Familiar: Imp
+"Target_PactOfTheChain_Quasit",--Find Familiar: Quasit
+"Target_ParalyzingRay_Spectator",--Paralysing Ray
+"Target_PhantasmalForce",--Phantasmal Force
+"Target_PhantasmalForce_3",--
+"Target_PhantasmalForce_4",--
+"Target_PhantasmalForce_5",--
+"Target_PhantasmalForce_6",--
+"Target_PhantasmalKiller",--Phantasmal Killer
+"Target_PhantasmalKiller_5",--
+"Target_PhantasmalKiller_6",--
+"Target_Pierce_GoldenLance",--Pierce
+"Target_PiercingThrust",--Piercing Strike
+"Target_PiercingThrust_SpiritualWeapon_Spear",--
+"Target_PiercingThrust_SpiritualWeapon_Trident",--
+"Target_PlanarAlly_Cambion",--Planar Ally: Cambion
+"Target_PlanarAlly_Container",--Planar Ally
+"Target_PlanarAlly_Deva",--Planar Ally: Deva
+"Target_PlanarAlly_Deva_Banite",--
+"Target_PlanarAlly_Djinni",--Planar Ally: Djinni
+"Target_PlanarBinding",--Planar Binding
+"Target_PlanarBinding_6",--
+"Target_PlantGrowth",--Plant Growth
+"Target_PlantGrowth_4",--
+"Target_PlantGrowth_5",--
+"Target_PlantGrowth_6",--
+"Target_Poison_Trap",--Contact Poison
+"Target_PolearmMaster_BonusAttack",--Polearm Clout
+"Target_Polymorph",--Polymorph
+"Target_Polymorph_5",--
+"Target_Polymorph_6",--
+"Target_Polymorph_Shapechanger",--Shapechanger
+"Target_PommelStrike",--Pommel Strike
+"Target_Portent_Interrupt",--Portent
+"Target_PostureBreaker",--Backbreaker
+"Target_PowerWordKill",--Power Word Kill
+"Target_ProjectedWard_Interrupt",--Projected Ward
+"Target_ProtectionFromEnergy",--Protection from Energy
+"Target_ProtectionFromEnergy_Acid",--Protection from Energy: Acid
+"Target_ProtectionFromEnergy_Acid_4",--
+"Target_ProtectionFromEnergy_Acid_5",--
+"Target_ProtectionFromEnergy_Acid_6",--
+"Target_ProtectionFromEnergy_Cold",--Protection from Energy: Cold
+"Target_ProtectionFromEnergy_Cold_4",--
+"Target_ProtectionFromEnergy_Cold_5",--
+"Target_ProtectionFromEnergy_Cold_6",--
+"Target_ProtectionFromEnergy_Fire",--Protection from Energy: Fire
+"Target_ProtectionFromEnergy_Fire_4",--
+"Target_ProtectionFromEnergy_Fire_5",--
+"Target_ProtectionFromEnergy_Fire_6",--
+"Target_ProtectionFromEnergy_Lightning",--Protection from Energy: Lightning
+"Target_ProtectionFromEnergy_Lightning_4",--
+"Target_ProtectionFromEnergy_Lightning_5",--
+"Target_ProtectionFromEnergy_Lightning_6",--
+"Target_ProtectionFromEnergy_Thunder",--Protection from Energy: Thunder
+"Target_ProtectionFromEnergy_Thunder_4",--
+"Target_ProtectionFromEnergy_Thunder_5",--
+"Target_ProtectionFromEnergy_Thunder_6",--
+"Target_ProtectionFromEvilAndGood",--Protection from Evil and Good
+"Target_ProtectionFromEvilAndGood_2",--Protection from Evil and Good
+"Target_ProtectionFromEvilAndGood_3",--Protection from Evil and Good
+"Target_ProtectionFromEvilAndGood_4",--
+"Target_ProtectionFromEvilAndGood_5",--
+"Target_ProtectionFromEvilAndGood_6",--
+"Target_ProtectionFromPoison",--Protection from Poison
+"Target_ProtectionFromPoison_3",--
+"Target_ProtectionFromPoison_4",--
+"Target_ProtectionFromPoison_5",--
+"Target_ProtectionFromPoison_6",--
+"Target_Pseudopod_Ooze_Gray",--Pseudopod
+"Target_PsionicPull",--Psionic Pull
+"Target_PsionicRebuke_Netherbrain",--Retributive Brainquake
+"Target_Pull_DarkVine",--Shadow Pull
+"Target_PushingAttack",--Pushing Attack (Melee)
+"Target_PushingAttack_NPC",--
+"Target_REGION",--
+"Target_Rage_Sahuagin",--Blood Frenzy
+"Target_RagingVortex_Myrmidon_Air",--Raging Vortex
+"Target_Rally",--Rally
+"Target_Rally_NPC",--
+"Target_RangersCompanion",--Ranger's Companion
+"Target_RangersCompanion_Bear",--Bear Companion
+"Target_RangersCompanion_Boar",--Boar Companion
+"Target_RangersCompanion_Boar_NPC",--Boar Companion
+"Target_RangersCompanion_GiantRangedSpider_NPC",--Shooting Spider Companion
+"Target_RangersCompanion_GiantSpider",--Wolf Spider Companion
+"Target_RangersCompanion_GiantSpider_NPC",--Giant Spider Companion
+"Target_RangersCompanion_NPC",--
+"Target_RangersCompanion_Raven",--Dire Raven Companion
+"Target_RangersCompanion_Wolf",--Wolf Companion
+"Target_RangersCompanion_Wolf_NPC",--Wolf Companion
+"Target_RangersCompanion_Worg_NPC",--Worg Companion
+"Target_RecklessAttack",--Reckless Attack
+"Target_Reduce",--Reduce
+"Target_Reduce_3",--
+"Target_Reduce_4",--
+"Target_Reduce_5",--
+"Target_Reduce_6",--
+"Target_Reduce_LifeCleric",--
+"Target_RemoveCurse",--Remove Curse
+"Target_RemoveCurse_4",--
+"Target_RemoveCurse_5",--
+"Target_RemoveCurse_6",--
+"Target_RendVision_RavenFamiliar_Summon",--
+"Target_RendVision_Raven_Summon",--Rend Vision
+"Target_ResilientSphere",--Otiluke's Resilient Sphere
+"Target_ResilientSphere_5",--
+"Target_ResilientSphere_6",--
+"Target_Resistance",--Resistance
+"Target_RipandShred_SaberTooth_Tiger",--Shred Armour
+"Target_Riposte",--Riposte
+"Target_RiseUndead_DeathShepherd",--No Rest for the Wicked
+"Target_RiseUndead_DeathShepherd_Hardcore",--No Rest for the Wicked
+"Target_SCE_TieflingFollowup_BardicInspiration",--Improved Bardic Inspiration
+"Target_SCL_Oliver_Claws_Shadow",--
+"Target_SCL_Oliver_InflictWounds_Shadow_Parents",--Daddy's Lecture
+"Target_SCL_Oliver_Sleep_Shadow_Parents",--Mummy's Lullaby
+"Target_SCL_Oliver_StrengthDrain_Shadow_Parents",--
+"Target_SCL_RendVision_Raven_HeWhoWas",--
+"Target_SCL_ShadowBird_UnarmedAttack_1",--
+"Target_SCL_ShadowBird_UnarmedAttack_2",--
+"Target_SHA_Apprentice_DaggerOfShar_Spell",--
+"Target_SHA_Ghoul_ExpertStitching",--Expert Stitching
+"Target_SHA_Ghoul_ExpertStitching_Hardcore",--
+"Target_SHA_Justiciar_BeckoningDarkness",--Beckoning Darkness
+"Target_SHA_Justiciar_BeckoningDarkness_Lyrthindor",--
+"Target_SHA_Justiciar_LifeDrain",--Life Drain
+"Target_SHA_Justiciar_OverwhelmingGrief",--Overwhelming Grief
+"Target_SHA_Justiciar_ShadowStep",--
+"Target_SHA_Justiciar_Sleep",--
+"Target_SHA_Justiciar_Sleep_Lyrthindor",--
+"Target_SHA_Justiciar_UntenableSecret",--Untenable Secret
+"Target_SHA_Justiciar_UntenableSecret_Ally",--Share Untenable Secret
+"Target_SHA_Necromancer_ChillTouch",--
+"Target_SHA_Necromancer_Cloudkill",--
+"Target_SHA_Necromancer_Cloudkill_Recast",--
+"Target_SHA_Necromancer_DarkDominance",--
+"Target_SHA_Necromancer_HoldPerson",--
+"Target_SHA_Necromancer_ReclaimControl",--Animate Dead
+"Target_SHA_Necromancer_RiseUndead",--
+"Target_SHA_Necromancer_SkeletonFakeAttack",--
+"Target_SHA_RingInvisibility",--
+"Target_SHA_SeluneBlessing_Moonfire",--Moonmote
+"Target_SHA_SelunesBlessing_Moonbeam",--
+"Target_SHA_Shadowquake_Summon_Boss",--Permit Passage
+"Target_SHA_Shadowquake_Summon_Caster",--Permit Passage
+"Target_SHA_Shadowquake_Summon_Dual",--Permit Passage
+"Target_SHA_Shadowquake_Summon_Mace",--Permit Passage
+"Target_SHA_Shadowquake_Summon_Melee",--Permit Passage
+"Target_SHA_Shadowquake_Summon_Ranger",--Permit Passage
+"Target_SHA_Shadowquake_Summon_Shield",--Permit Passage
+"Target_SHA_SharsBlessing_Darkness",--Shar's Darkness
+"Target_SHA_Skeleton_WitheringGift",--Withering Gift
+"Target_SHA_Skeleton_WitheringMark",--Mark of Putrefaction
+"Target_SHA_Skeleton_WitheringSuction",--Withering Theft
+"Target_SHA_Skeleton_WitheringTouch",--Withering Touch
+"Target_SHA_TheLastJusticiar_GrieffulBite",--Grievous Gnaw
+"Target_SINGLE",--
+"Target_SUMMON",--
+"Target_SacredFlame",--Sacred Flame
+"Target_Sanctuary",--Sanctuary
+"Target_Sanctuary_2",--
+"Target_Sanctuary_3",--
+"Target_Sanctuary_4",--
+"Target_Sanctuary_5",--
+"Target_Sanctuary_6",--
+"Target_Sanctuary_Cultist",--
+"Target_Sanctuary_Drider",--
+"Target_Scare_Quasit",--Scare
+"Target_Scare_Quasit_Summon",--
+"Target_Scrying",--Scrying
+"Target_Seeming",--Seeming
+"Target_Seeming_6",--
+"Target_Seeming_6_AI",--
+"Target_Seeming_AI",--
+"Target_Sentinel_AttackOfOpportunity",--
+"Target_ShadowStep",--Shadow Step
+"Target_ShadowStrike_Instant",--Shadow Strike
+"Target_ShadowStrike_Instant_Unarmed",--Shadow Strike: Unarmed
+"Target_ShadowTeleport_Meazel",--Shadow Teleport
+"Target_ShadowTeleport_Meenlock",--Shadow Teleport
+"Target_ShapeTheFlowingRiver_IceBlock",--Shaping of the Ice
+"Target_Shatter",--Shatter
+"Target_Shatter_3",--
+"Target_Shatter_4",--
+"Target_Shatter_5",--
+"Target_Shatter_6",--
+"Target_Shatter_Monk",--Gong of the Summit
+"Target_ShieldBlow_Riposte",--
+"Target_ShieldOfFaith",--Shield of Faith
+"Target_ShieldOfFaith_2",--Shield of Faith
+"Target_ShieldOfFaith_3",--
+"Target_ShieldOfFaith_4",--
+"Target_ShieldOfFaith_5",--
+"Target_ShieldOfFaith_6",--
+"Target_ShieldShove",--Shield Shove
+"Target_ShockingGrasp",--Shocking Grasp
+"Target_ShockingGrasp_Monk",--Touch of the Storm
+"Target_Shove",--Shove
+"Target_Shove_Bugbear",--
+"Target_Shove_Gnoll",--
+"Target_Shove_Harpy",--
+"Target_Shove_Hobgoblin",--
+"Target_Shove_MageHand",--
+"Target_Shove_Ogre",--
+"Target_Silence",--Silence
+"Target_Silence_3",--
+"Target_Silence_4",--
+"Target_Silence_5",--
+"Target_Silence_6",--
+"Target_Silence_BookOfAncientSecrets",--
+"Target_Silence_Drider",--
+"Target_Silence_Monk",--Shadow Arts: Silence
+"Target_Silence_Ritual",--
+"Target_Slam_AdamantineGolem",--Slam
+"Target_Slam_AdamantineGolem_Fallback",--
+"Target_Slam_BloodSkeleton",--Blood Skeleton Slam
+"Target_Slam_Doppelganger",--Slam
+"Target_Slam_Dragon",--Slam
+"Target_Slam_Dragon_Skeletal",--Slam
+"Target_Slam_Elemental_Earth",--Soil-Clogged Slam
+"Target_Slam_Elemental_Lava",--
+"Target_Slam_Elemental_Water",--Slam
+"Target_Slam_FleshGolem",--Slam
+"Target_Slam_MudElemental",--Slam
+"Target_Slam_Ogre",--Slam
+"Target_Slam_ShadowMound",--Slam
+"Target_Slam_Slayer",--Slay
+"Target_Slam_Slayer_10",--
+"Target_Slam_VampireSquid_Tentacle",--Sucker Slam
+"Target_Slam_Zombie",--Slam
+"Target_Slam_Zombie_AnimateDead",--
+"Target_Slam_Zombie_Greater",--
+"Target_Slash",--Slash
+"Target_Slash_New",--Lacerate
+"Target_Slash_SpiritualWeapon_Greataxe",--
+"Target_Slash_SpiritualWeapon_Greatsword",--
+"Target_Slash_SpiritualWeapon_Halberd",--
+"Target_Sleep",--Sleep
+"Target_Sleep_2",--Sleep
+"Target_Sleep_2_AI",--
+"Target_Sleep_3",--Sleep
+"Target_Sleep_3_AI",--
+"Target_Sleep_4",--
+"Target_Sleep_4_AI",--
+"Target_Sleep_5",--
+"Target_Sleep_5_AI",--
+"Target_Sleep_6",--
+"Target_Sleep_6_AI",--
+"Target_Sleep_AI",--
+"Target_Sleep_MindFlayer",--
+"Target_SleetStorm",--Sleet Storm
+"Target_SleetStorm_4",--
+"Target_SleetStorm_5",--
+"Target_SleetStorm_6",--
+"Target_Slow",--Slow
+"Target_Slow_4",--
+"Target_Slow_4_AI",--
+"Target_Slow_5",--
+"Target_Slow_5_AI",--
+"Target_Slow_6",--
+"Target_Slow_6_AI",--
+"Target_Slow_AI",--
+"Target_Slow_AI_TargetCondition",--
+"Target_Smash",--Smash
+"Target_Smite_Banishing",--Banishing Smite (Melee)
+"Target_Smite_Banishing_6",--
+"Target_Smite_Blinding",--Blinding Smite
+"Target_Smite_Blinding_4",--
+"Target_Smite_Blinding_5",--
+"Target_Smite_Blinding_6",--
+"Target_Smite_Branding",--Branding Smite (Melee)
+"Target_Smite_Branding_3",--
+"Target_Smite_Branding_4",--
+"Target_Smite_Branding_5",--
+"Target_Smite_Branding_6",--
+"Target_Smite_Branding_Container",--Branding Smite
+"Target_Smite_Branding_ZarielTiefling",--
+"Target_Smite_Branding_ZarielTiefling_Container",--Legacy of Avernus: Branding Smite
+"Target_Smite_Divine",--Divine Smite
+"Target_Smite_Divine_2",--
+"Target_Smite_Divine_3",--
+"Target_Smite_Divine_4",--
+"Target_Smite_Divine_5",--
+"Target_Smite_Divine_6",--
+"Target_Smite_Divine_Critical_Unlock",--Divine Smite Critical: Reaction
+"Target_Smite_Divine_Critical_Unlock_2",--
+"Target_Smite_Divine_Critical_Unlock_3",--
+"Target_Smite_Divine_Critical_Unlock_4",--
+"Target_Smite_Divine_Critical_Unlock_5",--
+"Target_Smite_Divine_Critical_Unlock_6",--
+"Target_Smite_Divine_Unlock",--Divine Smite: Reaction
+"Target_Smite_Divine_Unlock_2",--
+"Target_Smite_Divine_Unlock_3",--
+"Target_Smite_Divine_Unlock_4",--
+"Target_Smite_Divine_Unlock_5",--
+"Target_Smite_Divine_Unlock_6",--
+"Target_Smite_Searing",--Searing Smite
+"Target_Smite_Searing_2",--Searing Smite
+"Target_Smite_Searing_3",--Searing Smite
+"Target_Smite_Searing_4",--
+"Target_Smite_Searing_5",--
+"Target_Smite_Searing_6",--
+"Target_Smite_Searing_AnimTest",--
+"Target_Smite_Searing_Azer",--
+"Target_Smite_Searing_ZarielTiefling",--Legacy of Avernus: Searing Smite
+"Target_Smite_Thunderous",--Thunderous Smite
+"Target_Smite_Thunderous_2",--
+"Target_Smite_Thunderous_3",--
+"Target_Smite_Thunderous_4",--
+"Target_Smite_Thunderous_5",--
+"Target_Smite_Thunderous_6",--
+"Target_Smite_Wrathful",--Wrathful Smite
+"Target_Smite_Wrathful_2",--Wrathful Smite
+"Target_Smite_Wrathful_3",--
+"Target_Smite_Wrathful_4",--
+"Target_Smite_Wrathful_5",--
+"Target_Smite_Wrathful_6",--
+"Target_SmolderingTouch_Elemental_Fire",--Smouldering Touch
+"Target_SneakAttack",--Sneak Attack (Melee)
+"Target_SneakAttack_Swarm",--
+"Target_SpareTheDying",--Spare the Dying
+"Target_SpeakWithDead",--Speak with Dead
+"Target_SpeakWithDead_4",--
+"Target_SpeakWithDead_5",--
+"Target_SpeakWithDead_6",--
+"Target_SpeakWithDead_Amulet_CHA",--
+"Target_SpeakWithDead_FreeRecast",--Recast Speak with Dead
+"Target_SpeakWithDead_Test",--Speak with Dead
+"Target_SpeakWithDead_WhispersOfTheGrave",--
+"Target_SpikeGrowth",--Spike Growth
+"Target_SpikeGrowth_3",--
+"Target_SpikeGrowth_4",--
+"Target_SpikeGrowth_5",--
+"Target_SpikeGrowth_6",--
+"Target_SpikeGrowth_Dryad",--
+"Target_SpiritualWeapon",--Spiritual Weapon
+"Target_SpiritualWeapon_Greataxe",--Spiritual Weapon: Greataxe
+"Target_SpiritualWeapon_Greataxe_3",--
+"Target_SpiritualWeapon_Greataxe_4",--
+"Target_SpiritualWeapon_Greataxe_5",--
+"Target_SpiritualWeapon_Greataxe_6",--
+"Target_SpiritualWeapon_Greatsword",--Spiritual Weapon: Greatsword
+"Target_SpiritualWeapon_Greatsword_3",--
+"Target_SpiritualWeapon_Greatsword_4",--
+"Target_SpiritualWeapon_Greatsword_5",--
+"Target_SpiritualWeapon_Greatsword_6",--
+"Target_SpiritualWeapon_Halberd",--Spiritual Weapon: Halberd
+"Target_SpiritualWeapon_Halberd_3",--
+"Target_SpiritualWeapon_Halberd_4",--
+"Target_SpiritualWeapon_Halberd_5",--
+"Target_SpiritualWeapon_Halberd_6",--
+"Target_SpiritualWeapon_Maul",--Spiritual Weapon: Maul
+"Target_SpiritualWeapon_Maul_3",--
+"Target_SpiritualWeapon_Maul_4",--
+"Target_SpiritualWeapon_Maul_5",--
+"Target_SpiritualWeapon_Maul_6",--
+"Target_SpiritualWeapon_Spear",--Spiritual Weapon: Spear
+"Target_SpiritualWeapon_Spear_3",--
+"Target_SpiritualWeapon_Spear_4",--
+"Target_SpiritualWeapon_Spear_5",--
+"Target_SpiritualWeapon_Spear_6",--
+"Target_SpiritualWeapon_Trident",--Spiritual Weapon: Trident
+"Target_SpiritualWeapon_Trident_3",--
+"Target_SpiritualWeapon_Trident_4",--
+"Target_SpiritualWeapon_Trident_5",--
+"Target_SpiritualWeapon_Trident_6",--
+"Target_SpitefulSuffering",--Spiteful Suffering
+"Target_SpreadingSpores",--Spreading Spores
+"Target_StageFright",--Stage Fright
+"Target_StaggeringSmite",--Staggering Smite
+"Target_StaggeringSmite_5",--
+"Target_StaggeringSmite_6",--
+"Target_SteelWatcher_Biped_Pacify",--Reprimand
+"Target_SteelWatcher_Biped_RetrievingShot",--Reposition Malefactor
+"Target_SteelWatcher_Biped_UnarmedStrike",--
+"Target_SteelWatcher_Greatsword",--
+"Target_SteelWatcher_Greatsword_Quadruped",--
+"Target_SteelWatcher_Greatsword_Quadruped_Multiattack",--Multiattack
+"Target_SteelWatcher_Quadruped_ScryingForWeaknesses",--Hellfire Curse
+"Target_SteelWatcher_Quadruped_UnarmedStrike",--
+"Target_StickyPaws_Bear",--Honeyed Paws
+"Target_Sting_Imp",--Sting
+"Target_Sting_Imp_Summon",--
+"Target_StinkingCloud",--Stinking Cloud
+"Target_StinkingCloud_4",--
+"Target_StinkingCloud_5",--
+"Target_StinkingCloud_6",--
+"Target_Stoneskin",--Stoneskin
+"Target_Stoneskin_5",--
+"Target_Stoneskin_6",--
+"Target_StormsFury",--Storm's Fury
+"Target_StrengthDrain_Shadow",--Strength Drain
+"Target_StrengthDrain_Shadow_Hardcore",--
+"Target_StunningGaze",--Stunning Gaze
+"Target_StunningGaze_DeathsHead",--
+"Target_StunningGaze_DeathsHead_Hardcore",--
+"Target_StunningStrike",--Stunning Strike (Melee)
+"Target_StunningStrike_Unarmed",--Stunning Strike (Unarmed)
+"Target_SummonZombie_CorpseFlower",--Summon Zombie
+"Target_Summon_Brewer_Acid",--Acid Hallucination
+"Target_Summon_Brewer_Cold",--Cold Hallucination
+"Target_Summon_Brewer_Fire",--Fire Hallucination
+"Target_Summon_Brewer_Lightning",--Lightning Hallucination
+"Target_Summon_Brewer_Poison",--Poison Hallucination
+"Target_Summon_ExtraBear_Bear",--Ursine Reinforcements
+"Target_Summon_MudMephit",--Summon Mephit
+"Target_Summon_Quasit",--Summon Quasit
+"Target_Summon_TollCollector",--Summon coin halberd
+"Target_Summon_WoodWoad_Dryad",--Fallen Lover
+"Target_SupernaturalAttraction",--Supernatural Attraction
+"Target_SurgeonHeal_Nurse",--Obliging Assistant
+"Target_SurgeryAttack_Bonesaw_Surgeon",--Bloody Bonesaw
+"Target_SurgeryAttack_Leech_Surgeon",--Lethal Leech
+"Target_SurgeryAttack_Syringe_Surgeon",--This Won't Hurt A Bit
+"Target_SurgeryAttack_Trepan_Surgeon",--Terror Trepan
+"Target_SurgeryEnabler_Bonesaw_Nurse",--Hand Me My Saw
+"Target_SurgeryEnabler_Leech_Nurse",--Hand Me My Leech
+"Target_SurgeryEnabler_Syringe_Nurse",--Hand Me My Syringe
+"Target_SurgeryEnabler_Trepan_Nurse",--Hand Me My Trepan
+"Target_SurgeryInstruRequest_Surgeon",--Request Surgical Instrument
+"Target_SurvivalInstinct",--Survival Instinct
+"Target_TADPOLE",--
+"Target_TAD_AbsorbIntellect",--Absorb Intellect
+"Target_TAD_BlackHole",--Black Hole
+"Target_TAD_BlackHole_Recast",--
+"Target_TAD_Charm",--Tadpole Charm
+"Target_TAD_ConcentratedBlast",--Concentrated Blast
+"Target_TAD_Imperil",--Fracture Psyche
+"Target_TAD_Imperil_Recast",--Shatter Psyche
+"Target_TAD_MindSanctuary",--Mind Sanctuary
+"Target_TAD_PerilousStakes",--Perilous Stakes
+"Target_TAD_PsionicBacklash",--
+"Target_TAD_PsionicDominance",--Psionic Dominance
+"Target_TAD_ShieldOfThralls",--Shield of Thralls
+"Target_TAD_TransfuseHealth",--Transfuse Health
+"Target_TEST",--
+"Target_TEST_MonkStrike",--
+"Target_TOUCH",--
+"Target_TRAP",--
+"Target_TWN_AasimarSurvivor_StrengthDrain",--
+"Target_TWN_ArabellaPowers_ShadowEnsnare",--Arabella's Shadow Entangle
+"Target_TWN_CharmPerson",--
+"Target_TWN_FeignDeath",--
+"Target_TWN_Owlbear_ShadowClaws",--Shadowy Claws
+"Target_TWN_PlaquePuzzle_DivineSmite_2",--
+"Target_TWN_PlaquePuzzle_WrathfulSmite",--
+"Target_TWN_RegretfulHunter_SoulRelease",--
+"Target_TWN_RegretfulHunter_SoulRelease_Debug",--
+"Target_TWN_ShadowTorrent",--Shadow Torrent
+"Target_TWN_Slam_Zombie_Brewer",--
+"Target_TWN_Slam_Zombie_Brewer_Hardcore",--
+"Target_TWN_Tollhouse_FleshToGold",--Flesh to Gold
+"Target_TWN_WardingBond",--Gentle Warding Bond
+"Target_Talons",--Talons
+"Target_Talons_GiantEagle",--
+"Target_Telekinesis_Goblin",--
+"Target_Teleport_Shadow",--Dark Currents
+"Target_Tentacle_CorpseFlower",--Tentacle
+"Target_Tentacle_DisplacerBeast",--Tentacle Whip
+"Target_Tentacles_MindFlayer",--Tentacle Whip
+"Target_Tentacles_MindFlayer_NoStun",--Tentacle Lash
+"Target_TerrifyingGlare_Scarecrow",--Terrible Stare
+"Target_ThornWhip",--Thorn Whip
+"Target_ThornWhip_ShadowMound",--Adhesive Whip
+"Target_ThunderousPunch_Myrmidon_Earth",--Grounded Thunder Strike
+"Target_ThunderousPunch_Wildshape_Myrmidon_Earth",--
+"Target_Tongue_Mimic",--Pseudopod Lash
+"Target_Topple",--Topple
+"Target_TransmutersStone",--Transmuter's Stone
+"Target_TransmutersStone_Constitution",--Transmuter's Stone: Constitution
+"Target_TransmutersStone_Darkness",--Transmuter's Stone: Darkvision
+"Target_TransmutersStone_MovementSpeed",--Transmuter's Stone: Movement Speed
+"Target_TransmutersStone_Resistance_Acid",--Transmuter's Stone: Acid Resistance
+"Target_TransmutersStone_Resistance_Cold",--Transmuter's Stone: Cold Resistance
+"Target_TransmutersStone_Resistance_Fire",--Transmuter's Stone: Fire Resistance
+"Target_TransmutersStone_Resistance_Lightning",--Transmuter's Stone: Lightning Resistance
+"Target_TransmutersStone_Resistance_Thunder",--Transmuter's Stone: Thunder Resistance
+"Target_TripAttack",--Trip Attack (Melee)
+"Target_TripAttack_NPC",--
+"Target_TrueSeeing",--True Seeing
+"Target_TrueStrike",--True Strike
+"Target_Tusk_Boar",--Tusk Attack
+"Target_Tusk_Boar_Summon",--
+"Target_Tusk_Boar_Weak",--
+"Target_UND_Bless_StaffBlessMystra",--
+"Target_UND_DeadInTheWater_Shove",--
+"Target_UND_DeadInWater_Invisibility",--
+"Target_UND_Light_Tower_Ring",--
+"Target_UND_LoneDuergar_AnimateDead",--
+"Target_UND_LoneDuergar_AnimateDead_Hardcore",--
+"Target_UND_MonkAmulet_Ability",--
+"Target_UND_Multiattack_Myconid_Glut",--
+"Target_UND_MushroomHunter_MistyStep",--
+"Target_UND_MyconidAmulet_Evil",--Tyrant Tongue
+"Target_UND_MyconidAmulet_Good",--Voice of the Circle
+"Target_UND_MyconidSovereign_BlissSpores",--Bliss Spores
+"Target_UND_MyconidSovereign_FakeAnimatingSpores",--
+"Target_UND_Myconid_UseBarrelStalk",--Barrelstalk
+"Target_UND_Nere_Coercion",--Wicked Coercion
+"Target_UND_PetrifiedDrow_HealingWord",--
+"Target_UND_Smite_Searing_DuergarBlacksmithHammer",--
+"Target_UND_Spectator_Bite",--
+"Target_UND_Spectator_Ray_Fear",--
+"Target_UND_Spectator_Ray_Paralyzing",--
+"Target_UND_Spectator_Ray_Wounding",--
+"Target_UND_Spectator_UnpetrifyingRay",--Unpetrification Ray
+"Target_UNI_MistyStep_DrowCommander_Amulet",--
+"Target_UNI_MistyStep_NightWalkers",--
+"Target_UnarmedAttack",--Unarmed Strike
+"Target_UnarmedAttack_Gnoll_Gnawer",--
+"Target_UnarmedAttack_Gnoll_Newborn",--Claws
+"Target_UnarmedStrike_Monk",--Unarmed Strike
+"Target_VampireBite_Astarion",--Vampire Bite
+"Target_VampiricTouch",--Vampiric Touch
+"Target_VampiricTouch_4",--
+"Target_VampiricTouch_5",--
+"Target_VampiricTouch_6",--
+"Target_VampiricTouch_Free",--Recast Vampiric Touch
+"Target_VampiricTouch_Free_4",--
+"Target_VampiricTouch_Free_5",--
+"Target_VampiricTouch_Free_6",--
+"Target_ViciousMockery",--Vicious Mockery
+"Target_VoiceOfCommand",--Voice of Command
+"Target_Volley",--Volley
+"Target_VowOfEnmity",--Vow of Enmity
+"Target_WEAPON ATTACK",--
+"Target_WEAPON_ACTION_TARGET",--
+"Target_WYR_Chess_MovePiece1",--Move Piece
+"Target_WYR_Chess_MovePiece10",--
+"Target_WYR_Chess_MovePiece11",--
+"Target_WYR_Chess_MovePiece12",--
+"Target_WYR_Chess_MovePiece13",--
+"Target_WYR_Chess_MovePiece14",--
+"Target_WYR_Chess_MovePiece15",--
+"Target_WYR_Chess_MovePiece16",--
+"Target_WYR_Chess_MovePiece17",--
+"Target_WYR_Chess_MovePiece2",--
+"Target_WYR_Chess_MovePiece3",--
+"Target_WYR_Chess_MovePiece4",--
+"Target_WYR_Chess_MovePiece5",--
+"Target_WYR_Chess_MovePiece6",--
+"Target_WYR_Chess_MovePiece7",--
+"Target_WYR_Chess_MovePiece8",--
+"Target_WYR_Chess_MovePiece9",--
+"Target_WYR_Circus_TeleportBoots_MistyStep",--
+"Target_WYR_CreateHelper_Gortash_GrenadeLauncher",--
+"Target_WYR_CreateHelper_Gortash_Incinerator",--
+"Target_WYR_CrushingFist_Gortash",--The Closed Fist of Bane
+"Target_WYR_Dribbles_Dog_Bite",--
+"Target_WYR_Dribbles_Dog_Blink",--Blink
+"Target_WYR_ExtractBrain_MindFlayer_AlwaysHit",--
+"Target_WYR_MultiAttack_MudElemental",--
+"Target_WYR_PolymorhphCheese_Djinni",--Careful What You Wish For
+"Target_WYR_SentientAmulet_AmuletAfterCombat",--
+"Target_WYR_SentientAmulet_HideousLaughter",--
+"Target_WYR_SentientAmulet_MonkHeal",--
+"Target_WYR_SharessCaress_DapperDrow_Garrote",--
+"Target_WYR_Shield_Capacitor_Gortash",--Shell of Resistance
+"Target_WYR_Shield_Capacitor_Gortash_Debuff",--Malfunctioning Shell of Resistance
+"Target_WYR_SmugglersCave_RangersCompanion_Wolf",--
+"Target_WYR_SmugglersCave_WaterElemental",--
+"Target_WYR_StinkingCloudCheese",--
+"Target_WYR_Summon_Manifestation_Gortash",--Manifestation of Tyranny
+"Target_WYR_Summon_Manifestation_Gortash_Armed",--Armed Manifestation of Tyranny
+"Target_WYR_Tentacles_MindFlayer_NoDamageNoResist",--
+"Target_WYR_UnarmedAttack_Bane_Gortash",--Empowered Unarmed Strike
+"Target_WarGodsBlessing_Interrupt",--War God's Blessing
+"Target_WarMagic_Githyanki_Attack",--
+"Target_WardingBond",--Warding Bond
+"Target_WardingBond_3",--
+"Target_WardingBond_4",--
+"Target_WardingBond_5",--
+"Target_WardingBond_6",--
+"Target_WaterWhip",--Water Whip
+"Target_WaterWhip_Prone",--Water Whip: Knock Prone
+"Target_WaterWhip_Pull",--Water Whip: Pull
+"Target_WaterWhip_Umberlee",--
+"Target_Web",--Web
+"Target_Web_3",--
+"Target_Web_4",--
+"Target_Web_5",--
+"Target_Web_6",--
+"Target_Web_Ettercap",--
+"Target_Web_Spider",--
+"Target_Web_Spider_Summon",--
+"Target_Web_Spider_WildShape",--
+"Target_Whip_DarkVine",--Cursed Thorns
+"Target_Whip_DarkVine_Giant",--
+"Target_Whip_TollCollector_Left",--Left Coin Whip
+"Target_Whip_TollCollector_Right",--Right Coin Whip
+"Target_Whirlwind_Djinni",--Sweetplum Gales
+"Target_WildMagicBarbarian_ExplodingFlumph",--Wild Magic: Intangible Spirit
+"Target_WildMagicBarbarian_Teleport",--Wild Magic: Teleport
+"Target_WildMagic_Teleport",--Wild Magic: Teleport
+"Target_WoundingRay_Spectator",--Wounding Ray
+"Target_WrathOfTheStorm_Lightning",--Wrath of the Storm: Lightning
+"Target_WrathOfTheStorm_Thunder",--Wrath of the Storm: Thunder
+"Target_Wrathful_Smite_Deva",--
+"Target_ZZZ_TestCase_SavingThrow",--%%% Test Spell
+"Target__CHA",--
+"Target__CRE",--
+"Target__DEN",--
+"Target__END",--
+"Target__FOR",--
+"Target__GOB",--
+"Target__HAG",--
+"Target__HAV",--
+"Target__LOW",--
+"Target__MAG",--
+"Target__MOO",--
+"Target__OUT",--
+"Target__PLA",--
+"Target__SCL",--
+"Target__SHA",--
+"Target__TWN",--
+"Target__UND",--
+"Target__WYR",--
+"Teleportation_ArcaneGate",--Arcane Gate
+"Teleportation_DimensionDoor",--Dimension Door
+"Teleportation_DimensionDoor_5",--Dimension Door
+"Teleportation_DimensionDoor_6",--Dimension Door
+"Teleportation_Displacement_DisplacerBeast",--Displace
+"Teleportation_END_Orpheus_DimensionDoor",--
+"Teleportation_HAG_HusbandResurrection",--
+"Teleportation_ITEMS",--
+"Teleportation_MAG_ArcaneGate",--
+"Teleportation_MAG_Dolor_DimensionDoor",--
+"Teleportation_MAG_Revivify",--
+"Teleportation_Resurrection",--Resurrection
+"Teleportation_Revivify",--Revivify
+"Teleportation_Revivify_4",--
+"Teleportation_Revivify_5",--
+"Teleportation_Revivify_6",--
+"Teleportation_Revivify_Deva",--Revivify
+"Teleportation_Revivify_Scroll",--
+"Teleportation_SINGLE",--
+"Teleportation_TrueResurrection_Scroll",--True Resurrection
+"Throw_CRE_BreweryKobolds_Throw_KoboldInventor",--
+"Throw_END_Emperor_Telekinesis",--
+"Throw_END_Orpheus_Telekinesis",--
+"Throw_FrenziedThrow",--Enraged Throw
+"Throw_GOB_Ogre_Throw",--
+"Throw_GOB_Ogre_Throw_TargetA",--
+"Throw_GOB_Ogre_Throw_TargetB",--
+"Throw_ImprovisedWeapon",--Improvised Melee Weapon
+"Throw_ImprovisedWeaponBerserker",--
+"Throw_LOW_BlushingMermaid_Redcap_ThrowGrenade",--
+"Throw_LOW_Chasm_FrenziedThrow",--
+"Throw_LOW_Dolor_ThrowPotion",--
+"Throw_LOW_Doppelganger_ThrowPotion",--
+"Throw_LOW_NineFingers_SneakyDagger",--The Blade Least Expected
+"Throw_LOW_NineFingers_SneakyDagger_2",--The Blade Least Expected
+"Throw_LOW_NineFingers_SneakyDagger_3",--The Blade Least Expected
+"Throw_LOW_Poltergeist_Telekinesis",--Forceful Throw
+"Throw_LOW_Poltergeist_Telekinesis_Combat",--Forceful Throw
+"Throw_MAG_TheThorns_Throw",--Billowing Hurl
+"Throw_MAG_Throw_Githborn_Telekinesis",--
+"Throw_MAG_Throw_Telekinesis",--
+"Throw_MAG_WeaponAction_CometThrow",--Comet
+"Throw_Telekinesis",--Telekinesis
+"Throw_Telekinesis_6",--
+"Throw_Telekinesis_Recast",--
+"Throw_Telekinesis_WildMagic",--
+"Throw_Throw",--Throw
+"Throw_Throw_Bugbear",--
+"Throw_Throw_MageHand",--
+"Throw_Throw_Nurse",--Throw Karabasan's Gift
+"Throw_Throw_Ogre",--
+"Throw_WYR_Circus_AxeThrow",--Rebounding Toss
+"Throw_WYR_Throw_Gortash",--Mechanical Throw
+"Wall_BladeBarrier",--Blade Barrier
+"Wall_END_AllyAbility_VossDragonFire",--Kith'raki Inferno
+"Wall_MAG_Legendary_Chromatic_WallOfFire",--
+"Wall_WallOfFire",--Wall of Fire
+"Wall_WallOfFire_5",--
+"Wall_WallOfFire_6",--
+"Wall_WallOfIce",--Wall of Ice
+"Wall_WallOfStone",--Wall of Stone
+"Wall_WallOfStone_6",--
+"Wall_WallOfThorns",--Wall of Thorns
+"Zone_AOE",--
+"Zone_Belch_Physical_Brewer",--Roaring Belch
+"Zone_BladeFlourish_Slashing",--Slashing Flourish (Melee)
+"Zone_BreathWeapon_Acid",--Acid Breath
+"Zone_BreathWeapon_Cold",--Frost Breath
+"Zone_BreathWeapon_Fire_Cone",--Fire Breath
+"Zone_BreathWeapon_Fire_Line",--
+"Zone_BreathWeapon_Lightning",--Lightning Breath
+"Zone_BreathWeapon_Poison",--Poison Breath
+"Zone_BurningHands",--Burning Hands
+"Zone_BurningHands_2",--Burning Hands
+"Zone_BurningHands_3",--Burning Hands
+"Zone_BurningHands_4",--
+"Zone_BurningHands_5",--
+"Zone_BurningHands_6",--
+"Zone_BurningHands_MephistophelesTiefling",--Legacy of Cania: Burning Hands
+"Zone_BurningHands_Monk",--Sweeping Cinder Strike
+"Zone_CHA_ShellKid_Cup_Spell",--Incongruent Splash
+"Zone_COL_RestoreDrain_MindBlast",--
+"Zone_CRE_PulseTrap_Blast",--Break of Dawn
+"Zone_Cleave",--Cleave
+"Zone_Cleave_Apostle",--Reaper's Scythe
+"Zone_Cleave_Brewer",--Ladle Sweet Anguish
+"Zone_Cleave_SteelWatcher_Greatsword",--Main Hand Attack
+"Zone_Cleave_SteelWatcher_Greatsword_Quadruped",--
+"Zone_ColorSpray",--Colour Spray
+"Zone_ColorSpray_2",--Colour Spray
+"Zone_ColorSpray_3",--Colour Spray
+"Zone_ColorSpray_4",--
+"Zone_ColorSpray_5",--
+"Zone_ColorSpray_6",--
+"Zone_ConcussiveBlast_Orthon",--Concussive Burst
+"Zone_ConeOfCold",--Cone of Cold
+"Zone_ConeOfCold_6",--
+"Zone_ConjureBarrage",--Conjure Barrage
+"Zone_ConjureBarrage_Melee",--Conjure Barrage: Melee Weapon
+"Zone_ConjureBarrage_Ranged",--Conjure Barrage: Ranged Weapon
+"Zone_DEN_ColorSpray_HarpyMeal_NestRing",--
+"Zone_DEN_Prodigy_Thunderwave",--
+"Zone_DigestiveSap_ShadowMound",--Digestive Sap
+"Zone_END_Emperor_MindBlast",--
+"Zone_END_ParalysisTrap",--
+"Zone_Fear",--Fear
+"Zone_Fear_4",--
+"Zone_Fear_5",--
+"Zone_Fear_6",--
+"Zone_Ferocious_Slash_Wolf",--Lupine Slash
+"Zone_GOB_Priestess_Thunderwave",--
+"Zone_GustOfWind",--Gust of Wind
+"Zone_GustOfWind_3",--
+"Zone_GustOfWind_4",--
+"Zone_GustOfWind_5",--
+"Zone_GustOfWind_6",--
+"Zone_GustOfWind_Monk",--Rush of the Gale Spirits
+"Zone_IceMephit_IceBreath",--Ice Breath
+"Zone_Inhale_Djinni",--Drunken Inhale
+"Zone_Kickup_Boar",--Kick Up Muck
+"Zone_LOW_Djinni_Inhale",--
+"Zone_LOW_Fear_Cazador_Ritualist",--
+"Zone_LOW_FlamingFist_SweepingAttack",--
+"Zone_LOW_GreaseWizard_Mephit_Breath",--Greasy Discharge
+"Zone_LOW_MinscHideout_SluiceValve_FireBlast",--Fire Blast
+"Zone_LOW_MinscHideout_SluiceValve_SteamBlast",--Steam Blast
+"Zone_LOW_OskarsBeloved_MindScreech",--Animus Screech
+"Zone_LOW_OskarsBeloved_MindScreech_Easy",--Unnerving Screech
+"Zone_LOW_OskarsBeloved_ObjectThunderwave",--
+"Zone_LOW_Raphael_LanguishingFire",--Flames of Avernus
+"Zone_LOW_Rolan_ColorSpray",--Rolan's Colour Spray
+"Zone_LOW_Rolan_Thunderwave",--Rolan's Thunderwave
+"Zone_LOW_Thunderwave_3_Djinni",--
+"Zone_LOW_Thunderwave_Cazador",--
+"Zone_LightningBolt",--Lightning Bolt
+"Zone_LightningBolt_4",--
+"Zone_LightningBolt_5",--
+"Zone_LightningBolt_6",--
+"Zone_MAG_Automaton_Human_Steelwatcher_HellfireCleave",--Hellflame Cleave
+"Zone_MAG_Automaton_SunbeamShot",--Dazzling Ray
+"Zone_MAG_Automaton_SunbeamShot_Recreate",--Recast Dazzling Ray
+"Zone_MAG_BloodOfLathander_Sunbeam",--
+"Zone_MAG_ChillingHands",--Frosted Harmony Blast
+"Zone_MAG_Fear",--
+"Zone_MAG_FlamingFist_StaffOfFire_BurningHands",--
+"Zone_MAG_Legendary_Chromatic_ConeOfCold",--
+"Zone_MAG_Legendary_Chromatic_LightningBolt",--
+"Zone_MAG_LightningBolt_MonkGloves",--
+"Zone_MAG_LightningHands",--Azure Flash
+"Zone_MAG_RadiatingBeam",--Angelclocker's Aura
+"Zone_MAG_ThunderWave",--
+"Zone_MAG_WindRider_GustOfWind",--
+"Zone_MAG_ZephyrBreak",--Zephyr Break
+"Zone_MF_MindBlast",--
+"Zone_MONSTERS",--
+"Zone_MOO_BloodPotion_BurningHands",--
+"Zone_MOO_BloodPotion_LightningBolt",--
+"Zone_Mag_WeaponAction_GiantBlade",--Colossal Onslaught
+"Zone_Mag_WeaponAction_RazorGale",--Razor Gale
+"Zone_Mephit_FireBreath",--Fire Breath
+"Zone_Mephit_MudBreath",--Mud Breath
+"Zone_MindBlast_MindFlayer",--Mind Blast
+"Zone_MindScreech_Nurse",--Mind Screech
+"Zone_PLA_Chokepoint_DragonBreath",--
+"Zone_PLA_StuckHalfElf_Backdraft",--Backdraft
+"Zone_RangedSwipe_Myrmidon_Fire",--Cinderous Swipe
+"Zone_RangedSwipe_Wildshape_Myrmidon_Fire",--
+"Zone_SHA_Shadow_Manifestation_Fear",--%%% Night Terrors
+"Zone_Slayer_DeathGrowl",--Piercing Growl
+"Zone_SteelWatcher_Biped_ControlledCombustion",--Hellfire Exhaust
+"Zone_StrongWind_GiantEagle",--Gale
+"Zone_Sunbeam",--Sunbeam
+"Zone_Sunbeam_Recreate",--Recast Sunbeam
+"Zone_SweepingAttack",--Sweeping Attack
+"Zone_TAD_MindBlast",--
+"Zone_TUT_MindBlast_MindFlayer",--
+"Zone_TWN_MasonsGuild_FireBreath",--Fire Breath
+"Zone_TWN_MasonsGuild_GratingPush",--Grating Expulsion
+"Zone_TWN_MasonsGuild_StoneWallPush",--Forceful Expulsion
+"Zone_Thunderwave",--Thunderwave
+"Zone_Thunderwave_2",--
+"Zone_Thunderwave_3",--
+"Zone_Thunderwave_4",--
+"Zone_Thunderwave_5",--
+"Zone_Thunderwave_6",--
+"Zone_Thunderwave_Djinni",--
+"Zone_Thunderwave_Monk",--Fist of Four Thunders
+"Zone_TigersBloodlust",--Tiger's Bloodlust
+"Zone_TrumpetOfBlasting_Hollyphant",--Trumpet of Blasting
+"Zone_TrumpetOfSparkles_Hollyphant",--Trumpet of Sparkles
+"Zone_Trumpet_Hollyphant",--Joyous Trumpet
+"Zone_UND_KC_RingOfAbsolute_Thunderwave",--
+"Zone_UND_KethericCity_Trap_FireWave",--Fire Wave
+"Zone_UNI_SuperheavyWeapon_Spell",--Gargantuan Cleave
+"Zone_WEAPON ATTACK",--
+"Zone_WYR_Automaton_SunbeamShot_Gortash",--
+"Zone_WYR_Crossbow_Shotgun_Gortash",--Thunderthoom!
+"Zone_WYR_Djinni_BurningHands",--
+"Zone_WYR_Djinni_Inhale",--
+"Zone_WYR_Incinerator_Gortash",--Incinerate
+"Zone_WYR_Incinerator_Gortash_DangerZone",--
+"Zone_WYR_Mindblast_NoDamageNoResist",--
+"Zone_WintersBreath_Elemental_Water",--Winter's Breath
